@@ -1,0 +1,79 @@
+{
+  "title": "同刻｜一张图读懂时区与作息",
+  "checkedDate": "2026-10-29",
+  "contentScope": "第一版知识总结，所有钟点是固定教学示例，作息条为虚构人物示意。",
+  "creationMethod": "code-native SVG and raster export; no generated image was used",
+  "images": {
+    "png": "summary-timezones-routines-vector.png",
+    "svg": "summary-timezones-routines-vector.svg",
+    "width": 2200,
+    "height": 4050
+  },
+  "sources": [
+    {
+      "title": "NASA Space Place — How Long Is One Day on Other Planets?",
+      "url": "https://spaceplace.nasa.gov/days/en/",
+      "supports": "自转、太阳日与昼夜"
+    },
+    {
+      "title": "IANA — Time Zones",
+      "url": "https://www.iana.org/time-zones",
+      "supports": "民用地方时间规则、UTC偏移、夏令时和规则变更"
+    },
+    {
+      "title": "NIST — Daylight Saving Time Rules",
+      "url": "https://www.nist.gov/pml/time-and-frequency-division/popular-links/daylight-saving-time-dst",
+      "supports": "美国夏令时、跳过与重复钟点；美国示例按具体城市"
+    },
+    {
+      "title": "NIH / NIGMS — Circadian Rhythms",
+      "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+      "supports": "光暗与生物节律、其他环境和个体影响因素"
+    }
+  ],
+  "example": {
+    "instant": "2026-07-15T12:00:00Z",
+    "cities": [
+      [
+        "北京",
+        "Asia/Shanghai",
+        "20:00"
+      ],
+      [
+        "洛杉矶",
+        "America/Los_Angeles",
+        "05:00"
+      ],
+      [
+        "纽约",
+        "America/New_York",
+        "08:00"
+      ],
+      [
+        "伦敦",
+        "Europe/London",
+        "13:00"
+      ],
+      [
+        "新德里",
+        "Asia/Kolkata",
+        "17:30"
+      ],
+      [
+        "东京",
+        "Asia/Tokyo",
+        "21:00"
+      ],
+      [
+        "悉尼",
+        "Australia/Sydney",
+        "22:00"
+      ],
+      [
+        "圣保罗",
+        "America/Sao_Paulo",
+        "09:00"
+      ]
+    ]
+  }
+}

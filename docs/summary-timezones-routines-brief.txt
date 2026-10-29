@@ -1,0 +1,92 @@
+同刻 · 时区与作息总结图制作规格
+
+最终制作方式：代码原生矢量绘制；PNG由SVG渲染。内置image_gen生成服务未成功返回图片，未使用图像API CLI。最终选用经过文字与算例校对的SVG/PNG。
+
+以下为原始内容与设计规格（并非声称生成服务已经成功产出）：
+
+Create ONE finished Simplified-Chinese educational infographic poster, portrait 2:3, high resolution with very legible Chinese text for zooming. Project: 同刻 · 地球时区实验室. This is a complete one-page knowledge summary for a beginner, not software UI. Elegant ivory paper, dark forest green typography, teal accents, amber sun/day, indigo night. Large clear title, numbered sections, neat grids, generous margins. A central stylized Earth with the sun and an eastward rotation arrow must teach day/night. Small diagrams and the local-day routine strip should carry meaning. Do not draw equal longitude strips as legal time zones. All text below is exact content to render; arrange cleanly top-to-bottom without omissions, duplicates or invented facts. Scientific correctness and clear Chinese type matter more than decoration.
+
+标题：同刻｜一张图读懂时区与作息
+研究目标：看懂各地几点 · 判断何时联系 · 读懂国际公告
+核心：对齐同一个瞬间，再确认这个人是否方便。
+
+01｜昼夜、时区、作息，是三件有关联的事
+Draw TWO branches, not one false causal chain:
+太阳照射＋地球自转 → 白昼与黑夜 → 影响生物节律
+地理差异＋社会协作 → 制定公共时区 → 当地钟表读数
+Both meet at: 结合当地钟点与个人日程，判断是否方便联系
+Important: 黑夜来自太阳照射的差异；时区规定钟表读数。改时区，不会改变日照。
+时区是什么？把同一个瞬间换成某地民用日期与钟点的一套规则。
+UTC 是共同标尺；城市时区按日期给出偏移，也可能包含夏令时。
+每15°约一小时是理想模型；现实边界由规则划定，一个国家也可有多个时区。
+
+02｜同一个瞬间，各地钟表不同
+Show large global digital clock cards around/under the Earth; do not incorrectly place all cities on one visible hemisphere.
+固定教学示例：2026-07-15 12:00 UTC
+北京 20:00｜UTC+08:00
+洛杉矶 05:00｜PDT，UTC−07:00
+纽约 08:00｜EDT，UTC−04:00
+伦敦 13:00｜BST，UTC+01:00
+新德里 17:30｜UTC+05:30
+东京 21:00｜UTC+09:00
+悉尼 22:00｜AEST，UTC+10:00
+圣保罗 09:00｜UTC−03:00
+本例均为7月15日；换到其他瞬间，可能跨到前一天或后一天。
+当地时间＝UTC＋当天偏移
+目标时间＝来源时间＋（目标偏移−来源偏移）
+加减后，日期也要一起调整。
+
+03｜当地00:00–06:00，都在睡觉吗？
+Emphasize: 可以作粗略避扰参考，不能当成统一作息。
+Draw a 24-hour strip labeled 一位虚构人物的教学示意. Ticks 00 / 06 / 12 / 18 / 24. Sleep 23:00–07:00 wraps midnight in indigo, work 09:00–18:00 in teal, other hours free. Highlight 00–06 ONLY with an amber outline labeled 粗略避扰参考. Do NOT imply this strip is a national statistic or sleep advice.
+作息＝睡眠、工作、用餐、休闲等生活安排。
+昼夜、地域习惯、职业轮班与个人偏好都会影响安排。
+凌晨不一定在睡，白天也可能休息；午夜也不等于日落。
+00:00–06:00指对方当地钟表，不是UTC，也不代表完整睡眠。
+先换算，再确认本人窗口；不确定时先留言。
+
+04｜日常常见说法：代表城市，非完整清单
+A clean 3-column glossary with exactly these 15 entries, all offsets relative to UTC:
+UTC / Z｜共同标尺 +00:00
+北京 / 新加坡｜+08:00
+东京 / 首尔｜+09:00
+印度｜+05:30
+尼泊尔｜+05:45
+迪拜｜+04:00
+东非（内罗毕）｜+03:00
+PT（洛杉矶）｜−08:00 / −07:00
+MT（丹佛）｜−07:00 / −06:00
+CT（芝加哥）｜−06:00 / −05:00
+ET（纽约）｜−05:00 / −04:00
+伦敦｜+00:00 / +01:00
+中欧（巴黎）｜+01:00 / +02:00
+悉尼｜+10:00 / +11:00
+圣保罗｜−03:00
+双数值依次为标准时／夏令时；是否切换、何时切换，要查城市和日期。
+
+05｜听到“太平洋时间”，怎样区分？
+PT：当地时间统称
+PST：标准时，固定UTC−08:00
+PDT：夏令时，UTC−07:00
+以洛杉矶为例，北京分别快16／15小时，不能全年固定套用。
+有人口语写PST却想表达PT：先核对城市与日期，必要时并列两种解释。
+CST、IST可能重名；优先写城市时区，如America/Los_Angeles。
+One compact example box:
+2026-07-15 洛杉矶00:00 PT → 北京7月15日15:00
+若明确固定PST，同一日00:00 → 北京16:00
+“午夜前”是截止边界，实际可能更早；不是凌晨1点，也不保证零点重置。
+“今天／明天／周五”：先查发帖时刻，再按公告所指地区理解；默认假设要注明。
+
+Bottom action strip:
+日常沟通，按这四步
+① 确认城市、日期与AM/PM
+② 查询当天规则与UTC偏移
+③ 列出双方完整日期与钟点
+④ 确认个人窗口，发送日历
+钟表可以不同，约定必须指向同一瞬间。
+
+Tiny footer:
+依据：NASA昼夜与自转 · IANA时区规则 · NIST夏令时 · NIH/NIGMS生物节律
+同刻 · 第一版知识总结｜2026-10
+
+Accuracy: time zones DO NOT cause darkness; no universal 00–06 sleep or six-hour sleep advice; no claim of exactly 24 real zones; UTC is not London year-round; PT specifically Los Angeles; all timestamps are FIXED examples, NOT live. No watermark, no extra paragraphs, no nonsense glyphs.
