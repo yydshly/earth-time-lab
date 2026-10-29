@@ -1,0 +1,21 @@
+{
+  "title": "Timezone Boundary Builder 2026e — simplified land time-zone regions",
+  "publisher": "Evan Siroky and timezone-boundary-builder contributors",
+  "upstream": "https://github.com/evansiroky/timezone-boundary-builder",
+  "release": "https://github.com/evansiroky/timezone-boundary-builder/releases/tag/2026e",
+  "sourceAsset": "https://github.com/evansiroky/timezone-boundary-builder/releases/download/2026e/timezones.geojson.zip",
+  "releasePublishedAt": "2026-10-11T04:58:36Z",
+  "derivedAt": "2026-10-28",
+  "attribution": "© OpenStreetMap contributors; timezone-boundary-builder contributors",
+  "openStreetMapCopyright": "https://www.openstreetmap.org/copyright",
+  "license": "Open Database License (ODbL) 1.0",
+  "licenseFile": "timezones-DATA-LICENSE.txt",
+  "licenseUrl": "https://opendatacommons.org/licenses/odbl/1-0/",
+  "derivation": "All 419 features from comprehensive land-only combined.json retained. Each geometry simplified with Shapely 2.1.2, tolerance 0.08 coordinate degrees, preserve_topology=True; coordinates rounded to four decimal places. No manual boundary editing. Derived data remains available under ODbL 1.0.",
+  "features": 419,
+  "bytes": 554814,
+  "sha256": "a12b46aa73a74f168047b3779c5753815d6cbe019ec8f68f0b65b26bac17fccc",
+  "displayPolicy": "The teaching view shows Beijing time across the mainland-China Asia/Shanghai polygon. The overlapping Asia/Urumqi regional-practice polygon is retained in the source data but omitted when painting, to avoid presenting UTC+06 as China's official standard time. This display choice is separate from the unmodified tzid features.",
+  "displayPolicyReference": "https://lists.iana.org/hyperkitty/list/tz%40iana.org/thread/OP5JGGZVQKDO5DGYMZGYNLTW5J3E2YPQ/?sort=date",
+  "limitations": "A community-maintained, simplified geographical illustration, not an authoritative legal boundary or coordinate-to-timezone lookup. Covers land time-zone regions; does not claim oceans all follow land civil time. Boundaries are a 2026e snapshot, not historical boundaries. Overlapping areas can exist in upstream data. Current UTC offsets and daylight-saving changes are computed separately through the browser Intl/IANA rules for the selected instant."
+}

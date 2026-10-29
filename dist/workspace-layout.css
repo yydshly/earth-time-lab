@@ -1,0 +1,50 @@
+/* One document, one primary globe. Supporting chrome stays deliberately compact. */
+:root{--workspace-nav-width:184px;--workspace-stage-height:clamp(320px,calc(100dvh - 230px),760px)}
+.sidebar{width:var(--workspace-nav-width);padding:24px 15px 18px}
+.brand{font-size:23px;gap:9px;letter-spacing:2px;margin:0 9px 26px}
+.brand-mark,.brand-mark svg{width:36px;height:39px}
+.nav-caption{margin:0 10px 12px;font-size:10px;letter-spacing:.3px}
+.sidebar nav{gap:4px}
+.nav-item{padding:11px 10px;gap:10px;font-size:12px}
+.sidebar-note{margin:auto 10px 18px;padding-top:24px}
+.sidebar-note .orbit-symbol{font-size:39px}
+.sidebar-note p{font-size:15px;letter-spacing:.5px;margin:10px 0 6px}
+.sidebar-note small{font-size:10px}
+.source-link{margin:0 9px}
+main{margin-left:var(--workspace-nav-width);max-width:none;padding:0 24px}
+.topbar{height:42px;font-size:10px;letter-spacing:0;gap:8px}
+.topbar>div{min-width:0}
+.now-button,.walkthrough-top-entry{font-size:10px;padding:6px 9px}
+.page-heading{margin:13px 0 10px;gap:12px;align-items:center}
+.page-heading h1{font-size:24px;line-height:1.35;letter-spacing:.3px;margin:3px 0 4px}
+.page-heading p{font-size:12px;line-height:1.65;margin:0}
+.page-heading .eyebrow,.page-heading .chapter-number{display:none}
+.live-explaining .page-heading{margin:10px 0 8px}
+.live-explaining .page-heading h1{font-size:24px;margin:3px 0;line-height:1.35}
+.human-mode-switch{display:flex;flex-wrap:nowrap;overflow-x:auto;max-width:100%;gap:3px;padding:3px;margin:0 0 8px;overscroll-behavior-x:contain}
+.human-mode-switch button,.human-mode-switch #reset-open,.human-mode-switch #live-open{flex:0 0 auto;min-width:0;padding:6px 11px;font-size:12px;line-height:1.5;white-space:nowrap}
+.live-explaining{--live-workspace-height:calc(100dvh - 168px)}
+body.walkthrough-active .live-explaining{--live-workspace-height:calc(100dvh - 224px)}
+#explore.live-explaining .explore-grid{grid-template-columns:minmax(0,1fr);min-width:0;gap:8px}
+#explore.live-explaining .earth-panel{width:100%;max-width:100%;min-width:0}
+.live-explaining :is(.live-workspace-top,.live-header,.live-header>div,.live-city-dock,.live-dock-clocks,.live-inline-narration){min-width:0;max-width:100%}
+.globe-city-label.is-selected .is-speaking-field{color:#213e35!important;background:#fff1bd!important;text-shadow:none}
+.lesson-assist .time-context-main{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:6px;align-items:center}
+.lesson-assist .time-context-mode{grid-column:1;min-width:0}
+.lesson-assist .time-context-clocks{grid-column:1/-1;grid-row:2;display:block;min-width:0;font-size:11px}
+.lesson-assist .time-context-clocks>span{display:block;font-size:11px;line-height:1.6;overflow-wrap:normal}
+.lesson-assist .time-context-now{grid-column:2;grid-row:1;font-size:10px;padding:4px 7px;min-height:26px}
+#globe-classroom{--workspace-stage-height:clamp(280px,calc(100dvh - 340px),740px)}
+body.walkthrough-active #globe-classroom{--workspace-stage-height:clamp(260px,calc(100dvh - 390px),690px)}
+.lesson-main>.planet-city-dock button{box-sizing:border-box;min-height:28px}
+.routine-inline-voice .routine-voice-row>.routine-cue-controls{flex-basis:auto}
+.routine-inline-voice .routine-spoken-context{display:none}
+.human-explaining{--human-workspace-height:calc(100dvh - 220px)}
+body.walkthrough-active .human-explaining{--human-workspace-height:calc(100dvh - 270px)}
+footer{padding:14px 0;margin-top:14px}
+@media(max-width:1150px) and (min-width:901px){:root{--workspace-nav-width:164px}.sidebar{padding:22px 10px}.brand{font-size:21px;margin:0 8px 24px}.nav-item{font-size:11px;gap:8px}.nav-caption{font-size:9px}main{padding:0 18px}}
+@media(max-width:900px) and (min-width:641px){:root{--workspace-nav-width:68px}.sidebar{padding:22px 8px}.brand{margin:0 auto 24px}.brand>span:last-child,.nav-caption,.nav-arrow,.sidebar-note{display:none}.nav-item{font-size:0;padding:12px;justify-content:center;gap:0}.nav-item svg{width:21px;height:21px}.source-link{font-size:0;margin:auto 0 0}.source-link svg{width:18px;height:18px}main{padding:0 15px}.page-heading h1{font-size:22px}}
+@media(max-width:640px){:root{--workspace-nav-width:0px;--workspace-stage-height:clamp(300px,calc(100dvh - 255px),600px)}.sidebar{inset:0 0 auto 0;width:100%;height:54px;padding:6px 10px;flex-direction:row;align-items:center}.brand{margin:0 10px 0 0;gap:0}.brand-mark,.brand-mark svg{width:27px;height:29px}.brand>span:last-child,.nav-caption,.nav-arrow,.sidebar-note,.source-link{display:none}.sidebar nav{flex-direction:row;flex:1;gap:2px;justify-content:space-between}.nav-item{font-size:0;padding:9px 7px;gap:0;justify-content:center}.nav-item svg{width:19px;height:19px}main{margin-left:0;padding:54px 10px 0}.topbar{height:38px;font-size:9px}.topbar>div{display:none}.walkthrough-top-entry{margin-left:0;margin-right:auto}.page-heading{margin:10px 0 8px}.page-heading h1{font-size:20px;line-height:1.4}.page-heading p{font-size:11px;line-height:1.6}.human-mode-switch{margin-bottom:7px}.human-mode-switch button,.human-mode-switch #reset-open,.human-mode-switch #live-open{padding:6px 9px;font-size:11px}.live-explaining{--live-workspace-height:calc(100dvh - 204px)}body.walkthrough-active .live-explaining{--live-workspace-height:calc(100dvh - 273px)}.view:not(#explore){min-height:0}footer{padding:12px 0;font-size:8px;gap:8px}}
+@media(max-height:700px) and (min-width:641px){.topbar{height:34px}.page-heading{margin:9px 0 7px}.page-heading h1{font-size:21px}.page-heading p{font-size:11px}.sidebar-note{display:none}.live-explaining{--live-workspace-height:calc(100dvh - 144px)}body.walkthrough-active .live-explaining{--live-workspace-height:calc(100dvh - 198px)}}
+@media(max-width:640px){.live-explaining .page-heading h1{font-size:20px}.live-explaining{--live-workspace-height:calc(100dvh - 230px)}body.walkthrough-active .live-explaining{--live-workspace-height:calc(100dvh - 305px)}}
+@media(max-width:760px){.lesson-main>.planet-observatory:not(.routine-observatory){height:min(var(--workspace-stage-height),calc(100vw - 46px))}.human-explaining .earth-panel .globe-surface{height:min(var(--workspace-stage-height),calc(100vw - 30px))!important}}

@@ -1,0 +1,2505 @@
+{
+  "version": 1,
+  "provider": "MiniMax",
+  "model": "speech-2.8-hd",
+  "voiceId": "Chinese (Mandarin)_Gentleman",
+  "region": "cn",
+  "recordings": [
+    {
+      "id": "fixed:tour-audio.json/chapters/foundation-overview",
+      "textHash": "9d11ebf53f0c47f038861c1dd8c494deff950807350b60210453213d924dd858",
+      "audioUrl": "audio/3ba5054259cce7a2180e4ddd7166200f82da80332b41a171fab0d1745204d304.mp3",
+      "durationMs": 116712,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/foundation-rotation",
+      "textHash": "898818bce5cef213139058250af0b4ff6370c086d1793fb5968e02347ee607b7",
+      "audioUrl": "audio/2f88379b549aa8621acf485d6a22fcadbd085c583057bdacb90aadd980789abd.mp3",
+      "durationMs": 111312,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/foundation-coordinates",
+      "textHash": "aa245536214070cf57e5560ab4883fffa188292b230f8847a851e5a8a48d8aaf",
+      "audioUrl": "audio/a166afef7315d01d6bba445e94130164826bde38425b614ab4f9b75fca53ebb5.mp3",
+      "durationMs": 122184,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/foundation-utc",
+      "textHash": "7b0e1fe56bef2aa73e5ae3ee78c425eb5445846b8cd06baf0c7539b7a0e34004",
+      "audioUrl": "audio/f8579ada90ca254e0bc2dac77084a379b03668d5180d8ca7b45512a5331d1271.mp3",
+      "durationMs": 122544,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/foundation-boundaries",
+      "textHash": "9a4d6b08d6c62cc6ad6ee865a7151a809d917a698b0459c22380400aa08f54a9",
+      "audioUrl": "audio/94467c2541ee34790c86ded8cd3354e2647c36760846cf746d45338d2f83f8d3.mp3",
+      "durationMs": 122652,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/foundation-dst",
+      "textHash": "2910414f8d4fb439234e6994becbc4340d3919bf936264bb579bb739e2a87266",
+      "audioUrl": "audio/f7d1581aadf98945b28dcb1119fc29d4ed0865d5d34f4a9d7cfc147e1c53a407.mp3",
+      "durationMs": 115956,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/foundation-date-line",
+      "textHash": "2e66e52fec6107559857ac5585a884792b970b773c8d68ddb0454389d19ab250",
+      "audioUrl": "audio/fb728987dbba0cf0e80d44dc8e5301d2dc0b7e43db353de70b611df303ca8e8f.mp3",
+      "durationMs": 114660,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/foundation-communication",
+      "textHash": "e87eb12d463a50207dacd605a22c9ef1bc9ef1f57c7687a215f34bebf80ccd11",
+      "audioUrl": "audio/abca98d2f44269d777e5132df55f6d2db8e117b1b1416107883bcd82b539a4ae.mp3",
+      "durationMs": 120780,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/continent-asia",
+      "textHash": "944993ad991f9d3325562f1cfab0425e6109b15676111e2630d534cea6fdaacb",
+      "audioUrl": "audio/896f37c9c857de587cd96860de0c5925285b49ddb9280899fdcad15d3cb967d9.mp3",
+      "durationMs": 119196,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/continent-europe",
+      "textHash": "1321a13973046a044ff925a5d49b5df8fecab395d3410578c93bafd5265b3f03",
+      "audioUrl": "audio/a2fd95237c3e383cad8e404d571f6816f5f7fb52159ab9f43e13d35db61f516a.mp3",
+      "durationMs": 122652,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/continent-africa",
+      "textHash": "2569ddab423b8f1ca4f6538680ac8abfee0ac4852f727cf62d48ee88e3cd74d9",
+      "audioUrl": "audio/6d839e398b50bf8369a154980bd57eb73e6aae8ec4d5289b87401a67deaf92f5.mp3",
+      "durationMs": 114624,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/continent-northamerica",
+      "textHash": "2c6b42abae91a40f09bd50a8206b01811a722d035dfc2b20a7fe68763fd33c11",
+      "audioUrl": "audio/5f4c1d8cc8ec539e4f9de233edc90c1f359aa5883a24975e84d5d534bda297a2.mp3",
+      "durationMs": 114336,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/continent-southamerica",
+      "textHash": "780c66f3bc0cc2ea2fdad2f6a96bf4df4b551657ee81bac08af27a9aec1fcbc5",
+      "audioUrl": "audio/0df719684de89227da5e273d60f90bb4611504912cdabb2016783b60610c6ab3.mp3",
+      "durationMs": 119304,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/continent-oceania",
+      "textHash": "1972933c2e945b9b86bf2ce9b85c8facba7b35784ce241f1be682f777940a494",
+      "audioUrl": "audio/f4b3e54b8e7f50d45acaae68071424125b67e549f131cd623bd9f720097fadc3.mp3",
+      "durationMs": 118440,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/continent-antarctica",
+      "textHash": "a2494004da567a747e6658296ff0821acc80ecdc52da6e0cdd53f204e78eb097",
+      "audioUrl": "audio/ca084f90a56f2e5b5b0911ef036dde635441039ba8e1c0d710b3dfae2c96f893.mp3",
+      "durationMs": 123804,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/country-china",
+      "textHash": "18f8664758bfb85dbf6f4fcce44a44153ee5e6819e847b8c23853db5b2a6b065",
+      "audioUrl": "audio/aaef51aabafec87e20c3a3dee6805a396d644e677fdac663261a8d0a084e7c0a.mp3",
+      "durationMs": 94248,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/country-uk",
+      "textHash": "dbbf3a6ce7fa82b84e1975e8ab9f067393040f61bf47c3e8822ca8c36e0d7713",
+      "audioUrl": "audio/42b40d9ac5d257a9b09d4d5b1aed81edc25a4c5b915489494b56cb50368a7a22.mp3",
+      "durationMs": 84204,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/country-usa",
+      "textHash": "a2f3002473743c28de3dcaed85611cdb7680c02f438376cf9568bbb332a5863d",
+      "audioUrl": "audio/030ff53c25dd247bffbec5dfd4c73f9f52abb1ae862c5f0260d04a085fbebfce.mp3",
+      "durationMs": 85680,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/country-japan",
+      "textHash": "a58556eb747e98f5a1479d282b188c5fec8f5b7d2ea5e24f1a64ac6c935211eb",
+      "audioUrl": "audio/024e46412916472c588d0386706f8d32a2ac31dd98b56dfdc1dfb370bd3d1f22.mp3",
+      "durationMs": 81216,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/country-france",
+      "textHash": "5ef44788accaf950dce1d48dbf77c601aa2487a35d1a9d4b6f3fb36079d7fa62",
+      "audioUrl": "audio/4a3b9eaaf1a1f706c0947e74e8d03c0ac5eeb23f288089844d14acf7e2426ee6.mp3",
+      "durationMs": 78372,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/country-germany",
+      "textHash": "4a77ffedd56c54212d0b1b8f1111da42c1d82de87eeec1b5cc4743ab2c406ff8",
+      "audioUrl": "audio/550b14553d7889c08aced8fa4c3b958c6a6d27de5afc02cc49a26438da44abc8.mp3",
+      "durationMs": 79668,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/country-spain",
+      "textHash": "1d6c3061915350e9f05c1bd25e8f3d10b51850c6732acf86e8100a8621f3ead5",
+      "audioUrl": "audio/5c659b514159bcc29855c33581f46c4170faf3d5750130ad446267f27b8b9c72.mp3",
+      "durationMs": 80136,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/country-canada",
+      "textHash": "a1d18a42e1d62a0c4f36682357ffab8fe82c58a1d6417f171fe4e61dce4f0f67",
+      "audioUrl": "audio/2efb01a4fd88b9beeaf6efbc0ed130f5563569455667b72aa8f16bea176d4eb2.mp3",
+      "durationMs": 82008,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/country-brazil",
+      "textHash": "c421c9d79ac72c0a63a348b610bd43eb86750cf07617ca0cefc6ba48d3b3e4ad",
+      "audioUrl": "audio/340a22746741676d538438d55b3c4e4a7493570e28f551997a9090b726239327.mp3",
+      "durationMs": 80784,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/country-singapore",
+      "textHash": "8038621c0025f9e53bfd01008a63f125e4225abfb1d1c85e8f862c3a5d821d8c",
+      "audioUrl": "audio/de293488441cff3d70a41f42ca45c5dd3e464d752b3dfdbd7e7376d03f33b63b.mp3",
+      "durationMs": 79272,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/country-korea",
+      "textHash": "efd10c6ffea554272c7da219d976de5b556a271b2baa834506f34ec542759e96",
+      "audioUrl": "audio/990bdc82c0b9129558c778dd8fea83d3c19d36e34af027d70200016f72310a7e.mp3",
+      "durationMs": 80244,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/country-india",
+      "textHash": "31f47a44069d5b048aba45e97eedf469c01bc513418eb295dbc9d0874edfba69",
+      "audioUrl": "audio/c0f8babbd2283b4b5cb7716d94af9fff8c3d8b02a457fc01dca11f6012ce663c.mp3",
+      "durationMs": 83088,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/country-nepal",
+      "textHash": "91802315a56b50586e42bc723ecce46ca34acfe90e156b90bc94f80d0ae36e19",
+      "audioUrl": "audio/2e666869a9418b8b4622d5f296b15f0ae888131d9bf6b4ac54c13a7a003de82e.mp3",
+      "durationMs": 82260,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/country-uae",
+      "textHash": "5b3676fb3ba06114e2c891401d589a01cb6de033feef57ea892885a7eabbb50c",
+      "audioUrl": "audio/4de9ff4d526d2386a0e80f709fe5826f1362e4a3cc953519ec0180259229fd84.mp3",
+      "durationMs": 81720,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/country-thailand",
+      "textHash": "0023975ffabeecc08336854d1141477e5cf84819c0d8d30795281fe0e797b383",
+      "audioUrl": "audio/a864e1e7fce5b094579324e6ebd4bbd3e641ee8fbdbbbd41f6e44c4dfbc7a883.mp3",
+      "durationMs": 79704,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/country-southafrica",
+      "textHash": "7f1e590cce83de69790205cfa6803fc22038215f921718ae70ba31f37b301f9b",
+      "audioUrl": "audio/bcb39d92a1f0bb5a12c5b81bc6b76ee26ec6e16584bd1181ac37f6d02632d26f.mp3",
+      "durationMs": 77832,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/country-kenya",
+      "textHash": "8c06e411c5ff8f2c6a8b076e73a15c2530c2f24f4cb5e8f02db72d49590f9a55",
+      "audioUrl": "audio/02da48828318cb38a2aa349113185127c7729948360056577ec702bdf8d95ba9.mp3",
+      "durationMs": 78264,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/country-australia",
+      "textHash": "4759fbea367cc0c399bbc48a42aa1af4d2d15f3b236b27335d190f50189f620e",
+      "audioUrl": "audio/54a83e6e1fbbb0ed45619e899294099b32645fa2dd450bf7b38397190a19e15b.mp3",
+      "durationMs": 87300,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/country-newzealand",
+      "textHash": "f94b18a46f29f1db8ea8fbdfa17c09ec0e27d11c3de160a8576711f3649faca3",
+      "audioUrl": "audio/82bda537733500dfe962bb1b359f555a0ba19f927772ceaec4cf5218d5bec180.mp3",
+      "durationMs": 80208,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/country-kiribati",
+      "textHash": "e6f6c9302df99b28cef1bec28577fb1c590d597684f0b32f92d91321cb601529",
+      "audioUrl": "audio/3aff4027b3691bff541bafe9729a42c463465e7994403488060208b42842c0cd.mp3",
+      "durationMs": 81360,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/city-beijing",
+      "textHash": "76a38376dde6f0da0b37d954215b2914263f7dba80687810b7a9e9563307f533",
+      "audioUrl": "audio/aaa7de68eebf6cfeed98db67af34fe3d84308d25b7025017a745a9507067bf79.mp3",
+      "durationMs": 75384,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/city-london",
+      "textHash": "179e5f6eccf9ba43d1510db8497378997f001d2941dc22a61e646ba52ae73429",
+      "audioUrl": "audio/8c811661d70e90be4e8958fb8b7a6c572fbc9ab616cdf0b40bda02925e1b4cf8.mp3",
+      "durationMs": 75528,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/city-newyork",
+      "textHash": "70dbc23e9f7738ccfd9d2aea049caae10ddef92d7e94464ad54546146855c297",
+      "audioUrl": "audio/15a1d80d30fcca1361d52f79bd7ef93170ac393e4eef688748439862bf11becb.mp3",
+      "durationMs": 72648,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/city-tokyo",
+      "textHash": "ac2b0cc36207f79877bcf034db6b390cb939ee9022ade35cc3d4f2eb1667307b",
+      "audioUrl": "audio/e74c1e7b477c35bc0e4759a72488db8f823f9a61dd472f11386c80b11620c186.mp3",
+      "durationMs": 68544,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/city-paris",
+      "textHash": "5f5ee676b914fdf612022deaa9603cc7b880225f3d057f2fb5e10e6995532696",
+      "audioUrl": "audio/52a3d6c697001c41a384eb5cd2c6ccaed578310a48c671cff1f293e4efe8b542.mp3",
+      "durationMs": 69840,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/city-berlin",
+      "textHash": "4edd07c6c3fc5e2c9c9602f77734ac3d6182f20b0ef644b8b52eac60b9997a09",
+      "audioUrl": "audio/2dcf6208a57f9eb1359c4a8dcca1136585c64babf85b57ceb7c3977217fe50a5.mp3",
+      "durationMs": 67680,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/city-madrid",
+      "textHash": "50a109d5d66043eaa5a18430b94f0d46600facd359f3f1472a16f8756bb79959",
+      "audioUrl": "audio/d24658df48f64a74c60f274faa13c9a5bebb525f430fe75ed0f0081706c11b0f.mp3",
+      "durationMs": 66492,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/city-la",
+      "textHash": "785e42ecba2f23dc6b7fbbe0b3a918789a227ab931aec0f58aeb0a815c7a74db",
+      "audioUrl": "audio/17e284318e351c45520758e7a06ecc047614c30599ba304109a72650ec708924.mp3",
+      "durationMs": 71820,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/city-chicago",
+      "textHash": "61565e93dff92ede4a34ff783ed48f65069182274cb2a964d919c4cbb25181e7",
+      "audioUrl": "audio/c84dab73dee039f83cec4ca6586b87278192423095e242e240c565faf98741ba.mp3",
+      "durationMs": 72972,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/city-toronto",
+      "textHash": "f3ad048e5891c7ea9023a80030f5a9696445184e82a86e3e63ff108f3f31ca8b",
+      "audioUrl": "audio/32a1c6bd0eff27f6b371cc478802932f64d5ac2705ed325fae39476ef5277ec2.mp3",
+      "durationMs": 68580,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/city-stjohns",
+      "textHash": "38dbf313c5f11187ef947700b6e3d87d9b39898c2ee8250e8654ebb5137f0e86",
+      "audioUrl": "audio/cf768aa886bb0466a45711a947efc5c4555124579c0a22d91ae5644c7747942f.mp3",
+      "durationMs": 66312,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/city-saopaulo",
+      "textHash": "0a1e2b3092dabfe6e98b78d59371f0726918c396d50fc73c02932b92df0fae44",
+      "audioUrl": "audio/d4c1c53c77dbff753015dce3bb65be58a88c45766f4f4267dc78d11a6279d8e7.mp3",
+      "durationMs": 72684,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/city-singapore",
+      "textHash": "02d2c4d00dd63d69a9326b4b80f6d9b6191fc14aa8609783afdf560f7a7f0a3b",
+      "audioUrl": "audio/3f121af926987004677562c53ae9dc2b67493af175d3000853d386ff41167359.mp3",
+      "durationMs": 76392,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/city-seoul",
+      "textHash": "a280e42044dae1cc0d45e6cc16cb179c928fd1246b087c9b14dcb83b13792342",
+      "audioUrl": "audio/0010302002490822541ffe234373848071a58ba8ad034c52b22d298874a56945.mp3",
+      "durationMs": 68328,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/city-delhi",
+      "textHash": "21426ff973f80f7cdda4a6bdb315b0910663f7a1cc7f4c1afc22fb9141c13879",
+      "audioUrl": "audio/232c6869e79fe5c4a7603a44340a412e04a420c263075831a6a6e5283d033005.mp3",
+      "durationMs": 74916,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/city-kathmandu",
+      "textHash": "922e061f1ceb568bb4e6ab95ab818353136f4c0a02ef758d5c7ff8b89db8d610",
+      "audioUrl": "audio/56c07f7bb92e24320d6c58061f9adb69514c27b2615ce6affce46ca823a24fba.mp3",
+      "durationMs": 71604,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/city-dubai",
+      "textHash": "a9155be7adb77fe24e17a0770055fbfa97ec4a9069010211ce8ace95cbd6587c",
+      "audioUrl": "audio/5723e7a1710fe4d439587db50a22974aff98fe6046f55ea699640f82f45e6b7b.mp3",
+      "durationMs": 66924,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/city-bangkok",
+      "textHash": "0af607c9bd4ee337ed3c8944b34077bd82b0ea98e890c0b8ed87775d5a2d0d64",
+      "audioUrl": "audio/344b22438a73b31465b6feb98bdf0073fc70aa288add406ccedfdc4236893f2b.mp3",
+      "durationMs": 69588,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/city-johannesburg",
+      "textHash": "5316cf4ad6e6e2187bc854498fd8ad77f01fb64ed0d15842cb9aa78204153934",
+      "audioUrl": "audio/3eeda4e3a8370e682bf398952c7787c5c862b2b6e647877b4d55694725a8bfc1.mp3",
+      "durationMs": 69840,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/city-nairobi",
+      "textHash": "5a722bfdcca191ecdd1bbfaca18704561c4f1477eaf8329cc3ebb504f7a7a505",
+      "audioUrl": "audio/ef37ce30eb61972b66d2ec101264273d76a293d486d98ece2bf59d564c49953e.mp3",
+      "durationMs": 66600,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/city-sydney",
+      "textHash": "7e111f92dae18ad1a4bb07695860082948beb3a9bdc33027251c39e28dcd6b6f",
+      "audioUrl": "audio/2b578e5df5ce2f87c2f9a84a8d359e3ba790106ce657309ae02f157239b1c89d.mp3",
+      "durationMs": 72756,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/city-adelaide",
+      "textHash": "d174d380471a118201dde93f0be415c0d7e4f56eac1c188477a1c456ea89de12",
+      "audioUrl": "audio/5ec065329cba7bf14260602a0197a66b724669be0a2efbf3ad775c6a0f95b7c3.mp3",
+      "durationMs": 71712,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/city-auckland",
+      "textHash": "75617ac5ec9a64624fe6b4a821729a5d2ec68b7e5f4c24e47c9e5e4bd7764aea",
+      "audioUrl": "audio/b60c2cb48e713dc55346abcf9bb2ede82de17cd7a76a44e6a4f8abfab3358bc3.mp3",
+      "durationMs": 71496,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/city-honolulu",
+      "textHash": "5fcef561746df1a9784cb5e175195a20127a37f2b4e54444c82f69be15942cef",
+      "audioUrl": "audio/21c0991bc5cba060dc72fd98dac3253e17f476dfae651b290e9388c12fea57b4.mp3",
+      "durationMs": 78552,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/city-kiritimati",
+      "textHash": "65abc8c5a2cbacc8ac2e9624eb170391fa8a80a05a420d11e3150082fa5c231a",
+      "audioUrl": "audio/d9e10033e6b2993ac665b5bbb64d786c443ff54cc0a4c5c7301afc0bd402b1ef.mp3",
+      "durationMs": 81576,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/common-pacific",
+      "textHash": "56af11ff96d0290110cbb44b2a0fd30cd3f785e91b58188ccd899e640185b478",
+      "audioUrl": "audio/3999050cc130f4198c2ae2d45681ebbe05fae0d50fa964fce32f8d111805e189.mp3",
+      "durationMs": 183096,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:tour-audio.json/chapters/common-expressions",
+      "textHash": "9096c44adac2be902c23254a94cfccebfb3e27b2cc9c9bf624ec7ff3da500dd9",
+      "audioUrl": "audio/30a305dafde719d9d63310d5b0a3a19ac52c7636f16c6ae4150e73bd63c3580f.mp3",
+      "durationMs": 209160,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/chapters/clock-reading",
+      "textHash": "cb227ec63588e83aa3d1222df314439dfea8c30ec7bc811addf07e9c4a19c0b3",
+      "audioUrl": "audio/8726770408f7f55a30e6b258319dc5bb9030e1122a149750974f9b39fc315a8a.mp3",
+      "durationMs": 80964,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/chapters/earth-turns",
+      "textHash": "5298a76fafd392f853917cdaf4fb96563e826095e0689247f86cab68da484cc5",
+      "audioUrl": "audio/b7c43c5c1f5f3d52a79bed5413f089b1582b83b21f239c263df441b41dcf3f5f.mp3",
+      "durationMs": 72612,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/chapters/utc-offsets",
+      "textHash": "897b8bd8dd9dce6dbea501c58d0e8e8012dcaedc286615d8eb7701518db6d8b5",
+      "audioUrl": "audio/986c3ee3c375587f8dcec83fc0106c7e688370ee5dfc72ed398780319b722a5d.mp3",
+      "durationMs": 74952,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/chapters/calculate-time",
+      "textHash": "fc3553c98fc17f9d02414e1002a81d4881ba489621c7f755c8c1367fd982f866",
+      "audioUrl": "audio/8d519cc2af240c030a00101967123ff05f45243e4c14573416202dd27cbf65dc.mp3",
+      "durationMs": 74700,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/chapters/real-boundaries",
+      "textHash": "7ce0b8364c922a95493b5c047f5b80283b9b67207e459b21f5323c52ffb2758a",
+      "audioUrl": "audio/923787b86f2ed990dd388ef1da61e438abc12caab367e1cd488acf132a1c842f.mp3",
+      "durationMs": 78408,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/chapters/season-and-pt",
+      "textHash": "161ee15dbda85a2fb790653a471be424c4ef4857df83a6c1dcb33622f0a3dbab",
+      "audioUrl": "audio/498fb2e1719aca01d218b4b1a8675b5332e7e7b24ae308ee5683dd17b6a4198e.mp3",
+      "durationMs": 74016,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/chapters/daily-rhythms",
+      "textHash": "2546fd494f0deed2c6b7a89581cb39dd2136ba7e72ecca0f2deeffaca1b68667",
+      "audioUrl": "audio/fc1565658c36ed7bccf2db1321679f6d90f509309d91cc4e953d4fded64cf872.mp3",
+      "durationMs": 78408,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/chapters/meet-together",
+      "textHash": "758f672ebd09fa6b4a7d91d6e34c060cd0f9b444a7212452e13c5508a77bade9",
+      "audioUrl": "audio/8726c808372fd713f9430278bc43b8e4e42505353489b656032ea36ee4ca07ef.mp3",
+      "durationMs": 80064,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/stages/clock-reading:0",
+      "textHash": "6c536f3857a6cbe3c6c5d422e063849a7b17697e7f95ed71337514532ea52812",
+      "audioUrl": "audio/bc3aa0e78eab8a3e9697e072c2e31ab2552af3478e36a8d8e14edc6869c667d5.mp3",
+      "durationMs": 29700,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/stages/clock-reading:1",
+      "textHash": "e5528c9eb0fb40c9cfeae498bca302d13e81b6ffddac5bee1f7ba871e50e8102",
+      "audioUrl": "audio/d5a1c18b317ac840ec69f26eb2bbbcfafbff10d1bb649db9aabe4e91e3a4cc40.mp3",
+      "durationMs": 27864,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/stages/clock-reading:2",
+      "textHash": "b8ffe46695fb51d02a1747ea8814454a0b7370f136a4ed5450f82a9445dde0eb",
+      "audioUrl": "audio/d9a31e2c6a97fc582a647eea5b8fcba122c7aaf4814ccf1aa82d2178d8cbfb2e.mp3",
+      "durationMs": 24840,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/stages/earth-turns:0",
+      "textHash": "0a0919188dcae2fb5c965f0a3f9daa6d86df1c555271a0f9287e5199add368b4",
+      "audioUrl": "audio/7f13864eba52a3531c018dfc2404be915925248ba582f8924f326b2c75a4ed49.mp3",
+      "durationMs": 52992,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/stages/earth-turns:0/cues/0",
+      "textHash": "50097f76880b00262d5b6b9b4d8afa8ced84495c61113e804db2b5d94b52dd52",
+      "audioUrl": "audio/38652a58bc4503e132b76516ff46384682e79a87b4faef2677063c3b5e392918.mp3",
+      "durationMs": 12096,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/stages/earth-turns:0/cues/1",
+      "textHash": "33b1f4c759a9786530bf17ea9b73e4a7cfb35e8e017df5d32ea8a7ed04894263",
+      "audioUrl": "audio/8d1db384bd0349ab9e7b57b414ea7518029aa17f27176a093bcd37859297cc7f.mp3",
+      "durationMs": 14400,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/stages/earth-turns:0/cues/2",
+      "textHash": "bf77588189eecbb9cb0c275815ef28bcfdccc320d38efe7bd7a091999c7569df",
+      "audioUrl": "audio/6fe3930f96992ac12862ec4d340bda7632f4b6c8bb72e810ad46f90ee40e623b.mp3",
+      "durationMs": 14256,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/stages/earth-turns:0/cues/3",
+      "textHash": "27ef45e2331192c3c95572ceb317a073b50888f5c3b8686544e27e4ff35c143b",
+      "audioUrl": "audio/cfdf7f90ee5333e0e794071a7ae7a693cb516971f836ee1567f77532e4d1412a.mp3",
+      "durationMs": 15084,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/stages/earth-turns:1",
+      "textHash": "d85271e997c0d9c74ddd5a176a72f8a2d5ed01a9fea8f5f647518f6d6e1f68e2",
+      "audioUrl": "audio/6c516074d5b69e20d67432925d10110c0de7d828f09807ed6c6122baba0c2452.mp3",
+      "durationMs": 29016,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/stages/earth-turns:2",
+      "textHash": "cd454a5f549fe2fcfb6559153ee41de54b8abc1526e89a15a8188f27e612089a",
+      "audioUrl": "audio/67b801d6dcc62894e04283dcf43bb63501564a6a050ee19cdfff7c571e6110dc.mp3",
+      "durationMs": 25272,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/stages/utc-offsets:0",
+      "textHash": "2ce55e6a09630294e99ec9f8832b27cb83d7485679df85550f11a90dab15fa7f",
+      "audioUrl": "audio/a8943158838f436aa2b99f3cac0530105cfb1f3c95d3ad98f75ed46163a2c2f1.mp3",
+      "durationMs": 27576,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/stages/utc-offsets:1",
+      "textHash": "ae262b2d09822e49fa722553e5daeed7a11dc46c8d6ea452493d47fff6ebc099",
+      "audioUrl": "audio/1c9dde65d4929d0d604e7537c2d8c811260df388a0f82fc5c8847b266384aa65.mp3",
+      "durationMs": 27504,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/stages/utc-offsets:2",
+      "textHash": "2079e17e89ff32f3a775c651c501c7ce0b7f3153b760270c68cb9f6b631cdb62",
+      "audioUrl": "audio/599820f92facc9266b27b5172f64593816fa5a6e9e7baaf2b2badb1f3444cb8e.mp3",
+      "durationMs": 22824,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/stages/calculate-time:0",
+      "textHash": "e19f200423d311c97b7d82a36092cd74f839fb3e419d88dffa538f183abccdce",
+      "audioUrl": "audio/f3e0ba447d15f61572e81db87ee01c789e5a83d3cc2b4ec905a7038983d0311f.mp3",
+      "durationMs": 22320,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/stages/calculate-time:1",
+      "textHash": "9e9ffcf15924fc3d53d60d8e2a7f1ad3c6281eda61bdf82db9009256c2dfec44",
+      "audioUrl": "audio/16fd32f1a40e8bbd26f63a55da9493aa1f3b252719e6d73e7326ee21330c4893.mp3",
+      "durationMs": 25272,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/stages/calculate-time:2",
+      "textHash": "6d8928531ccc8755c8395eedd172692be464a1fc40e437f6a9877fc0a6174221",
+      "audioUrl": "audio/25216e8e47846c79a833070455775a87e91540b585e329530fb25351fd8ca0ed.mp3",
+      "durationMs": 29700,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/stages/real-boundaries:0",
+      "textHash": "cfceac99b0518038330923124e40170f2fa6f24f7fba4c47f617883bc591ef50",
+      "audioUrl": "audio/0bd6476ec4460f0fb24d14e43b704693edeca8e0683499119509fb7efcb19057.mp3",
+      "durationMs": 24516,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/stages/real-boundaries:1",
+      "textHash": "2f556b339dbdef4f7811ecdb60c7920a42fe5427095e19f2a8027aad7dbc63ac",
+      "audioUrl": "audio/2bfbb8247b6e5b31129c13c2bd148886910f9d55d5e84d30da7ef654ecfdbb2a.mp3",
+      "durationMs": 24984,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/stages/real-boundaries:2",
+      "textHash": "b0787ad7a619361ab4d836d05cecd4e70cb7b6dc84a158568982a3392a696b5c",
+      "audioUrl": "audio/6a3fa98f7214657fae044b698ae4bc474ef09f3d5af2fb9a6be770c91f4cd19e.mp3",
+      "durationMs": 27252,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/stages/season-and-pt:0",
+      "textHash": "4ae19c560818ca7fa445d426721064ac104425cd2ae8c173813a0ac87cf334d7",
+      "audioUrl": "audio/66f96f3322e2b6df60a8f32b10942f81f21ed36b5a26f2c205cfa4b89c907aba.mp3",
+      "durationMs": 23328,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/stages/season-and-pt:1",
+      "textHash": "6920bd5fcda3bcac4bf8a5022c6cb50173cef00ab75f6c602c6dbc3b575c120a",
+      "audioUrl": "audio/2dcfc38bdfd509e45653dd5ca33324d20d7638605821a2361ec36a7883fdc6a4.mp3",
+      "durationMs": 26676,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/stages/season-and-pt:2",
+      "textHash": "042b7268209aa463fa400aae66be963e4c7f26558b18912d7d94a96b569625ca",
+      "audioUrl": "audio/b0e128521ce0750b8c6c213c91f969ade839443d9314d0bb575a68fa86be7f0b.mp3",
+      "durationMs": 55980,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/stages/season-and-pt:2/cues/0",
+      "textHash": "10ada73ec6a8a188e7a322a77e5e5d4a57d2de3a3f96c9fdc1aec6acaa936a28",
+      "audioUrl": "audio/d47d320636bcc868cdfb4ce4185ed8eb075c27254de987e838e87315e1890321.mp3",
+      "durationMs": 14688,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/stages/season-and-pt:2/cues/1",
+      "textHash": "7a35e90cbbaf4c6ba3acfa2da1d75d6c59a7c008e6646349dfa4c9d07e9b4322",
+      "audioUrl": "audio/e1b1babba0e4e016180caea0d33a7dbc45c4e687ad1540cc70336df023250c35.mp3",
+      "durationMs": 19440,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/stages/season-and-pt:2/cues/2",
+      "textHash": "fc87445beb2078b099100ca60e1e000fcb489c8a07bbdc6539e636aed5378d55",
+      "audioUrl": "audio/68e9f7329f6ce4beeea14c72a9fdc436eee8ba815bbe70ecb564a374647180f4.mp3",
+      "durationMs": 23148,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/stages/daily-rhythms:0",
+      "textHash": "46ae90550d524d96e6a5e67134ba752a758248358f64c5d6c1b8095067c25fb5",
+      "audioUrl": "audio/6e515b4e18f987396a4705dad76f7955ea938b543d815d3e1fc78d6d0641806a.mp3",
+      "durationMs": 30312,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/stages/daily-rhythms:1",
+      "textHash": "d2414002f1f13b610ef1cfb465408b881968d75ae5a3ec01b5738ec247c57f02",
+      "audioUrl": "audio/6b0bc142d1c1cd7434b2d2f9f6f58d4b598ef512055231bf410677a757840854.mp3",
+      "durationMs": 30564,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/stages/daily-rhythms:2",
+      "textHash": "d3cdf1c25cd96a4af11eaa9b71c158386c899317c21f31576abd1ee834642790",
+      "audioUrl": "audio/04b65391112d519a1a425b37b36edc575385e9eacb6b7695653df3d0252762ba.mp3",
+      "durationMs": 30780,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/stages/meet-together:0",
+      "textHash": "7687e573468e262b6e85a5f478caa2cf126fc2d3c78151659c0e4e009e1934d5",
+      "audioUrl": "audio/60d0b4688ecdcff463a15216e406d152ad0597c77d88144eccb4c26c6a43c5e7.mp3",
+      "durationMs": 21384,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/stages/meet-together:1",
+      "textHash": "28923709ab8d9e9e5873d34f5273e0eba83417c67fe6a71a39555021b758a431",
+      "audioUrl": "audio/0fc7dc56d48c0caaee7209af2c361cae54f98adce810c4d814cd0ed274fcfca5.mp3",
+      "durationMs": 31392,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:globe-lessons-audio.json/stages/meet-together:2",
+      "textHash": "172b71c12ab18364692b94854881b14b2911c5d190f6fa6a65f643584101d7ff",
+      "audioUrl": "audio/07f7cb4938f2484eb005002fdc794abf6f9c54fad180702b9e7e8f82cc25a762.mp3",
+      "durationMs": 27864,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:routine-atlas-audio.json/profiles/beijing",
+      "textHash": "ac6ffba849648e97557821c36aec6064865a2b0cec836852aca44cba7d406672",
+      "audioUrl": "audio/ea3868351abb780b9612b60582d1bec5907a83d9c1322c49d2de38f0e1c1daa7.mp3",
+      "durationMs": 30528,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:routine-atlas-audio.json/profiles/tokyo",
+      "textHash": "a65b73bcc41949bf04339615c706ab96f4da8fabde1e190b5721bafba22c9a7b",
+      "audioUrl": "audio/2dfe49681cee90bc5e589fcf38b5ca208697b19502eb7cd96569d7ab2a008983.mp3",
+      "durationMs": 29628,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:routine-atlas-audio.json/profiles/delhi",
+      "textHash": "434bb929e906e9048b6ebe8c5bbe113bbc5ea79ff90a9e15173d9d94cf3fb65c",
+      "audioUrl": "audio/eb49576b4034dbdbdb0b3ddada90e6e692539afe3a7e687292f48abcfdb75c30.mp3",
+      "durationMs": 26388,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:routine-atlas-audio.json/profiles/dubai",
+      "textHash": "d1f64918d04bd0c3b2988a651073a75b7cba310c9b9ed40dbc6a6aa688338f55",
+      "audioUrl": "audio/f2a485cda8efb152f9d5a31774b9d6cb72d808d57a4989b88f045bcc3c37b804.mp3",
+      "durationMs": 28980,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:routine-atlas-audio.json/profiles/madrid",
+      "textHash": "8eb2d1f8ca640905afed49667947c0fdc9cd2478728a337324ef3cbd4637e03a",
+      "audioUrl": "audio/4f8bf9d84c213ae6cecbe708f7cf03093c7b7127b25b36c643c0d361b243c94d.mp3",
+      "durationMs": 31896,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:routine-atlas-audio.json/profiles/london",
+      "textHash": "36dca7f1c25eae04d4de41f52d3ea7e3d030b0e64806ef467878dd62890a45dd",
+      "audioUrl": "audio/0644bb65489341026a17e3f250810a3108912ef25377ecae6e5e960768df7840.mp3",
+      "durationMs": 25992,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:routine-atlas-audio.json/profiles/newyork",
+      "textHash": "72f19a96c18c3539440f831d6629460ab84c33d96934f14d1f6792eb7d6b885a",
+      "audioUrl": "audio/b9ae3fcc18812d1064b2ce10066572f9a5cf6ea6f9cdda1f5ae231be0ae126d7.mp3",
+      "durationMs": 31968,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:routine-atlas-audio.json/profiles/la",
+      "textHash": "9ba7409a46ac551f037b1cd22f0f9fad74d9dc22b621347fce6a125bbb1cb10e",
+      "audioUrl": "audio/74eb095734a8d864d7377c37552162a2081e9a6d10bcdb7cc8dd1f370c8939c3.mp3",
+      "durationMs": 29268,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:routine-atlas-audio.json/profiles/sydney",
+      "textHash": "ec4dd3341e331799ce5b7b5db5b988beece736700ac8ef0a684fb2dc03cfe69b",
+      "audioUrl": "audio/1e5a089e1158e461abf09c24368e64f3d642de5a3203e42bbc287c61433ed1cd.mp3",
+      "durationMs": 28980,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:human-time-audio.json/steps/sun",
+      "textHash": "8703d201564ed0f4a6e03e0337df987969cc10ff4071d69579b08a78ee0dc3cc",
+      "audioUrl": "audio/d09db1af6c08d2f15f0fabbb635bcd4002de2ec727d5b3be37766688f95404d6.mp3",
+      "durationMs": 38124,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:human-time-audio.json/steps/sun/cues/0",
+      "textHash": "dd349c70cf4155202b12f5e09c22b4e5b2cf2ba0043ad5ec4359a6a566b792a4",
+      "audioUrl": "audio/c8b7e011a26760eabfa4cd1e0eb749c31cc4141ef3647ff4f6ac3d81bd1a887c.mp3",
+      "durationMs": 29340,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:human-time-audio.json/steps/sun/cues/1",
+      "textHash": "0c8d818a4ae260b94c8385a834513797f99362b2dcc763eba16810652a4fe9a7",
+      "audioUrl": "audio/c87984001451857c821c33cb83cc6aa48f6841285add114de9744215f3c43b74.mp3",
+      "durationMs": 22428,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:human-time-audio.json/steps/sun/cues/2",
+      "textHash": "fba28169e04622705b325dd572631574b118696e0a53eb2893d3c4c8cc0a351c",
+      "audioUrl": "audio/4f2bf1ffff6e257f7336377f66b249a1280e2cfa04d040baacc68799e5a211d2.mp3",
+      "durationMs": 25128,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:human-time-audio.json/steps/sun/cues/3",
+      "textHash": "cafbbb9a2c17ea0a73c8c9ea3d68ab05369aa6fc7693f094e93af4147b71cb01",
+      "audioUrl": "audio/7d67f712cbd9a2615dc8e00c392af6772f053da208d01ff441e0948ee7933f3e.mp3",
+      "durationMs": 26712,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:human-time-audio.json/steps/body",
+      "textHash": "5f9dd7d8e03961e3dff60b28c63d89c690d19644dd57549cc803b0d9a06f18aa",
+      "audioUrl": "audio/9010e1b188c0d38161d167b8d66d88523f05d09309bf7bb035c04a9b961add9d.mp3",
+      "durationMs": 37404,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:human-time-audio.json/steps/coordination",
+      "textHash": "cb4b533cd64c5a3a88e72463a65ee599418b1ecee6509f46c063fed3794ae02d",
+      "audioUrl": "audio/ce671c612195a0ce424dfc61ba3a8a7080e7ef2a93029fa6169b53c65e1b8fe2.mp3",
+      "durationMs": 35460,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:human-time-audio.json/steps/civil",
+      "textHash": "b67dd5736de0c457698897314faf0e35a5a746dc76f6a0edb0cbf3bf7728bf27",
+      "audioUrl": "audio/d94a01b38279dee400402ce961398757ce74a02f6b04ee251933b31f59118eb3.mp3",
+      "durationMs": 35964,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:human-time-audio.json/steps/person",
+      "textHash": "d03b833ccf84a5fa63c6aa8db397085b3ea685d226c98cf47091275753a0bd1d",
+      "audioUrl": "audio/08662644febe678f5bedef31cbf0865362f0a1e61e3ef097da6349188677f9c7.mp3",
+      "durationMs": 40068,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:reset-time-audio.json/lessons/daily",
+      "textHash": "202a6943b96390c37dd4284f4297f71b16e2523907e63a8ec9908867f5017663",
+      "audioUrl": "audio/5e4bb4ae7a42f4800e58879b6e354e1064552688d77882e26ae764c66473a193.mp3",
+      "durationMs": 35928,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:reset-time-audio.json/lessons/window",
+      "textHash": "da7ba45793a121f12f7ea1692f3ecfc58857a130222d68bfe6938aaeeb844c8c",
+      "audioUrl": "audio/549c3af7d51b54379d20918a1c808ae8426ac9f0a578810f9869793c90145709.mp3",
+      "durationMs": 34272,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:reset-time-audio.json/lessons/rolling",
+      "textHash": "d7a3ed77fb47be5d8a2809ccdca403b33fe405ca884aee14ff30042dc0cb5fec",
+      "audioUrl": "audio/1aa796a51976108e5100e681c80dc12efaac102d21a638fe569e19caa8e17c79.mp3",
+      "durationMs": 37332,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "fixed:reset-time-audio.json/lessons/billing",
+      "textHash": "82e917739c282f64b0cca4b2b2679bc2e13fa1b6c38d321bc4c47aaa93aea019",
+      "audioUrl": "audio/80e1cdda5f58527f0c4aec4d7edc370c7c25dd31df9329db1f770c3bc60c8888.mp3",
+      "durationMs": 40608,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman"
+    },
+    {
+      "id": "tour:foundation-overview",
+      "textHash": "9d11ebf53f0c47f038861c1dd8c494deff950807350b60210453213d924dd858",
+      "audioUrl": "audio/3ba5054259cce7a2180e4ddd7166200f82da80332b41a171fab0d1745204d304.mp3",
+      "durationMs": 116712,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "出发：从一颗地球理解世界时间。\n\n先把视线拉远。\n欢迎来到同刻。想象你正从太空看向地球，太阳照亮其中一侧，另一侧进入夜晚。你此刻打开软件，北京、伦敦、纽约和东京的人也在经历同一个瞬间，只是他们的钟表、天空与正在做的事情可能完全不同。我们这趟旅行，就从这个简单的观察出发。\n\n分清三层关系。\n第一层是自然地理：城市位于哪一边，经度影响太阳走到天空中间的时刻，纬度和季节影响白昼长短。第二层是社会约定：当地采用什么标准时间，是否调整夏令时。第三层才是个人日程：一个人几点工作、吃饭和休息。三层有关联，却不能互相代替。\n\n按顺序走一遍。\n接下来我们先认识自转、经纬度、协调世界时和日期变更线，再沿七大洲的路线进入国家与著名城市。每到一站，都问三个问题：它在哪里，当地时间怎样确定，什么时段适合联系。大洲划分采用这里的七洲教学方式，帮助导航，并不代表所有文化都只有这一种分法。\n\n边听边实验。\n你可以随时停下来转动地球、切换日期，或把朋友所在城市放到一起比较。讲解中的城市与国家是代表性案例，不等于覆盖全球每个地方。看到一个钟点时，再多看一眼日期、时区和对方的可用时间，你就开始真正理解世界的时间了。\n\n这一章，请记住。地理位置、法定时间、个人作息是三个不同层次。跨国沟通最终要约定同一个瞬间。"
+    },
+    {
+      "id": "tour:foundation-rotation",
+      "textHash": "898818bce5cef213139058250af0b4ff6370c086d1793fb5968e02347ee607b7",
+      "audioUrl": "audio/2f88379b549aa8621acf485d6a22fcadbd085c583057bdacb90aadd980789abd.mp3",
+      "durationMs": 111312,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "地球转动：白天与黑夜怎样出现。\n\n看见昼夜的交界。\n太阳在任一时刻大致照亮半个地球。地球持续自西向东转动，一个地方会逐渐转入阳光，又转到背向太阳的一侧，于是出现清晨、正午、傍晚和深夜。从地面看，太阳通常东升西落；从太空看，主要是我们所在的地球在转。\n\n一圈与一天。\n日常所说的一天，按平均太阳日计算约二十四小时。天文学还会用恒星作参照，自转一周约为二十三小时五十六分；这两个数字不同，是因为地球自转的同时也在绕太阳公转。初学时只需记住：二十四小时是我们安排生活和比较世界时钟的基本尺度。\n\n从方向理解时差。\n把三百六十度平均分成二十四份，每十五度大约对应一小时。因此沿着经度向东移动，通常更早迎来一天中的太阳位置，当地钟点也往往更靠前。不过这只是自然直觉，真实时区还要看国家和地区的规则，不能拿尺子量经度就决定航班时间。\n\n钟表与太阳各有作用。\n现在拖动时间，观察明暗交界移动。北京正午十二点，并不保证太阳恰好到达一天中的最高处；行政时间、城市经度和季节都会造成差别。这里的昼夜图是教学近似，不用于精确查询日出日落。它帮助你把抽象钟点重新放回一颗正在转动的地球上。\n\n这一章，请记住。昼夜交替主要来自地球自转。十五度约一小时是直觉，实际钟点依当地规则。"
+    },
+    {
+      "id": "tour:foundation-coordinates",
+      "textHash": "aa245536214070cf57e5560ab4883fffa188292b230f8847a851e5a8a48d8aaf",
+      "audioUrl": "audio/a166afef7315d01d6bba445e94130164826bde38425b614ab4f9b75fca53ebb5.mp3",
+      "durationMs": 122184,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "经纬度：钟点、季节与白昼长度。\n\n给地球画坐标。\n纬线大致像围绕地球的一圈圈腰带，赤道是零度纬线，向北是北纬，向南是南纬。经线从北极通向南极，以本初子午线为零度，分别标记东经和西经。纬度告诉你离赤道有多远，经度告诉你处在东西方向的什么位置，两者合在一起才能定位城市。\n\n两种差异别混淆。\n经度与一天中太阳经过的时刻关系密切，纬度则与太阳高度、季节和昼长变化关系密切。北京和新加坡可以显示同一个钟点，却不一定有同样的日落时间；伦敦夏季晚上仍可能很亮，也不能据此判断它和北京的时差变成了多少。时差与日照时长要分开看。\n\n四季来自倾斜。\n地轴相对公转轨道平面的垂线倾斜约二十三点四度。地球绕太阳运行时，南北半球轮流更朝向太阳，因此季节大体相反：北京经历夏季时，悉尼处于冬季。靠近赤道，全年昼夜长度变化通常较小；越接近两极，季节间的昼长变化越显著。\n\n从位置回到生活。\n纬度不是气候的全部答案。海拔、海洋、地形和季风也会影响冷热与降雨，所以位于赤道附近的高原城市不一定像沿海低地那样炎热。听到朋友说晚上八点还在户外，先想到季节和当地日照，再询问他的安排；不要把自己的天空当作世界统一的作息表。\n\n这一章，请记住。经度帮助理解太阳时，纬度帮助理解季节与昼长。同一时区的城市也可能有不同的日照和生活节奏。"
+    },
+    {
+      "id": "tour:foundation-utc",
+      "textHash": "7b0e1fe56bef2aa73e5ae3ee78c425eb5445846b8cd06baf0c7539b7a0e34004",
+      "audioUrl": "audio/f8579ada90ca254e0bc2dac77084a379b03668d5180d8ca7b45512a5331d1271.mp3",
+      "durationMs": 122544,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "协调世界时：给世界的时钟找共同标尺。\n\n先统一参照。\n协调世界时，常写作三个英文字母 UTC，是各地换算时间的共同参照。北京时间采用协调世界时加八小时，意思是在同一瞬间，北京钟面比这个参照快八小时。纽约在采用标准时间的日期，通常是协调世界时减五小时。加号和减号表达方向，不表示时间走得更快或更慢。\n\n换算分成两步。\n假设北京是十月二十八日下午四点，先减去八小时，得到协调世界时当天上午八点。二零二六年的这一天，伦敦已经结束夏令时，因此伦敦也是上午八点。若结果跨过午夜，日期就必须一起加减。只计算小时而忘了日期，是跨国邀约里很常见的错误。\n\n偏移与时区名称。\n协调世界时加八小时，是一个固定偏移；像亚洲斜杠上海、欧洲斜杠伦敦这样的城市时区名称，代表一整套随历史和日期变化的规则。北京在软件里常使用上海这个代表性标识，并不意味着北京采用了另一座城市独有的时间。城市标识用于让程序找到正确规则。\n\n日常表达怎样用。\n你可能还会听到格林尼治时间或 GMT。日常协调会议时，它经常作为零偏移参照出现，但伦敦在夏令时期间会快一小时。最稳妥的表达，是完整日期、当地钟点、城市，再补上当天的 UTC 偏移。让软件按日期计算，比凭记忆背一个永久时差更可靠。\n\n这一章，请记住。目的地时间要先回到共同参照，再加目的地偏移。未来邀约要同时确定日期和城市时区。"
+    },
+    {
+      "id": "tour:foundation-boundaries",
+      "textHash": "9a4d6b08d6c62cc6ad6ee865a7151a809d917a698b0459c22380400aa08f54a9",
+      "audioUrl": "audio/94467c2541ee34790c86ded8cd3354e2647c36760846cf746d45338d2f83f8d3.mp3",
+      "durationMs": 122652,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "时区边界：为什么不是二十四条直线。\n\n理想分带只是起点。\n如果只按经度，把地球等分为二十四条带，会得到一个整齐的模型。然而人们还要通勤、交易、上学、安排铁路和广播。为了让日常协作方便，法定时间经常沿国家或地区边界调整，同一条经线附近的地方可能使用不同时间，相距很远的城市也可能使用同一时间。\n\n一个国家不一定一个时区。\n美国、加拿大、澳大利亚等国家横跨较大的东西范围，内部存在多个时区。中国的北京和上海则采用同一标准时间。因此朋友只说自己在美国，信息还不足够；他说在纽约或洛杉矶，软件才能更准确地定位规则。国名用于了解背景，具体城市用于安排约定。\n\n分钟也会产生时差。\n真实偏移不一定是整小时。新德里采用协调世界时加五小时三十分，加德满都采用加五小时四十五分，两地相差十五分钟。澳大利亚中部也有半小时偏移。这些例子说明，遇到钟面分钟不同，不必怀疑手机坏了；有时这正是当地时间约定的正常结果。\n\n地图和软件怎样配合。\n这颗地球显示陆地和城市位置，并没有画出法定时区的精确边界。你可以用它建立方向感，再用城市时钟完成实际换算。时区政策有可能改变，设备会通过时区数据库更新规则。重要的未来会议，应临近日期再核对一次，尤其不要用旧截图替代当前计算。\n\n这一章，请记住。时区既受地理影响，也由社会规则决定。选城市、带日期，并保留分钟，才能准确比较。"
+    },
+    {
+      "id": "tour:foundation-dst",
+      "textHash": "2910414f8d4fb439234e6994becbc4340d3919bf936264bb579bb739e2a87266",
+      "audioUrl": "audio/f7d1581aadf98945b28dcb1119fc29d4ed0865d5d34f4a9d7cfc147e1c53a407.mp3",
+      "durationMs": 115956,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "夏令时：有些钟表一年会调整两次。\n\n调整钟面，不改变地球。\n部分地区在一年中的某些月份把钟表向前拨，之后再拨回，这通常叫夏令时。地球没有因为这项规则而多转一小时，太阳也没有改变运行方式；人们调整的是钟面与日照之间的对应关系。哪些地方采用、哪天切换，都由各地规则决定。\n\n一个时间可能不存在。\n以纽约的二零二六年规则为例，三月八日凌晨两点会跳到三点，因此那天的两点半不会出现在当地钟表上。如果有人约在这个时刻，软件不该悄悄猜测他的意思，而应提醒重新选择。这一天虽然仍叫同一个日历日期，实际经历的小时数却比平常少。\n\n另一个时间会出现两次。\n十一月一日纽约凌晨两点回拨到一点，所以一点半会出现两次。第一次对应协调世界时减四小时，第二次对应减五小时，两者是不同的真实瞬间。约凌晨的交通、直播或会议时，光写日期和一点半仍然可能不够，需要说明偏移或使用带时区的日历记录。\n\n每周会议也要留心。\n伦敦、纽约与悉尼的换钟日期并不完全一致，南北半球的夏季也相反。因此同一对城市的时差，可能在某些周发生变化。固定每周北京晚上八点，和固定每周纽约早上八点，是两种不同的重复规则。先约定固定哪一方的当地时间，再让日历处理其他城市的变化。\n\n这一章，请记住。夏令时会改变城市之间的时差。重复时刻要明确偏移，固定例会要明确锚定城市。"
+    },
+    {
+      "id": "tour:foundation-date-line",
+      "textHash": "2e66e52fec6107559857ac5585a884792b970b773c8d68ddb0454389d19ab250",
+      "audioUrl": "audio/fb728987dbba0cf0e80d44dc8e5301d2dc0b7e43db353de70b611df303ca8e8f.mp3",
+      "durationMs": 114660,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "日期变更线：同一地球上的今天与明天。\n\n先理解跨过午夜。\n日期变化并不只发生在国际日期变更线附近。只要换算时跨过当地午夜，双方日期就可能不同。例如二零二六年十月二十八日北京上午八点，对应纽约十月二十七日晚上八点。你已经开始星期三，对方仍在星期二，所以“明天早上”必须说明是谁的明天。\n\n给日历接上一道边界。\n沿地球向东走，钟点会不断向前。绕完一圈后，日历需要一个地方衔接相邻日期，这就是国际日期变更线的作用。它大致位于太平洋一百八十度经线附近，但并不是笔直的自然线，也不是一堵墙；它会绕开一些政治边界和岛群。\n\n跨线怎样理解。\n跨过这条日期边界向西旅行，通常要把日期加一天；向东通常减一天，具体仍以目的地当地时间为准。飞机票上的出发和到达时间一般各用当地时间，因此表面上“回到前一天”不代表飞行时间为负。计算飞了多久，要把两个时刻先转换到共同参照。\n\n用岛屿做一次实验。\n可以把基里巴斯的圣诞岛与夏威夷的檀香山放在一起。它们都在太平洋，采用的民用日期却可能相差整整一天，而钟面小时相同。地理上的东西距离、日历日期和钟面读数并不是同一个量。重要邀约把年月日都写出来，再附双方当地时间，误会就会少很多。\n\n这一章，请记住。日期是时间的一部分，不能只比较小时。跨太平洋旅行要用统一参照计算经过的时长。"
+    },
+    {
+      "id": "tour:foundation-communication",
+      "textHash": "e87eb12d463a50207dacd605a22c9ef1bc9ef1f57c7687a215f34bebf80ccd11",
+      "audioUrl": "audio/abca98d2f44269d777e5132df55f6d2db8e117b1b1416107883bcd82b539a4ae.mp3",
+      "durationMs": 120780,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "从换算到相约：把时间说清楚。\n\n先问人在何处。\n跨国沟通时，先确认对方目前在哪座城市。一个人的国籍、公司总部和此刻所在地点可能不同，旅行也会改变当地时间。可以问“你现在在哪个城市”，或者用英语问，Which city are you in? 这比只问他来自哪个国家更有助于安排一次具体通话。\n\n再问生活安排。\n知道当地几点，并不代表知道对方是否方便。九点到十八点只是本软件的可编辑工作示例，轮班、通勤、照护责任、用餐和休息日都可能不同。先请双方给出可用星期和当地时段，再寻找交集。没有共同空档也很正常，可以缩短会议、换一天，或采用异步留言。\n\n写出完整约定。\n一个清楚的邀请包含完整日期、当地时间、城市和时长，最好补充当天的协调世界时偏移，并列出对方的当地时间。“Your time” 是你那边的时间，“My time” 是我这边的时间；“Local time” 需要说清地点。上午和下午也要明确，二十四小时制能减少一部分歧义。\n\n让日历完成确认。\n像 CST 这样的缩写可能指不同地区，不宜单独使用。确认后发送带时区的日历邀请，让双方日历显示各自当地时间，同时核对是否跨日和会议持续多久。软件可以帮助计算，实际是否方便仍需要对方确认。长期合作时，也可以轮流承担较早或较晚的时段，让安排更公平。\n\n这一章，请记住。先问城市与可用时段，再换算时间。日期、钟点、城市、偏移和时长一起表达。"
+    },
+    {
+      "id": "tour:continent-asia",
+      "textHash": "944993ad991f9d3325562f1cfab0425e6109b15676111e2630d534cea6fdaacb",
+      "audioUrl": "audio/896f37c9c857de587cd96860de0c5925285b49ddb9280899fdcad15d3cb967d9.mp3",
+      "durationMs": 119196,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "亚洲：从季风海岸到高原与沙漠。\n\n先找到亚洲。\n把地球转到东半球，你会看到亚洲从北方高纬地区延伸到赤道附近，并与欧洲相连。东面是太平洋，南面是印度洋。这里既有喜马拉雅山和高原，也有西亚的干旱地区、东南亚的热带海岸，以及受季风影响的广大区域。只用“亚洲天气”来概括，会遗漏很大差异。\n\n沿代表城市走一圈。\n从北京向东看，东京和首尔采用协调世界时加九小时，比北京快一小时。向南到新加坡，钟面与北京相同，但接近赤道的日照节奏不同。再向西到新德里和加德满都，你会遇到半小时和四十五分钟偏移。继续到迪拜，则进入协调世界时加四小时的城市生活。\n\n时差背后还有地理。\n这条路线告诉我们，相同钟面不等于相同天空，相邻国家也不一定差整小时。高原与海岸、内陆与海岛，会塑造不同的气候和出行条件；人口密集的大城市里，行业和通勤安排又会造成个人节奏差异。观察地图是起点，真正安排事情还要询问具体的人。\n\n怎样找联系窗口。\n以北京为参照，与东亚和东南亚城市联系通常比较容易找到白天交集；与南亚和西亚朋友则可以从北京下午开始试算。但这只是寻找候选时间的方向，不是对所有人的作息判断。选择实际日期、城市和可用时段，你会看到哪些交集真实存在。\n\n这一章，请记住。亚洲范围很广，气候与生活环境不能一概而论。东亚、南亚、西亚的时间差异包含非整小时偏移。"
+    },
+    {
+      "id": "tour:continent-europe",
+      "textHash": "1321a13973046a044ff925a5d49b5df8fecab395d3410578c93bafd5265b3f03",
+      "audioUrl": "audio/a2fd95237c3e383cad8e404d571f6816f5f7fb52159ab9f43e13d35db61f516a.mp3",
+      "durationMs": 122652,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "欧洲：城市相近，季节与钟点仍有差别。\n\n认识这片区域。\n欧洲位于欧亚大陆西部，西面连接大西洋，南面面向地中海，北部延伸到高纬地区。海岸线、半岛、岛屿与山地，让相对紧凑的区域拥有多样环境。伦敦在英国岛屿上，巴黎位于法国北部，柏林在欧洲内陆，马德里位于伊比利亚半岛的内陆高地。\n\n钟表如何排在一起。\n伦敦在标准时间期间采用协调世界时零偏移，夏令时期间加一小时。巴黎、柏林与马德里通常采用中欧标准时间，并在夏令时期间调整。这意味着跨过国境不一定换钟；反过来，同一个国家的不同地区也可能有例外，所以旅游和会议仍要按具体城市查。\n\n纬度改变日照体验。\n欧洲不少城市位于较高北纬，夏季白昼较长、冬季较短。向北旅行，这种反差更明显。晚上天还亮，并不等于商店、学校或某个人仍在工作。马德里的地理位置与法定时间也提醒我们：太阳位置和钟面数字不是完全重合的，生活安排还受到当地习惯影响。\n\n与亚洲怎样相约。\n中国下午常能对应欧洲上午或中午，可从这个方向寻找双方的工作交集。到了欧洲夏令时，时差会变化；欧美切换日期不同的几周，也值得再次核对。若团队同时包含北京、伦敦和纽约，通常需要至少一方较早或较晚参与，应由大家共同协商。\n\n这一章，请记住。欧洲多个国家可能同钟，但并非整个欧洲同一时区。高纬度日照变化与夏令时是两个需要分清的因素。"
+    },
+    {
+      "id": "tour:continent-africa",
+      "textHash": "2569ddab423b8f1ca4f6538680ac8abfee0ac4852f727cf62d48ee88e3cd74d9",
+      "audioUrl": "audio/6d839e398b50bf8369a154980bd57eb73e6aae8ec4d5289b87401a67deaf92f5.mp3",
+      "durationMs": 114624,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "非洲：赤道两侧的巨大地理差异。\n\n把非洲放回地球上。\n非洲横跨赤道，西面临大西洋，东面临印度洋，北面隔地中海与欧洲相望。北部的撒哈拉、赤道附近的雨林、东非高原和南部不同的气候区域，呈现出非常多样的自然环境。非洲不是一个国家，也不能用单一气候、语言或作息描述整片大陆。\n\n看两个城市。\n肯尼亚的内罗毕位于赤道附近的高地，南非的约翰内斯堡则位于南半球内陆高原。前者采用协调世界时加三小时，后者加两小时。两座城市相差一小时，但地理纬度、季节和城市生活各有特点。接近赤道不自动等于全年酷热，海拔同样重要。\n\n日期仍然不可省略。\n不要据这两个例子推断所有非洲城市都有同样时间。大陆东西跨度、沿岸岛屿和各地规则会带来不同偏移，部分地区还可能有季节性的钟表调整。对具体朋友，先确认城市，再让软件按日期计算，比笼统地说“非洲时间”更明确。\n\n从可用时段理解生活。\n中国下午可以对应内罗毕或约翰内斯堡的上午，常适合作为寻找交集的起点。具体能否通话，还要考虑当地工作日、通勤、宗教活动、公共假日和个人安排。把可用时间交给对方填写，你就能同时尊重地域差异和个体差异，而不是依赖一个大洲的想象。\n\n这一章，请记住。非洲横跨赤道，海拔、气候和生活环境差异很大。联系时用城市与个人日程，不用笼统的“非洲时间”。"
+    },
+    {
+      "id": "tour:continent-northamerica",
+      "textHash": "2c6b42abae91a40f09bd50a8206b01811a722d035dfc2b20a7fe68763fd33c11",
+      "audioUrl": "audio/5f4c1d8cc8ec539e4f9de233edc90c1f359aa5883a24975e84d5d534bda297a2.mp3",
+      "durationMs": 114336,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "北美洲：横跨大陆的时间跨度。\n\n先看大陆与海洋。\n北美洲西临太平洋，东临大西洋，向北伸入高纬地区，向南连接中美洲和加勒比地区。这里既有加拿大的广阔北方、美国东西海岸，也有墨西哥与众多岛屿。不要把北美洲简单等同于美国，也不要把一个国家想象成只有一个钟表。\n\n从东岸走向西岸。\n纽约位于美国东海岸，芝加哥在五大湖区域，洛杉矶位于太平洋一侧。按这些城市现行规则，纽约通常比芝加哥快一小时，比洛杉矶快三小时。加拿大的多伦多常与纽约同钟，圣约翰斯则展示半小时偏移。另有夏威夷等地区，需要采用各自规则。\n\n听懂东部与太平洋时间。\n工作中经常听到 ET，也就是美国东部当地时间，或 PT，也就是太平洋当地时间。它们是区域表达，不是全年固定的偏移数字。纽约和洛杉矶会经历夏令时，而北美并非所有地方都采取同样安排。对跨国伙伴，补上城市和具体日期最容易避免误会。\n\n把日期放在眼前。\n中国与北美之间时差较大，中国早上可能对应北美前一天的下午或晚上，中国晚上又可能对应对方当天清晨。想同时满足北京与美国东西海岸的白天工作时间，往往很困难。用完整日期试算，并协商较早、较晚或异步的方式，比单方面规定一个钟点更实际。\n\n这一章，请记住。北美包含许多国家和地区，时区规则也多样。ET、PT 仍要结合城市、日期和夏令时理解。"
+    },
+    {
+      "id": "tour:continent-southamerica",
+      "textHash": "780c66f3bc0cc2ea2fdad2f6a96bf4df4b551657ee81bac08af27a9aec1fcbc5",
+      "audioUrl": "audio/0df719684de89227da5e273d60f90bb4611504912cdabb2016783b60610c6ab3.mp3",
+      "durationMs": 119304,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "南美洲：从安第斯山到大西洋城市。\n\n沿大陆看地形。\n南美洲西侧面向太平洋，安第斯山系沿西部延伸；东侧面向大西洋，亚马孙流域位于大陆北部至中部的广大区域。大陆跨过赤道，并向南延伸到较高南纬。这里不仅有热带雨林，也有高山、干旱地带、草原与温带城市，旅行体验会因地点而改变。\n\n从巴西的城市入门。\n圣保罗位于巴西东南部，是了解南美城市时间的一个入口，按现行规则采用协调世界时减三小时。巴西领土辽阔，不能把圣保罗的钟点当作全国统一答案。南美其他国家和地区也有各自规则，历史上还出现过夏令时调整，因此最好让日期参与每一次换算。\n\n季节与时差分开理解。\n圣保罗位于南半球，它的季节与北京大体相反；接近赤道的地区则更适合从降雨和干湿变化理解生活环境。季节影响日照与活动，却不会自动决定一个城市的 UTC 偏移。是否调整钟表要查当地规则，不能因为正在过夏天就认定一定实行夏令时。\n\n寻找真实的交集。\n以北京和圣保罗为例，通常相差十一小时，中国白天和对方常规办公时间的重叠可能有限。可以尝试中国早晨对应对方前一天晚上，或中国晚上对应对方上午，但先确认对方愿意接受的时段。跨日邀请完整写出双方年月日，远比只说“周三九点”清楚。\n\n这一章，请记住。南美地形与纬度差异大，不能全部理解为热带。巴西有多个时区，季节也不自动等于夏令时。"
+    },
+    {
+      "id": "tour:continent-oceania",
+      "textHash": "1972933c2e945b9b86bf2ce9b85c8facba7b35784ce241f1be682f777940a494",
+      "audioUrl": "audio/f4b3e54b8e7f50d45acaae68071424125b67e549f131cd623bd9f720097fadc3.mp3",
+      "durationMs": 118440,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "大洋洲：海洋、岛屿与日期的边缘。\n\n这是一片海洋世界。\n这里采用的大洋洲路线，包括澳大利亚、新西兰和广阔太平洋中的众多岛屿。它并不只是澳大利亚一个国家：大陆内陆、温带海岸、山地岛屿和热带环礁拥有不同环境。地图上岛屿看起来很小，彼此之间却可能隔着很长的航程，时间与日期也不能凭距离直觉判断。\n\n澳大利亚内部就有差异。\n澳大利亚主要标准时间包括东部加十小时、中部加九小时三十分和西部加八小时。部分州在当地夏季调整钟表，另一些州不调整。因此悉尼、阿德莱德与珀斯之间的时间关系需要结合日期。不要把“澳洲时间”写进邀请后，就认为信息已经完整。\n\n南半球的换季节奏。\n新西兰奥克兰采用的标准时间为协调世界时加十二小时，夏令时期间加十三小时。当地夏季大体对应中国冬季，换钟也发生在南半球自己的季节里。与北京比较时，悉尼或奥克兰的时差会随日期变化，不能照搬欧洲和美国的月份记忆。\n\n再看日期变更线。\n继续向太平洋深处转动地球，会遇到日期变更线附近的岛群。基里巴斯的圣诞岛采用加十四小时的偏移，是理解“远方已经明天”的好例子。与这些地方约时间，既要看小时，也要看日期。中国上午或下午可作为联系澳新朋友的候选方向，再按个人日程缩小范围。\n\n这一章，请记住。大洋洲的陆地与岛屿分散，时区不能只按国名概括。南半球夏令时与北半球季节不同，太平洋还要留意跨日。"
+    },
+    {
+      "id": "tour:continent-antarctica",
+      "textHash": "a2494004da567a747e6658296ff0821acc80ecdc52da6e0cdd53f204e78eb097",
+      "audioUrl": "audio/ca084f90a56f2e5b5b0911ef036dde635441039ba8e1c0d710b3dfae2c96f893.mp3",
+      "durationMs": 123804,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "南极洲：当经线汇聚，时间怎样安排。\n\n来到地球南端。\n把视线移向南极洲。这片大陆围绕南极点，被广阔冰盖覆盖，环境与前面的大城市很不一样。这里的日常生活主要围绕科考、保障和季节性活动展开，不适合用某个国家的居民作息来概括。南极点附近的经线在一点汇聚，单靠经度选择钟点也失去了日常实用性。\n\n太阳不能每天提醒你。\n在高南纬地区，一年中可能经历持续的白昼或黑夜；越接近南极点，这种极端昼夜越显著。太阳不再像中低纬城市那样，每天用一次日出日落提示休息。科考站仍然需要固定的工作、用餐、值班和睡眠安排，因此钟表在这里尤其体现人类组织生活的作用。\n\n科考站怎样选时间。\n不同科考站可以采用不同当地时间，以方便补给、交通和协作。例如美国南极计划的麦克默多站与南极点站使用与新西兰相关的时间安排，帕尔默站则采用不同的当地时间。这个例子提醒我们：政治归属、地理经度与协作所用钟表，未必简单一一对应。\n\n把理解带回日常。\n如果要与科考人员联系，应询问具体站点、当时采用的时区和允许通信的时段，不能只说“南极时间”。即使没有昼夜变化帮助判断，明确的日期、时区与个人日程仍能让双方准确相约。走到地球尽头，你会发现，时区既描述地方差异，也帮助相隔遥远的人一起做事。\n\n这一章，请记住。南极不同科考站可以采用不同时间。极昼极夜说明，钟表安排与自然光照并非完全重合。"
+    },
+    {
+      "id": "tour:country-china",
+      "textHash": "18f8664758bfb85dbf6f4fcce44a44153ee5e6819e847b8c23853db5b2a6b065",
+      "audioUrl": "audio/aaef51aabafec87e20c3a3dee6805a396d644e677fdac663261a8d0a084e7c0a.mp3",
+      "durationMs": 94248,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "中国。\n\n先看地理。\n把视线移到亚洲东部。中国东部面向太平洋，西部延伸到高原、盆地和山地，南北又跨越不同气候带。北京、上海、成都、乌鲁木齐相距很远，因此地图上的“中国”不能被想象成一座城市。沿东西方向旅行，日出在钟面上出现的时刻会明显变化。\n\n再看时钟。\n中国大陆的官方标准时间统一为北京时间，也就是协调世界时加八小时。在本工具里，北京使用上海这个城市名对应的时区标识，这不表示时间来自上海，而是软件用代表城市保存同一套规则。按二〇二六年的规则，这套时间全年不拨夏令时。\n\n进入日常。\n全国钟表一致，并不意味着午饭、下班或天黑都一致。东部和西部可能把活动安排在不同钟点，同一城市的轮班者和办公室职员也有差别。与中国朋友联系时，可以先以北京为时区参照，再询问他所在城市和实际可用时段；谈新疆等地的日常口头时间，更要明确双方说的是哪套时间。\n\n这一章，请记住。统一标准时间与日照时刻是两回事。城市时区标识不等于授时地点。时间换算后还要确认个人作息。"
+    },
+    {
+      "id": "tour:country-uk",
+      "textHash": "dbbf3a6ce7fa82b84e1975e8ab9f067393040f61bf47c3e8822ca8c36e0d7713",
+      "audioUrl": "audio/42b40d9ac5d257a9b09d4d5b1aed81edc25a4c5b915489494b56cb50368a7a22.mp3",
+      "durationMs": 84204,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "英国。\n\n岛屿与纬度。\n英国位于欧洲西北部的大西洋沿岸，主要由大不列颠岛和爱尔兰岛东北部等区域组成。伦敦在英格兰东南部，苏格兰更靠北。较高纬度让一年中的白昼长度变化鲜明：同样是下班后的六点，冬季与夏季的自然光可能完全不同。\n\n标准时间与夏令时。\n英国冬季通常采用格林尼治时间，与协调世界时的民用钟点一致；夏令时期间快一小时。二〇二六年三月二十九日拨快，十月二十五日拨回。因此“英国永远比北京慢八小时”并不准确，夏令时期间通常只慢七小时。\n\n怎样表达清楚。\n朋友说英国时间或伦敦时间时，最好加上具体日期。若对方只说格林尼治时间，不要自动把它等同于当天伦敦的钟面。安排每周例会时，还要说明固定伦敦当地九点，还是固定北京时间；到切换季节，另一方的会议钟点可能移动。\n\n这一章，请记住。伦敦冬季与夏季的偏移不同。高纬度改变日长，不直接决定时区。每周会议需要指定固定哪一方的当地时间。"
+    },
+    {
+      "id": "tour:country-usa",
+      "textHash": "a2f3002473743c28de3dcaed85611cdb7680c02f438376cf9568bbb332a5863d",
+      "audioUrl": "audio/030ff53c25dd247bffbec5dfd4c73f9f52abb1ae862c5f0260d04a085fbebfce.mp3",
+      "durationMs": 85680,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "美国。\n\n从海岸看大陆。\n美国本土从大西洋沿岸延伸到太平洋沿岸。纽约在东部，芝加哥位于五大湖区域，洛杉矶在西部；阿拉斯加和夏威夷又有不同的位置与时间。看似一句“美国朋友”，实际可能指相隔许多小时的人。\n\n一张分区的时钟图。\n美国相连的四十八州主要涉及东部、中部、山地和太平洋时区。许多地区在二〇二六年三月八日至十一月一日采用夏令时，但夏威夷和亚利桑那州大部分地区等存在例外。纽约与洛杉矶通常相差三小时，但不要把这条关系直接套到所有州。\n\n跨洋沟通练习。\n北京时间晚上八点，在纽约夏令时期间是早上八点，在标准时间期间则是早上七点。这样的时间可能适合私人聊天，却未必适合上班会议。听到东部时间或太平洋时间，先补问城市、日期和上午下午，再让日历换算；遇到跨洲团队，轮流承担早晚时段比长期让一个人熬夜更公平。\n\n这一章，请记住。美国时间必须落实到城市。夏令时并非覆盖美国全部地区。东西海岸也有国内时差。"
+    },
+    {
+      "id": "tour:country-japan",
+      "textHash": "a58556eb747e98f5a1479d282b188c5fec8f5b7d2ea5e24f1a64ac6c935211eb",
+      "audioUrl": "audio/024e46412916472c588d0386706f8d32a2ac31dd98b56dfdc1dfb370bd3d1f22.mp3",
+      "durationMs": 81216,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "日本。\n\n列岛的形状。\n日本位于亚洲大陆东侧，是一条沿东北到西南方向延伸的岛链。北海道、本州、四国、九州以及更南方的岛屿，在纬度、地形和气候上都有差别。东京在本州的关东地区，不能代表北海道的冬季，也不能代表冲绳的海岛环境。\n\n统一的时钟。\n日本标准时间比协调世界时快九小时。按二〇二六年的规则，日本不采用夏令时，所以东京通常比北京快一小时。北京下午三点，对应东京下午四点；日期与分钟同时保持正确，换算就很直接。\n\n不要把文化印象当日程。\n你可能听说日本通勤、铁路或加班，但这些印象不能告诉你某位朋友几点方便。东京中心城区、郊区家庭和地方城镇可能有不同生活安排。最实用的问法是：“你当地周三下午四点方便吗？”之后把双方时间写出，并为通勤或私人安排留下余地。\n\n这一章，请记住。东京通常比北京快一小时。全国同一时区并不等于同一气候。以个人确认代替国家作息印象。"
+    },
+    {
+      "id": "tour:country-france",
+      "textHash": "5ef44788accaf950dce1d48dbf77c601aa2487a35d1a9d4b6f3fb36079d7fa62",
+      "audioUrl": "audio/4a3b9eaaf1a1f706c0947e74e8d03c0ac5eeb23f288089844d14acf7e2426ee6.mp3",
+      "durationMs": 78372,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "法国。\n\n先划定谈论范围。\n法国欧洲本土位于西欧，西侧面向大西洋，南侧连接地中海地区。巴黎在北部的塞纳河流域，南部城市与山区拥有不同地理环境。法国还包括分布于海外的地区，所以谈时间时，“法国”这个国家名称可能不够具体。\n\n巴黎的季节性变化。\n巴黎在标准时间期间为协调世界时加一小时，夏令时期间为加两小时。按二〇二六年的规则，它与柏林和马德里通常读同一个钟点。这里说的是欧洲本土的巴黎，不能把它套用于加勒比海或印度洋中的法国海外地区。\n\n从时钟走向约定。\n与巴黎同事协作时，北京的下午常能对应巴黎上午，但冬夏时差会改变一小时。午休、公共假日、工作制度和休假安排也需要单独确认。如果听到“法国时间下午两点”，请进一步明确是巴黎当地时间，并把日期放在邀请里。\n\n这一章，请记住。巴黎时间不代表所有法国海外地区。巴黎冬夏偏移不同。公共假期不能从时差计算中推断。"
+    },
+    {
+      "id": "tour:country-germany",
+      "textHash": "4a77ffedd56c54212d0b1b8f1111da42c1d82de87eeec1b5cc4743ab2c406ff8",
+      "audioUrl": "audio/550b14553d7889c08aced8fa4c3b958c6a6d27de5afc02cc49a26438da44abc8.mp3",
+      "durationMs": 79668,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "德国。\n\n在欧洲地图上定位。\n德国位于欧洲中部，北部临海，向南延伸到阿尔卑斯山北缘。柏林位于东北部，法兰克福、汉堡和慕尼黑分处不同方向。这样的空间位置，让德国与周边国家的铁路、公路和航空联系十分紧密。\n\n中欧时间的含义。\n柏林标准时间比协调世界时快一小时，夏令时快两小时。按二〇二六年的规则，柏林与巴黎、马德里通常同钟。这提醒我们：跨越国境不一定需要调表，而留在一个大国内旅行反而可能需要。\n\n准时从信息完整开始。\n不要只凭“德国人很守时”这样的概括安排会议。真正可操作的是给出完整日期、起止时间、城市时区和议程，并询问当地是否为休息日。德国各州也可能有不同假期；时钟一致并不能保证日历一致。北京与柏林的工作交集，可从北京下午、柏林上午开始寻找。\n\n这一章，请记住。跨国境不一定跨时区。相同时区仍可能有不同地方假日。完整邀请比文化标签更可靠。"
+    },
+    {
+      "id": "tour:country-spain",
+      "textHash": "1d6c3061915350e9f05c1bd25e8f3d10b51850c6732acf86e8100a8621f3ead5",
+      "audioUrl": "audio/5c659b514159bcc29855c33581f46c4170faf3d5750130ad446267f27b8b9c72.mp3",
+      "durationMs": 80136,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "西班牙。\n\n半岛与岛屿。\n西班牙大部分领土位于欧洲西南部的伊比利亚半岛。马德里在半岛内陆，地中海沿岸和大西洋沿岸又有不同环境。加那利群岛位于更西南方的大西洋中，在理解西班牙时间时是一个重要例外。\n\n钟面并不只听经度。\n马德里采用中欧时间，标准时间为协调世界时加一小时，夏令时为加两小时；加那利群岛通常比马德里慢一小时。尽管马德里的经度比许多中欧城市偏西，它仍与它们采用相同钟面，说明法定时间包含历史与社会选择。\n\n生活节奏的一个例子。\n西班牙官方旅游资料把午餐大致列在下午一点到四点，晚餐大致列在晚上八点到十一点。这是旅行参考范围，不代表每个家庭。你可以用它提醒自己主动询问用餐时段，而不是认定所有西班牙朋友都会晚睡。跨国邀请要同时核对城市、季节和个人安排。\n\n这一章，请记住。马德里和加那利群岛通常差一小时。法定时间不等于当地太阳时。用餐资料是提问线索，不是个人日程。"
+    },
+    {
+      "id": "tour:country-canada",
+      "textHash": "a1d18a42e1d62a0c4f36682357ffab8fe82c58a1d6417f171fe4e61dce4f0f67",
+      "audioUrl": "audio/2efb01a4fd88b9beeaf6efbc0ed130f5563569455667b72aa8f16bea176d4eb2.mp3",
+      "durationMs": 82008,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "加拿大。\n\n从太平洋到大西洋。\n加拿大横跨北美洲北部，从西部太平洋沿岸延伸到东部大西洋沿岸，向北还有广阔的高纬度地区。温哥华、多伦多和纽芬兰岛的圣约翰斯不在同一个时间位置。国土的东西跨度与南北纬度，都值得分开观察。\n\n地方规则很重要。\n加拿大时区和夏令时通常由省和地区规定，部分地方另有例外。多伦多采用东部时间；圣约翰斯采用带半小时偏移的纽芬兰时间。不要把多伦多是否拨钟的规则推广到全国；部分省份的规则会改变，未来安排应按具体城市和日期重新计算。\n\n半小时也要认真写。\n按二〇二六年的规则，多伦多与圣约翰斯通常相差一个半小时。若多伦多下午一点开会，圣约翰斯就是下午两点半。加拿大高纬地区的夏季长日和冬季短日，也不意味着每个人相应地延长或缩短工作；仍应让本人提供可用时间。\n\n这一章，请记住。加拿大规则要落实到省与城市。纽芬兰时间包含半小时偏移。近期政策变化后应重新确认未来日程。"
+    },
+    {
+      "id": "tour:country-brazil",
+      "textHash": "c421c9d79ac72c0a63a348b610bd43eb86750cf07617ca0cefc6ba48d3b3e4ad",
+      "audioUrl": "audio/340a22746741676d538438d55b3c4e4a7493570e28f551997a9090b726239327.mp3",
+      "durationMs": 80784,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "巴西。\n\n认识南美洲东侧。\n巴西占据南美洲东部的大片区域，东侧拥有漫长的大西洋海岸，内陆延伸到亚马孙流域和高原。它跨越赤道，但人口众多的圣保罗位于南半球。北部与南部的季节感受、降雨和生活环境不能简单归为一类。\n\n不能只记首都钟点。\n巴西使用多个时区。圣保罗采用与巴西利亚相同的时间，按二〇二六年规则为协调世界时减三小时，不进行夏令时调整；更西面的地区和大西洋中的岛屿另有偏移。因此朋友说巴西时间时，最有用的追问仍是具体城市。\n\n跨日如何影响联系。\n北京比圣保罗快十一小时。北京晚上九点，对应圣保罗当天上午十点；北京凌晨一点，却对应圣保罗前一天的下午两点。这个例子说明，跨国聊天只比较钟点容易漏掉日期。谈冬天或夏天也要说明是哪一方的季节，尤其在北京与圣保罗之间。\n\n这一章，请记住。巴西不只有一个时区。圣保罗在南半球。跨过午夜时必须同步调整日期。"
+    },
+    {
+      "id": "tour:country-singapore",
+      "textHash": "8038621c0025f9e53bfd01008a63f125e4225abfb1d1c85e8f862c3a5d821d8c",
+      "audioUrl": "audio/de293488441cff3d70a41f42ca45c5dd3e464d752b3dfdbd7e7376d03f33b63b.mp3",
+      "durationMs": 79272,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "新加坡。\n\n国家与城市重合的例子。\n新加坡位于东南亚、马来半岛南端附近，是由主岛和周边岛屿组成的城市国家。它接近赤道，地理位置连接多条区域贸易与交通路线。与中国或美国相比，这里不需要先在辽阔国土中辨认某一座远方城市。\n\n钟表相同不等于太阳相同。\n按二〇二六年规则，新加坡采用协调世界时加八小时，不采用夏令时，因此与北京没有钟面时差。然而新加坡纬度低，一年中日长变化相对较小，热带气候和季风更突出；北京则有明显的温带季节与日长变化。\n\n零时差仍要约时间。\n你可以直接对照两地的同一个钟点，但不能因此默认午休、用餐和节假日一致。新加坡拥有多元文化和不同节庆安排；个人工作班次也有差别。约当地下午四点时，仍应说明日期、时长，并问对方是否方便。这是学习“时差只是沟通的一部分”的好例子。\n\n这一章，请记住。新加坡与北京通常同钟。赤道附近的日长较稳定。没有时差仍需确认个人日程。"
+    },
+    {
+      "id": "tour:country-korea",
+      "textHash": "efd10c6ffea554272c7da219d976de5b556a271b2baa834506f34ec542759e96",
+      "audioUrl": "audio/990bdc82c0b9129558c778dd8fea83d3c19d36e34af027d70200016f72310a7e.mp3",
+      "durationMs": 80244,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "韩国。\n\n先定位半岛。\n韩国位于朝鲜半岛南部，西侧隔海与中国相望，东南方向隔海接近日本。首尔位于国土西北部，釜山则靠近东南海岸。山地、海岸与城市空间共同影响通勤和生活，不能用首都的一天代表全部地区。\n\n首尔的时间规则。\n按二〇二六年的规则，韩国采用协调世界时加九小时，不采用夏令时。因此首尔与东京的钟点相同，并比北京快一小时。它们属于不同国家，却可以在同一瞬间读出相同时间，这正好说明国家边界和时区边界并不是一一对应的。\n\n联系的实际做法。\n北京下午两点，对应首尔下午三点，这是容易安排的一类近距离时差。但相近时区并不会消除课程、会议、轮班和节庆差异。先问“首尔当地三点方便吗”，再写上完整日期。不要仅凭流行文化里看到的深夜生活，推断朋友愿意在夜间工作或聊天。\n\n这一章，请记住。首尔比北京快一小时。不同国家可以使用相同钟点。文化形象不能代替实际可用时段。"
+    },
+    {
+      "id": "tour:country-india",
+      "textHash": "31f47a44069d5b048aba45e97eedf469c01bc513418eb295dbc9d0874edfba69",
+      "audioUrl": "audio/c0f8babbd2283b4b5cb7716d94af9fff8c3d8b02a457fc01dca11f6012ce663c.mp3",
+      "durationMs": 83088,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "印度。\n\n南亚的广阔空间。\n印度位于南亚，北侧接近喜马拉雅山地，南部半岛伸向印度洋。新德里在北部，孟买位于西部沿海，班加罗尔在更南方。季风、纬度和地形带来明显的地区差异，一张全国作息表难以描述真实生活。\n\n认识五小时三十分。\n印度标准时间由国家计量机构维护，比协调世界时快五小时三十分。按二〇二六年规则，全国通用这一标准，不采用夏令时。它比北京时间慢两个半小时：北京下午三点，对应新德里中午十二点半。分钟位也必须参与换算。\n\n工作交集不难找。\n中国与印度通常有较多白天重叠，但午餐、节假日和团队班次仍需确认。若朋友用三个英文字母来简称印度标准时间，最好补上“新德里”与明确偏移，因为相同缩写在别处可能有不同含义。跨国软件团队也可能按客户时间上班，不能直接套用当地九点到六点。\n\n这一章，请记住。印度偏移包含三十分钟。北京比新德里快两个半小时。时区缩写要用城市补充说明。"
+    },
+    {
+      "id": "tour:country-nepal",
+      "textHash": "91802315a56b50586e42bc723ecce46ca34acfe90e156b90bc94f80d0ae36e19",
+      "audioUrl": "audio/2e666869a9418b8b4622d5f296b15f0ae888131d9bf6b4ac54c13a7a003de82e.mp3",
+      "durationMs": 82260,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "尼泊尔。\n\n山地之外还有多种环境。\n尼泊尔位于中国与印度之间，北部是喜马拉雅高山，向南过渡到丘陵、河谷和平原。首都加德满都位于山谷地区。不要把全国都想象成终年积雪的山顶：海拔变化让相距不远的地方拥有不同环境。\n\n特别的分钟偏移。\n按二〇二六年规则，尼泊尔时间比协调世界时快五小时四十五分，不采用夏令时。它比新德里快十五分钟，比北京慢两小时十五分。北京下午三点，对应加德满都中午十二点四十五分。邻国之间的时间差不一定是一小时。\n\n让分钟也进入邀请。\n如果把十二点四十五分随手写成一点，就已经误差十五分钟。跨国通话、接机和线上课程都值得保留准确分钟。与朋友商量时，直接写“你当地十二点四十五分”，并附上对应的北京时间；时间换算正确后，再确认对方是否在上课、工作或用餐。\n\n这一章，请记住。尼泊尔采用四十五分钟偏移。与印度通常只差十五分钟。海拔影响环境，不能用来推算时区。"
+    },
+    {
+      "id": "tour:country-uae",
+      "textHash": "5b3676fb3ba06114e2c891401d589a01cb6de033feef57ea892885a7eabbb50c",
+      "audioUrl": "audio/4de9ff4d526d2386a0e80f709fe5826f1362e4a3cc953519ec0180259229fd84.mp3",
+      "durationMs": 81720,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "阿联酋。\n\n从地图识别国家与城市。\n阿拉伯联合酋长国位于阿拉伯半岛东南部，由七个酋长国组成。阿布扎比既是一个酋长国名称，也有同名的国家首都；迪拜则是另一个酋长国及其主要城市。城市的国际知名度与是否为国家首都没有必然关系。\n\n海湾时间怎样换算。\n按二〇二六年规则，迪拜和阿布扎比采用协调世界时加四小时，不采用夏令时。它们比北京慢四小时：北京时间下午四点，在迪拜是中午十二点。这种稳定偏移有利于安排亚洲与欧洲之间的联络。\n\n工作周与季节安排。\n工作制度可能因政府部门、企业、行业和季节而不同，特殊节日期间也可能调整。不要笼统认定所有中东地区都在同一天休息，更不要把某个政府部门的规定当成所有居民的作息。询问实际工作日和可用时段，往往比仅计算时差更重要。\n\n这一章，请记住。迪拜不是阿联酋首都。阿联酋通常比北京慢四小时。工作周必须向具体的人或机构确认。"
+    },
+    {
+      "id": "tour:country-thailand",
+      "textHash": "0023975ffabeecc08336854d1141477e5cf84819c0d8d30795281fe0e797b383",
+      "audioUrl": "audio/a864e1e7fce5b094579324e6ebd4bbd3e641ee8fbdbbbd41f6e44c4dfbc7a883.mp3",
+      "durationMs": 79704,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "泰国。\n\n南北延伸的国土。\n泰国位于东南亚大陆部分，北部有山地，中部是重要河流平原，南部沿半岛向下延伸。曼谷在中部偏南的湄南河流域，清迈与普吉岛则处于不同地理环境。雨季与旅游活动也会因地区而变化。\n\n统一的当地时间。\n按二〇二六年规则，泰国采用协调世界时加七小时，不采用夏令时。曼谷比北京慢一小时：北京上午十点，曼谷上午九点。旅行时即使飞行只花数小时，抵达时间仍需要按目的地钟表理解，不能只看机票上的数字相减。\n\n把方便说具体。\n较小的时差通常方便联系，但服务业、餐饮业和办公室的工作时段不同。朋友在海岛度假，也不等于随时在线。约视频时可以先提出曼谷当地下午两点，并说明北京时间下午三点；机票、酒店或活动预约，则核对各自地点标注的当地日期。\n\n这一章，请记住。曼谷通常比北京慢一小时。国土内气候差异与时区差异分开看。旅行文件的起降钟点按各机场当地时间理解。"
+    },
+    {
+      "id": "tour:country-southafrica",
+      "textHash": "7f1e590cce83de69790205cfa6803fc22038215f921718ae70ba31f37b301f9b",
+      "audioUrl": "audio/bcb39d92a1f0bb5a12c5b81bc6b76ee26ec6e16584bd1181ac37f6d02632d26f.mp3",
+      "durationMs": 77832,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "南非。\n\n非洲大陆的南端。\n南非位于非洲大陆南部，拥有沿海地区、内陆高原和不同气候环境。约翰内斯堡是内陆大城市，开普敦则位于西南沿海。谈论南非的天气与日常时，至少需要知道是内陆还是沿海，以及处于哪一个季节。\n\n稳定的南非标准时间。\n按二〇二六年规则，南非采用协调世界时加两小时，不使用夏令时，北京比这里快六小时。欧洲夏令时期间，巴黎或柏林可能与约翰内斯堡同钟；欧洲拨回标准时间后，这种关系又会改变。一个地方不拨钟，不代表它与所有地方的时差都不变。\n\n同钟也能相反季节。\n南非位于南半球。北京进入冬季时，南非许多地方进入夏季，但各地气候仍有差别。跨国会面可以先从北京下午、南非上午寻找交集；如果聊“今年夏天见面”，还应确认双方指的是哪几个月。\n\n这一章，请记住。南非通常比北京慢六小时。不拨钟的城市也会与别处产生变化的时差。南北半球季节要用月份说清楚。"
+    },
+    {
+      "id": "tour:country-kenya",
+      "textHash": "8c06e411c5ff8f2c6a8b076e73a15c2530c2f24f4cb5e8f02db72d49590f9a55",
+      "audioUrl": "audio/02da48828318cb38a2aa349113185127c7729948360056577ec702bdf8d95ba9.mp3",
+      "durationMs": 78264,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "肯尼亚。\n\n赤道与高地。\n肯尼亚位于东非，赤道穿过国土，东南方向面向印度洋。首都内罗毕位于内陆高地，蒙巴萨则在沿海。即使纬度都不高，海拔与海洋影响仍让两地的气候体验不同；“非洲”也不是一张统一炎热的生活地图。\n\n东非时间。\n按二〇二六年规则，肯尼亚采用协调世界时加三小时，不采用夏令时。北京比内罗毕快五小时。北京下午三点时，内罗毕是上午十点，因此双方通常能够在白天找到一些工作交集。\n\n先确认表达方式。\n国际沟通中，直接使用具体城市、日期和二十四小时制最清楚。地方语言中对一天的描述可能有自己的习惯，不能只凭一个口头数字就认定对方的意思。确认“内罗毕当地上午十点”，再用日历邀请对齐，能减少语言和时区共同带来的歧义。\n\n这一章，请记住。内罗毕是赤道附近的高地城市。北京通常比内罗毕快五小时。纬度、海拔与标准时间是三个不同维度。"
+    },
+    {
+      "id": "tour:country-australia",
+      "textHash": "4759fbea367cc0c399bbc48a42aa1af4d2d15f3b236b27335d190f50189f620e",
+      "audioUrl": "audio/54a83e6e1fbbb0ed45619e899294099b32645fa2dd450bf7b38397190a19e15b.mp3",
+      "durationMs": 87300,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "澳大利亚。\n\n大陆尺度的空间。\n澳大利亚位于南半球，国土从印度洋一侧延伸到太平洋一侧，内陆与沿海环境差异很大。悉尼在东南沿海，阿德莱德更偏西，珀斯位于西海岸。先看城市位置，再谈当地时间，才能避免把整个国家看成同一个钟面。\n\n多套标准与例外。\n主要标准时间包括协调世界时加八小时、加九小时三十分和加十小时。部分州采用夏令时，部分不采用。悉尼会在当地夏季拨快一小时，阿德莱德也会；昆士兰、北领地和西澳大利亚则不采用夏令时。半小时偏移不能在换算时省略。\n\n季节方向会翻转。\n澳大利亚的夏令时季节与北半球不同。北京进入秋冬时，悉尼可能正使用夏令时；你把北半球“夏天加一小时”的记忆直接搬过来，就会出错。固定每周会议前，选择城市时区并检查切换日期；涉及不同澳洲城市时，逐一换算比只写“澳大利亚时间”可靠。\n\n这一章，请记住。澳大利亚同时存在多种偏移。不是每个州都采用夏令时。南半球的夏令时季节与北半球不同。"
+    },
+    {
+      "id": "tour:country-newzealand",
+      "textHash": "f94b18a46f29f1db8ea8fbdfa17c09ec0e27d11c3de160a8576711f3649faca3",
+      "audioUrl": "audio/82bda537733500dfe962bb1b359f555a0ba19f927772ceaec4cf5218d5bec180.mp3",
+      "durationMs": 80208,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "新西兰。\n\n岛屿的位置。\n新西兰位于澳大利亚东南方向的太平洋上，主要由北岛和南岛等岛屿组成。奥克兰位于北岛，首都惠灵顿在北岛南端。南北延伸的岛屿、山地和海洋，使不同地区的天气和日长各有变化。\n\n向前的钟面。\n新西兰主要岛屿的标准时间为协调世界时加十二小时，夏令时为加十三小时。查塔姆群岛另有四十五分钟偏移，不能把奥克兰规则直接套用到所有岛屿。按现行安排，夏令时通常在九月末开始，到次年四月初结束。\n\n约时间也要约日期。\n北京晚上九点，在奥克兰可能已经是次日凌晨一点或两点。看上去只有四五小时时差，却足以跨日并进入睡眠。与新西兰朋友联系，可优先从北京上午和中午寻找双方白天的交集；提到“周五晚上”，一定注明是哪座城市的周五。\n\n这一章，请记住。奥克兰通常比北京快四或五小时。查塔姆群岛有额外四十五分钟差异。傍晚联系要留心对方已经跨日。"
+    },
+    {
+      "id": "tour:country-kiribati",
+      "textHash": "e6f6c9302df99b28cef1bec28577fb1c590d597684f0b32f92d91321cb601529",
+      "audioUrl": "audio/3aff4027b3691bff541bafe9729a42c463465e7994403488060208b42842c0cd.mp3",
+      "durationMs": 81360,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "基里巴斯。\n\n海洋中的国土。\n基里巴斯是太平洋岛国，岛屿分布于吉尔伯特、菲尼克斯和莱恩等群岛，彼此之间隔着广阔海面。塔拉瓦与基里蒂马蒂并非同一座岛，也不应被当成一座城市。理解这里，海洋距离比地图上很小的陆地面积更重要。\n\n跨过十二小时的偏移。\n按二〇二六年规则，不同岛群使用协调世界时加十二、加十三或加十四小时。基里蒂马蒂使用加十四小时，属于很早迎来新日历日期的有人居住地区。时区偏移超过十二小时并没有矛盾，因为日期也一起参与这套约定。\n\n一个难忘的比较。\n基里蒂马蒂与檀香山的钟面小时和分钟通常相同，却相差整整一个日历日。基里蒂马蒂星期三上午九点，檀香山是星期二上午九点。用这个例子练习邀请时，首先把双方年月日写全，然后再谈几点；也不要把这里与印度洋中的澳大利亚圣诞岛混淆。\n\n这一章，请记住。基里巴斯有多个岛群和时区。基里蒂马蒂与檀香山通常相差整整一天。同名圣诞岛需要明确国家和位置。"
+    },
+    {
+      "id": "tour:city-beijing",
+      "textHash": "76a38376dde6f0da0b37d954215b2914263f7dba80687810b7a9e9563307f533",
+      "audioUrl": "audio/aaa7de68eebf6cfeed98db67af34fe3d84308d25b7025017a745a9507067bf79.mp3",
+      "durationMs": 75384,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "北京。\n\n这座城市在哪里。\n北京位于中国北部，靠近华北平原北缘，是中国首都。故宫、中轴线、胡同和现代城市街区，为这座城市提供了不同时间尺度的印记。向北和向西望去，山地又提醒我们，城市并不是脱离地理背景存在的一张地图点。\n\n钟表与太阳。\n北京采用协调世界时加八小时。北京本地经度并不是东经一百二十度，所以太阳达到最高位置的时刻，不必恰好是钟表十二点。标准时间服务于社会协作，太阳时则描述天体位置，两者有关联却不完全相同。\n\n把北京作为起点。\n先把时间拨到北京下午四点，再看伦敦、纽约和东京。它们读出不同数字，但对应同一个瞬间。随后将日期从一月改到七月，观察纽约或伦敦的差值变化。这样，你就能把熟悉的作息变成理解全球时间的标尺。\n\n这一章，请记住。标准时间不要求太阳正午恰好十二点。先比较同一瞬间，再比较不同季节。"
+    },
+    {
+      "id": "tour:city-london",
+      "textHash": "179e5f6eccf9ba43d1510db8497378997f001d2941dc22a61e646ba52ae73429",
+      "audioUrl": "audio/8c811661d70e90be4e8958fb8b7a6c572fbc9ab616cdf0b40bda02925e1b4cf8.mp3",
+      "durationMs": 75528,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "伦敦。\n\n沿着泰晤士河认识城市。\n伦敦位于英国东南部，泰晤士河穿过城市。格林尼治位于伦敦东南一带，它与本初子午线和世界计时史紧密相连。地图上的零度经线是一条参考线，并不会让附近居民拥有一种不随社会规则变化的特殊时间。\n\n零偏移也有季节。\n伦敦标准时间为协调世界时加零，夏令时为加一小时。二〇二六年十月二十八日，北京下午四点对应伦敦上午八点；换到当地夏令时期间，同样的北京时间通常对应上午九点。\n\n从历史走向联系。\n伦敦夏季白昼较长，冬季较短，不能凭“天还亮着”判断对方是否仍在工作。发邀请时写“伦敦当地时间”，配合完整日期，比只写格林尼治时间更稳妥。与纽约协调时，还要留意欧美切换夏令时的周次并不完全一致。\n\n这一章，请记住。伦敦有标准时间和夏令时。欧美切换周可能暂时改变彼此时差。"
+    },
+    {
+      "id": "tour:city-newyork",
+      "textHash": "70dbc23e9f7738ccfd9d2aea049caae10ddef92d7e94464ad54546146855c297",
+      "audioUrl": "audio/15a1d80d30fcca1361d52f79bd7ef93170ac393e4eef688748439862bf11becb.mp3",
+      "durationMs": 72648,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "纽约。\n\n港口与城区。\n纽约位于美国东北部大西洋沿岸附近，哈德孙河口与港湾塑造了城市空间。曼哈顿只是纽约的一部分；布鲁克林、皇后区等区域也各有生活节奏。金融、艺术和移民文化并存，不能用一个职业描述整座城市的人。\n\n分清东部时间。\n纽约标准时间是协调世界时减五小时，夏令时是减四小时。北京时间晚上八点，在纽约可能是当天早上七点或八点。三月拨快会跳过一个小时，十一月拨回则会让某些凌晨钟点出现两次。\n\n会面如何公平。\n中国与纽约的日间工作交集有限。若只在北京白天开会，纽约伙伴可能需要清晨或深夜参加。先询问本人可接受的范围，再考虑轮换早晚时段或异步留言。邀请里同时列出两个城市的日期，会比一句“明天早上”明确得多。\n\n这一章，请记住。纽约冬夏与北京通常差十三或十二小时。跨洋会议要同时考虑双方生活成本。"
+    },
+    {
+      "id": "tour:city-tokyo",
+      "textHash": "ac2b0cc36207f79877bcf034db6b390cb939ee9022ade35cc3d4f2eb1667307b",
+      "audioUrl": "audio/e74c1e7b477c35bc0e4759a72488db8f823f9a61dd472f11386c80b11620c186.mp3",
+      "durationMs": 68544,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "东京。\n\n东京不只是高楼。\n东京位于日本本州关东地区南部。人们熟悉的繁忙城区只是东京都的一部分，西侧还有多摩地区和山地，行政范围也包括太平洋中的岛屿。认识城市时，都市照片不能替代完整的地理尺度。\n\n先掌握简单的换算。\n东京采用协调世界时加九小时，按二〇二六年规则没有夏令时。北京上午九点，东京上午十点；北京夜里十一点半，东京已经进入第二天凌晨零点半。即使仅差一小时，也可能改变日期。\n\n从时区到个人日程。\n跨境团队通常容易找到白天交集，但通勤和个人生活仍应尊重。对方如果说“十点见”，补问是东京十点还是北京十点。写成“东京十点，北京九点”，双方立即就能核对是否在讨论同一个瞬间。\n\n这一章，请记住。一小时时差也可能跨日。东京的行政范围远超中心城区。"
+    },
+    {
+      "id": "tour:city-paris",
+      "textHash": "5f5ee676b914fdf612022deaa9603cc7b880225f3d057f2fb5e10e6995532696",
+      "audioUrl": "audio/52a3d6c697001c41a384eb5cd2c6ccaed578310a48c671cff1f293e4efe8b542.mp3",
+      "durationMs": 69840,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "巴黎。\n\n地理与城市意象。\n巴黎位于法国北部，塞纳河穿过城市。桥梁、街区、博物馆和公共空间让人容易建立鲜明印象，但旅游中的巴黎只是城市生活的一部分。居住地、工作地点和通勤距离，同样决定某个人一天的安排。\n\n巴黎时间怎样变化。\n巴黎标准时间比协调世界时快一小时，夏令时快两小时。北京通常比巴黎快七小时或六小时。北京时间下午三点，巴黎会是当天上午八点或九点，差别来自具体日期的时钟规则。\n\n邀请要考虑哪一天。\n如果需要固定每周巴黎上午九点，请让日历保存巴黎时区，而不是全年硬记北京时间下午三点。当地公共假期与休假也要另外确认。城市景点开放时间、餐厅营业时间和朋友的工作时间是三种不同信息，不能相互替代。\n\n这一章，请记住。巴黎冬夏偏移相差一小时。重复会议应保存城市规则。"
+    },
+    {
+      "id": "tour:city-berlin",
+      "textHash": "4edd07c6c3fc5e2c9c9602f77734ac3d6182f20b0ef644b8b52eac60b9997a09",
+      "audioUrl": "audio/2dcf6208a57f9eb1359c4a8dcca1136585c64babf85b57ceb7c3977217fe50a5.mp3",
+      "durationMs": 67680,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "柏林。\n\n一座东北部首都。\n柏林位于德国东北部，河流、湖泊、公园与不同历史时期形成的街区共同组成城市。它与慕尼黑或汉堡同属德国，但位置与城市结构不同。理解生活节奏时，先认识城市本身，比套用全国印象有用。\n\n同钟的欧洲伙伴。\n柏林采用中欧标准时间与中欧夏令时，分别对应协调世界时加一和加二小时。它与巴黎通常同钟；但相同钟点并不保证太阳高度相同，因为经度、纬度和季节都在影响日照。\n\n用两个问题确认。\n与柏林朋友联系，可以分别问：“你那边现在是哪套当地时间？”以及“这个钟点你方便吗？”前者是换算问题，后者是个人安排。北京下午与柏林上午常有交集，具体月份仍由日历计算。\n\n这一章，请记住。同一时区不等于相同日照。时间正确与对方方便是两个问题。"
+    },
+    {
+      "id": "tour:city-madrid",
+      "textHash": "50a109d5d66043eaa5a18430b94f0d46600facd359f3f1472a16f8756bb79959",
+      "audioUrl": "audio/d24658df48f64a74c60f274faa13c9a5bebb525f430fe75ed0f0081706c11b0f.mp3",
+      "durationMs": 66492,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "马德里。\n\n内陆高地上的首都。\n马德里位于西班牙内陆，而不是地中海边。它的城市广场、博物馆与街区生活，与沿海度假城市呈现不同背景。把视线放到地图上，你会发现它比许多采用中欧时间的城市更偏西。\n\n同一钟面下的差别。\n尽管地理位置偏西，马德里仍使用中欧标准时间和夏令时。按二〇二六年规则，它通常与巴黎、柏林同钟。法定时区是社会约定，不是每十五度经度就必须自动换一次钟表。\n\n晚餐资料怎么用。\n西班牙官方旅游信息提示，晚餐经常落在晚上八点到十一点的范围。这可以成为询问对方用餐时间的线索，却不能证明朋友一定晚睡。约北京时间夜间通话时，先确认马德里当地日期与钟点，再问是否碰到用餐或私人活动。\n\n这一章，请记住。马德里展示经度与法定时间的差别。用餐范围只能辅助沟通。"
+    },
+    {
+      "id": "tour:city-la",
+      "textHash": "785e42ecba2f23dc6b7fbbe0b3a918789a227ab931aec0f58aeb0a815c7a74db",
+      "audioUrl": "audio/17e284318e351c45520758e7a06ecc047614c30599ba304109a72650ec708924.mp3",
+      "durationMs": 71820,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "洛杉矶。\n\n城市与大都会地区。\n洛杉矶位于美国加利福尼亚州南部，靠近太平洋，周边还有山地与广阔的大都会区域。电影产业是它的一张名片，住宅、校园、港口和其他行业也构成日常。地理距离与通勤时间会影响人们何时能接电话。\n\n太平洋时间。\n洛杉矶标准时间为协调世界时减八小时，夏令时为减七小时。北京通常快十六或十五小时。北京上午九点，对应洛杉矶前一天傍晚五点或六点，日期差不能被忽略。\n\n把双日期写出来。\n如果你想约“周三早上”，请明确这是北京的周三，还是洛杉矶的周三。对中美西海岸沟通，北京上午可能对应对方前一天的下班前后，但是否可用仍需商量。每周会议在切换夏令时后，也要重新检查两边钟点。\n\n这一章，请记住。北京上午可能对应洛杉矶前一天傍晚。太平洋时间须配合日期。"
+    },
+    {
+      "id": "tour:city-chicago",
+      "textHash": "61565e93dff92ede4a34ff783ed48f65069182274cb2a964d919c4cbb25181e7",
+      "audioUrl": "audio/c84dab73dee039f83cec4ca6586b87278192423095e242e240c565faf98741ba.mp3",
+      "durationMs": 72972,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "芝加哥。\n\n湖岸不是海岸。\n芝加哥位于密歇根湖西南岸，是美国中西部的重要城市。辽阔湖面容易让初看照片的人联想到海洋，但这里属于五大湖区域。铁路、商业、建筑与音乐文化共同塑造了城市，而冬夏体验也与湖岸位置有关。\n\n中部时间怎样排。\n芝加哥使用美国中部时间，标准时间为协调世界时减六小时，夏令时为减五小时。按通常规则，芝加哥比纽约慢一小时，比洛杉矶快两小时。国内会议也可能同时涉及这些不同钟面。\n\n缩写需要展开。\n中部标准时间的英文缩写也常写作三个字母，恰好与中国标准时间的常见缩写相同。收到这样的邀请时，不要仅看缩写。把“芝加哥当地上午九点”写清楚，再附具体偏移和日期，歧义就少了很多。\n\n这一章，请记住。芝加哥在湖岸，不在海岸。中部时间缩写可能与中国标准时间混淆。"
+    },
+    {
+      "id": "tour:city-toronto",
+      "textHash": "f3ad048e5891c7ea9023a80030f5a9696445184e82a86e3e63ff108f3f31ca8b",
+      "audioUrl": "audio/32a1c6bd0eff27f6b371cc478802932f64d5ac2705ed325fae39476ef5277ec2.mp3",
+      "durationMs": 68580,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "多伦多。\n\n在五大湖区域定位。\n多伦多位于加拿大安大略省南部、安大略湖西北岸。它是人口与经济活动集中的城市，但加拿大首都是渥太华。国家首都、最大城市和最知名旅游城市，可能是不同地方，辨认清楚也有助于选择正确时区。\n\n与纽约同看东部时间。\n多伦多采用东部时间，按二〇二六年规则，标准时间为协调世界时减五小时，夏令时为减四小时，通常与纽约同钟。不过加拿大其他省份和地区可能有不同安排，不能从多伦多推断全国。\n\n同钟不等于同日历。\n纽约与多伦多即使同钟，公共假期、学校安排和公司日程也可能不同。跨境团队可以复用时间换算，却仍需核对双方日历。如果朋友准备从多伦多飞往加拿大西部，行程中的当地时间要跟着目的地城市重新计算。\n\n这一章，请记住。多伦多不是加拿大首都。纽约和多伦多同钟仍可能有不同假日。"
+    },
+    {
+      "id": "tour:city-stjohns",
+      "textHash": "38dbf313c5f11187ef947700b6e3d87d9b39898c2ee8250e8654ebb5137f0e86",
+      "audioUrl": "audio/cf768aa886bb0466a45711a947efc5c4555124579c0a22d91ae5644c7747942f.mp3",
+      "durationMs": 66312,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "圣约翰斯。\n\n大西洋一侧的港城。\n圣约翰斯位于加拿大纽芬兰岛东部，面向北大西洋，是纽芬兰与拉布拉多省的首府。它与加拿大内陆大城市处于不同海岸环境。请注意，这座城市与加拿大另一座常被译为圣约翰的城市不是同一个地点。\n\n钟点里的三十分。\n纽芬兰标准时间为协调世界时减三小时三十分，夏令时为减两小时三十分。按二〇二六年规则，圣约翰斯通常比多伦多快一个半小时。多伦多上午九点，对应这里上午十点半。\n\n清楚到分钟与地名。\n约会时保留“半点”，并写出纽芬兰的圣约翰斯或完整城市时区。北京和这里的日期也可能不同。这个城市很适合用来打破“北美时区全部差整小时”的印象，提醒我们以真实城市规则代替心算猜测。\n\n这一章，请记住。圣约翰斯使用半小时偏移。同名或近似译名城市须再确认。"
+    },
+    {
+      "id": "tour:city-saopaulo",
+      "textHash": "0a1e2b3092dabfe6e98b78d59371f0726918c396d50fc73c02932b92df0fae44",
+      "audioUrl": "audio/d4c1c53c77dbff753015dce3bb65be58a88c45766f4f4267dc78d11a6279d8e7.mp3",
+      "durationMs": 72684,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "圣保罗。\n\n一座内陆大都市。\n圣保罗位于巴西东南部，靠近大西洋沿岸地区但市中心在内陆高地上。它是重要的经济与文化城市，并非巴西首都；首都是巴西利亚。不要把圣保罗、里约热内卢和巴西利亚当成同一个城市的不同称呼。\n\n稳定偏移下的跨日。\n按二〇二六年规则，圣保罗采用协调世界时减三小时，不采用夏令时。北京比这里快十一小时。北京晚上十点，是圣保罗当天上午十一点；北京刚过午夜时，圣保罗仍在前一天。\n\n季节与会议。\n圣保罗在南半球，季节方向与北京不同。聊天时说“夏天来见面”，最好补上月份。安排工作会面，可从北京傍晚到夜间、圣保罗上午的重叠范围开始商量，同时避免把“有时差”当成要求对方随时在线的理由。\n\n这一章，请记住。圣保罗不是巴西首都。北京通常比圣保罗快十一小时。"
+    },
+    {
+      "id": "tour:city-singapore",
+      "textHash": "02d2c4d00dd63d69a9326b4b80f6d9b6191fc14aa8609783afdf560f7a7f0a3b",
+      "audioUrl": "audio/3f121af926987004677562c53ae9dc2b67493af175d3000853d386ff41167359.mp3",
+      "durationMs": 76392,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "新加坡。\n\n海峡附近的城市生活。\n新加坡位于马来半岛南端附近，城市、港口、绿地与周边岛屿交织在一起。它接近赤道，热带气候与季风让季节感受不同于北京。全年日长相对稳定，却不意味着每天的降雨和户外条件都一样。\n\n没有钟面时差。\n按二〇二六年规则，新加坡与北京都采用协调世界时加八小时，不拨夏令时。你在北京看见下午两点，新加坡也是下午两点。这个简单对照能帮助你把时区与气候分开：天气热或纬度低，都不能直接决定钟表数字。\n\n日历仍要确认。\n零时差让视频联系更容易，但节假日、午休、课程与家庭时间仍可能不同。对新加坡朋友可以直接提出同一钟点，同时说明日期和时长。真正尊重对方日程，是在换算完成之后继续询问是否方便。\n\n这一章，请记住。同钟不等于同天气或同作息。新加坡可用来练习区分时差与生活差异。"
+    },
+    {
+      "id": "tour:city-seoul",
+      "textHash": "a280e42044dae1cc0d45e6cc16cb179c928fd1246b087c9b14dcb83b13792342",
+      "audioUrl": "audio/0010302002490822541ffe234373848071a58ba8ad034c52b22d298874a56945.mp3",
+      "durationMs": 68328,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "首尔。\n\n首都与河流。\n首尔位于韩国西北部，汉江穿过都市区域。宫殿、山地、住宅街区和现代商业区并存，城市日常不只包括流行文化中呈现的夜景。不同居住地和通勤路线，会影响人们何时能参加通话。\n\n一小时的直观练习。\n首尔采用协调世界时加九小时，按二〇二六年规则不使用夏令时。北京下午五点，对应首尔下午六点；东京也读出相同数字。地理上相隔海洋的两座城市，可以采用同一钟面。\n\n把下班边界留给本人。\n如果你的工作到北京六点结束，首尔已是七点。对方可能仍在工作，也可能已经开始私人安排，不能凭猜测决定。询问“首尔当地七点对你方便吗”，比直接通知“我们六点开会”更容易建立共同理解。\n\n这一章，请记住。首尔通常比北京快一小时。晚间钟点是否可用要由本人确认。"
+    },
+    {
+      "id": "tour:city-delhi",
+      "textHash": "21426ff973f80f7cdda4a6bdb315b0910663f7a1cc7f4c1afc22fb9141c13879",
+      "audioUrl": "audio/232c6869e79fe5c4a7603a44340a412e04a420c263075831a6a6e5283d033005.mp3",
+      "durationMs": 74916,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "新德里。\n\n新德里与德里的关系。\n新德里位于印度北部，是国家首都的核心区域，也是更大德里城市区域的一部分。历史城区、政府机构、住宅和现代交通系统共同构成周边都市生活。听到德里或新德里，可以先理解城市区域的层次，再核对具体约见地点。\n\n从北京减去两小时半。\n新德里采用印度标准时间，即协调世界时加五小时三十分。按二〇二六年规则不拨夏令时。北京下午四点，对应新德里下午一点半，不能直接减去两个或三个整数小时。\n\n给双方留下完整线索。\n中午附近的钟点可能碰到用餐，也可能是正常工作，仍需个人确认。邀请可以写“新德里十三点三十分，北京十六点”，并保留完整日期。软件里可能用加尔各答命名印度时区，这只是代表规则的标识，并不表示你的会议在加尔各答举行。\n\n这一章，请记住。新德里与更大的德里区域需区分。印度时区标识可以用加尔各答作为代表城市。"
+    },
+    {
+      "id": "tour:city-kathmandu",
+      "textHash": "922e061f1ceb568bb4e6ab95ab818353136f4c0a02ef758d5c7ff8b89db8d610",
+      "audioUrl": "audio/56c07f7bb92e24320d6c58061f9adb69514c27b2615ce6affce46ca823a24fba.mp3",
+      "durationMs": 71604,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "加德满都。\n\n城市在山谷中。\n加德满都是尼泊尔首都，位于加德满都谷地。历史广场、寺庙和密集城市生活，与人们想象中的喜马拉雅雪峰形成不同画面。山地国家并不意味着每一座城市都处于高山顶端。\n\n记住四十五分钟。\n加德满都采用协调世界时加五小时四十五分，按二〇二六年规则不使用夏令时。北京下午四点对应这里下午一点四十五分；与此同时，新德里是一点半。因此两个邻近国家可以仅差十五分钟。\n\n用精确分钟建立直觉。\n在工具里把新德里和加德满都并排加入，然后拖动时间，观察两地小时经常相同而分钟不同。约电话时不要为方便而把四十五分抹去。写出双方本地时间并请对方确认，就能将这个特别的时差变成很普通的日程。\n\n这一章，请记住。尼泊尔与印度通常只差十五分钟。地理邻近并不要求钟面相同。"
+    },
+    {
+      "id": "tour:city-dubai",
+      "textHash": "a9155be7adb77fe24e17a0770055fbfa97ec4a9069010211ce8ace95cbd6587c",
+      "audioUrl": "audio/5723e7a1710fe4d439587db50a22974aff98fe6046f55ea699640f82f45e6b7b.mp3",
+      "durationMs": 66924,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "迪拜。\n\n先摆正地理位置。\n迪拜位于阿拉伯半岛东南部的海湾沿岸，属于阿拉伯联合酋长国。迪拜这个名称既可以指酋长国，也可以指城市；阿联酋国家首都是阿布扎比。高楼、港口、老城区和沙漠周边共同构成城市背景。\n\n北京下午的联系窗口。\n迪拜采用协调世界时加四小时，按二〇二六年规则不采用夏令时。北京下午六点对应迪拜下午两点。亚洲傍晚与海湾地区白天常有重叠，适合先作为寻找会面时间的起点。\n\n实际工作日需要询问。\n不要从“中东”这个宽泛区域推断迪拜每个人的休息日。企业、政府部门、服务业和个人安排可能不同，特殊节日期间也可能改变。询问对方当地哪天、几点方便，再把选好的瞬间发成日历邀请。\n\n这一章，请记住。迪拜不是阿联酋首都。地区文化印象不能代替具体工作日。"
+    },
+    {
+      "id": "tour:city-bangkok",
+      "textHash": "0af607c9bd4ee337ed3c8944b34077bd82b0ea98e890c0b8ed87775d5a2d0d64",
+      "audioUrl": "audio/344b22438a73b31465b6feb98bdf0073fc70aa288add406ccedfdc4236893f2b.mp3",
+      "durationMs": 69588,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "曼谷。\n\n河流与城市。\n曼谷是泰国首都，位于湄南河下游附近。河流、运河、寺庙、住宅和商业区共同形成城市空间。你在旅行照片里看到的夜市，只是城市生活的一种场景，不能代表所有居民的工作与睡眠时间。\n\n北京减去一小时。\n曼谷采用协调世界时加七小时，按二〇二六年规则不拨夏令时。北京中午十二点，曼谷是上午十一点。这个固定的一小时差，让它成为练习当地时间换算的简单城市。\n\n旅行与远程会面。\n如果朋友在曼谷机场转机，确认的是机场当地日期与钟点，而不是手机还显示的出发地时间。若朋友在日常工作中，询问可用时段即可。即使两地很容易找到白天交集，通勤、用餐和临时安排依旧可能影响能否准时上线。\n\n这一章，请记住。曼谷通常比北京慢一小时。夜市印象不能代表全城居民作息。"
+    },
+    {
+      "id": "tour:city-johannesburg",
+      "textHash": "5316cf4ad6e6e2187bc854498fd8ad77f01fb64ed0d15842cb9aa78204153934",
+      "audioUrl": "audio/3eeda4e3a8370e682bf398952c7787c5c862b2b6e647877b4d55694725a8bfc1.mp3",
+      "durationMs": 69840,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "约翰内斯堡。\n\n先从海岸向内陆移动。\n约翰内斯堡位于南非内陆高原，是重要的经济与城市活动中心。它与西南沿海的开普敦有不同地形和气候背景。认识非洲城市时，把具体位置放回地图，能避免把整个大陆想象成相同环境。\n\n固定偏移与变化的关系。\n约翰内斯堡采用协调世界时加两小时，按二〇二六年规则不使用夏令时。北京比这里快六小时。巴黎在夏令时期间可以与它同钟，冬季却慢一小时，因为改变钟表的是巴黎。\n\n两地的季节方向。\n约翰内斯堡在南半球，所以北京冬季对应这里的夏季时段。安排视频会议可从北京下午、当地上午开始讨论。谈户外见面或假期时用月份说明，既能避免季节歧义，也让对方按自己的日程判断。\n\n这一章，请记住。不拨夏令时也会与其他城市出现变化的时差。约翰内斯堡是内陆城市。"
+    },
+    {
+      "id": "tour:city-nairobi",
+      "textHash": "5a722bfdcca191ecdd1bbfaca18704561c4f1477eaf8329cc3ebb504f7a7a505",
+      "audioUrl": "audio/ef37ce30eb61972b66d2ec101264273d76a293d486d98ece2bf59d564c49953e.mp3",
+      "durationMs": 66600,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "内罗毕。\n\n城市与自然相邻。\n内罗毕是肯尼亚首都，位于赤道以南不远的内陆高地。内罗毕国家公园与都市区域相邻，能把城市天际线和野生动物栖息地放在同一幅地理画面中。赤道附近并不意味着所有地方都像低地海岸一样炎热。\n\n东非时间的代表。\n内罗毕采用协调世界时加三小时，按二〇二六年规则不拨夏令时。北京下午四点，对应内罗毕上午十一点。它与约翰内斯堡相差一小时，说明非洲内部也需要逐城市比较。\n\n从共同白天开始。\n北京下午与内罗毕上午往往有可以商量的重叠范围。邀请时把“内罗毕当地十一点”写清楚，同时附上北京时间和日期。旅游工作、学校、办公室和轮班职业的时间可能不同，最终以具体参与者确认的空档为准。\n\n这一章，请记住。赤道附近也有高地气候差异。北京通常比内罗毕快五小时。"
+    },
+    {
+      "id": "tour:city-sydney",
+      "textHash": "7e111f92dae18ad1a4bb07695860082948beb3a9bdc33027251c39e28dcd6b6f",
+      "audioUrl": "audio/2b578e5df5ce2f87c2f9a84a8d359e3ba790106ce657309ae02f157239b1c89d.mp3",
+      "durationMs": 72756,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "悉尼。\n\n东南沿海的港湾。\n悉尼位于澳大利亚东南沿海，新南威尔士州境内。港湾、歌剧院、海滩与都市住宅区域共同构成城市印象。它不是澳大利亚首都；首都是内陆的堪培拉。区分城市角色，有助于从地理信息中准确找到朋友的位置。\n\n冬夏两套钟点。\n悉尼标准时间是协调世界时加十小时，夏令时是加十一小时，因此通常比北京快两或三小时。南半球夏令时季节与北半球相反，不能看到北京处于冬季，就认为悉尼也处于标准时间。\n\n亚洲傍晚可能已很晚。\n北京晚上八点，在悉尼可能已经是十点或十一点。看似不大的时差，也足以把轻松的晚间电话推到对方睡前。白天联系往往更容易协商，固定例会则要保存悉尼城市时区，方便日历处理季节切换。\n\n这一章，请记住。悉尼通常比北京快两或三小时。南半球夏令时不能套用北半球季节。"
+    },
+    {
+      "id": "tour:city-adelaide",
+      "textHash": "d174d380471a118201dde93f0be415c0d7e4f56eac1c188477a1c456ea89de12",
+      "audioUrl": "audio/5ec065329cba7bf14260602a0197a66b724669be0a2efbf3ad775c6a0f95b7c3.mp3",
+      "durationMs": 71712,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "阿德莱德。\n\n南澳大利亚的城市。\n阿德莱德位于澳大利亚南部，靠近圣文森特湾，是南澳大利亚州首府。它比悉尼更靠西，但不是澳大利亚西海岸的城市。地理相对位置能建立直觉，实际偏移仍需看法定规则。\n\n保留那个半小时。\n阿德莱德标准时间为协调世界时加九小时三十分，夏令时为加十小时三十分。按二〇二六年通常规则，它比悉尼慢半小时。北京时间下午三点，在阿德莱德可能是下午四点半或五点半。\n\n国内协作也需核对。\n如果团队同时有悉尼和阿德莱德成员，不要把澳大利亚时间写成一个数字。分别列出城市钟点，半小时差就不会被遗漏。阿德莱德与不拨夏令时的澳大利亚城市之间，时差还可能随季节变化，日历比整数心算更可靠。\n\n这一章，请记住。阿德莱德采用半小时偏移。带半小时的时区同样可能拨夏令时。"
+    },
+    {
+      "id": "tour:city-auckland",
+      "textHash": "75617ac5ec9a64624fe6b4a821729a5d2ec68b7e5f4c24e47c9e5e4bd7764aea",
+      "audioUrl": "audio/b60c2cb48e713dc55346abcf9bb2ede82de17cd7a76a44e6a4f8abfab3358bc3.mp3",
+      "durationMs": 71496,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "奥克兰。\n\n北岛的城市位置。\n奥克兰位于新西兰北岛北部地区，城市与港湾、海岸和火山地貌联系紧密。它是重要的大城市，但新西兰首都是惠灵顿。初次认识国家时，把首都与知名城市区分开，比记住一张天际线照片更完整。\n\n接近新日期的钟面。\n奥克兰标准时间为协调世界时加十二小时，夏令时为加十三小时。北京通常比它慢四或五小时。北京时间晚上九点，在奥克兰可能已经进入第二天凌晨一点或两点。\n\n主动寻找较早的窗口。\n与奥克兰朋友聊天，可以从北京时间上午或中午寻找双方清醒的时间，而不是默认北京晚饭后最方便。写邀请时把双方日期并列，尤其是北京周五晚上对应奥克兰周六凌晨的情况；工作日与周末也可能因此发生变化。\n\n这一章，请记住。奥克兰不是新西兰首都。几个小时的差别也可能改变工作日与周末。"
+    },
+    {
+      "id": "tour:city-honolulu",
+      "textHash": "5fcef561746df1a9784cb5e175195a20127a37f2b4e54444c82f69be15942cef",
+      "audioUrl": "audio/21c0991bc5cba060dc72fd98dac3253e17f476dfae651b290e9388c12fea57b4.mp3",
+      "durationMs": 78552,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "檀香山。\n\n把夏威夷放回太平洋。\n檀香山位于夏威夷的瓦胡岛，是夏威夷州首府。它在太平洋中央区域，与美国大陆相隔很远。政治上属于美国，地理上则属于太平洋岛屿环境。国家归属与大洲地理分区是不同问题，不能因为同属美国，就把岛屿想象成紧靠北美大陆。\n\n全年保持同一偏移。\n夏威夷采用协调世界时减十小时，不采用夏令时。北京比檀香山快十八小时：北京星期三上午九点，檀香山是星期二下午三点。与美国大陆城市的时差，则会因大陆一方拨钟而改变。\n\n日期比数字更醒目。\n跨太平洋聊天和旅行都应突出日期。檀香山与基里蒂马蒂的小时和分钟通常相同，但日期相差一天，这是日期变更线最直观的例子之一。不要仅截取一个“九点”的截图就约会，要把城市和年月日一起保留。\n\n这一章，请记住。檀香山不采用夏令时。北京通常比檀香山快十八小时。夏威夷政治归属与大陆地理分区是不同问题。"
+    },
+    {
+      "id": "tour:city-kiritimati",
+      "textHash": "65abc8c5a2cbacc8ac2e9624eb170391fa8a80a05a420d11e3150082fa5c231a",
+      "audioUrl": "audio/d9e10033e6b2993ac665b5bbb64d786c443ff54cc0a4c5c7301afc0bd402b1ef.mp3",
+      "durationMs": 81576,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "基里蒂马蒂（圣诞岛）。\n\n先辨认是哪座岛。\n基里蒂马蒂位于太平洋莱恩群岛，属于基里巴斯，也常被称为圣诞岛。这里是珊瑚环礁和岛上聚落，不应当成一座普通大城市。它与印度洋中属于澳大利亚的圣诞岛不是同一个地方，名称相似时国家信息格外重要。\n\n为什么可以加十四小时。\n这里采用协调世界时加十四小时，按二〇二六年规则不使用夏令时。日历制度让它处于日期变更线的较早一侧，偏移超过十二小时也完全可以成立。北京中午十二点，在这里已经是傍晚六点。\n\n用一天的差别理解时间。\n檀香山采用协调世界时减十小时，两地相减是二十四小时。因此基里蒂马蒂周三九点，檀香山周二九点，钟面相同而日期不同。理解了这一点，你就会自然地把完整日期视为跨国沟通的一部分，而不是可有可无的附注。\n\n这一章，请记住。基里蒂马蒂是基里巴斯的岛屿。与檀香山通常相差整整二十四小时。全球日期需要与钟点一起比较。"
+    },
+    {
+      "id": "tour:common-pacific",
+      "textHash": "56af11ff96d0290110cbb44b2a0fd30cd3f785e91b58188ccd899e640185b478",
+      "audioUrl": "audio/3999050cc130f4198c2ae2d45681ebbe05fae0d50fa964fce32f8d111805e189.mp3",
+      "durationMs": 183096,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "听到太平洋时间，应该怎样换算？。\n\n先给这个词一个位置。\n你提到经常听见 Tibo 说“太平洋时间”。如果语境是美国科技产品、发布会或线上活动，通常可以把它理解为洛杉矶、旧金山、西雅图这类美国西海岸城市所用的当地时间，英文叫 Pacific Time，缩写是 PT。这是一种区域时间表达，不是整个太平洋周边都用的时间，也不能仅凭这个词判断说话人住在哪里。\n\n一个名字，两种季节性偏移。\nPT 会按所选日期采用标准时间或夏令时。太平洋标准时间写作 PST，是协调世界时减八小时，比北京时间慢十六小时。太平洋夏令时写作 PDT，是协调世界时减七小时，比北京慢十五小时。北京保持加八小时，所以需要变化的是对方那一侧的偏移。听到 PT 时，先把它理解成遵循当地规则的钟表，再根据日期选对偏移。\n\n把上午九点放到日历上。\n例如活动写着二零二六年十月二十八日上午九点 PT。当天洛杉矶仍采用夏令时，因此给当地上午九点加十五小时，得到北京时间十月二十九日零点，也就是北京星期四刚开始的那个瞬间。它不是北京十月二十八日上午九点，也不是十月二十八日晚上九点。美国的活动日期与中国的参加日期需要同时记下。\n\n同一个钟点，换个日期就不同。\n按二零二六年美国现行规则，采用这套安排的地区在十一月一日结束夏令时。到了十一月二日上午九点 PT，洛杉矶已经采用标准时间，北京需要加十六小时，于是对应十一月三日凌晨一点。两场都写上午九点太平洋时间，中国观众的参加时刻却相差一小时。具体日期决定该加十五还是十六。\n\n用城市完成最后确认。\n最省心的操作，是在软件选择洛杉矶，再输入活动日期和钟点，让程序判断当天的偏移。正式邀约可以问：“这里的 PT 是洛杉矶当地时间吗？”如果别人夏天仍写 PST，应确认他真指固定减八小时，还是泛指 PT。涉及加拿大或其他地区时，按对方具体城市查询，不能直接套用美国规则。最后把双方完整日期、时间和时长写进日历。\n\n这一章，请记住。在美国活动语境中，PT 可以先用洛杉矶当地时间理解。PST 比北京慢十六小时，PDT 比北京慢十五小时；具体取决于日期。太平洋时间不是整片太平洋的统一时间，重要活动要确认城市与完整日期。"
+    },
+    {
+      "id": "tour:common-expressions",
+      "textHash": "9096c44adac2be902c23254a94cfccebfb3e27b2cc9c9bf624ec7ff3da500dd9",
+      "audioUrl": "audio/30a305dafde719d9d63310d5b0a3a19ac52c7636f16c6ae4150e73bd63c3580f.mp3",
+      "durationMs": 209160,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "国际沟通常用的时间表达，一次听明白。\n\n先认识美国常见的四条时间线。\n除了 PT，你会听到 ET，也就是美国东部时间，可先看纽约；CT 是中部时间，可看芝加哥；MT 是山地时间，可看丹佛。在这些采用相应换钟安排的城市里，从纽约向洛杉矶依次慢一小时，总共慢三小时。标准时间的偏移依次为协调世界时减五、减六、减七、减八小时；夏令时各向前一小时。亚利桑那州多数地区等存在例外，区域名称仍须结合城市理解。\n\n世界共同参照与欧洲表达。\nUTC 是协调世界时，不随夏令时拨钟。互联网时间戳末尾的字母 Z，表示这个时间采用零偏移的 UTC 参照；北京时间需要加八小时，并检查日期。伦敦标准时间常写 GMT，为零偏移，夏令时写 BST，为加一小时。巴黎、柏林等城市常见 CET，即中欧标准时间加一小时，以及 CEST，即中欧夏令时加两小时。英国和中欧不是全年都与 UTC 同钟。\n\n有些缩写需要先问一句。\n看到 CST，不要立刻按北京时间处理。它可能表示中国标准时间，也可能表示北美中部标准时间，两者差很多。IST 也可能涉及印度、爱尔兰或以色列的不同时间表达。缩写只是线索，不一定是唯一答案。对方如果只写“周五九点 CST”，还缺具体日期、上午下午和城市。直接追问这些信息，比自行猜测更稳妥。\n\n读懂对方说的是谁的钟表。\n“My time” 是说话人那边的时间，“Your time” 是接收者那边的时间，“Local time” 是所指地点的当地时间，旅行时尤其要确认位置。Noon 是中午，Midnight 是午夜；“周五午夜”可能被理解为周五开始或结束，应改写完整日期的零点，明确是哪一天刚开始。上午下午也要写清，二十四小时制能减少误读。\n\n把模糊截止时间变成约定。\n工作消息里的 EOD 通常表示一天结束前，但有人指下班前，有人指当天结束，时区也可能没有说清。不要自动把它变成北京时间十八点或二十三点五十九分。你可以确认：“是你当地十一月二日下午五点前吗？你用哪座城市的时间？”然后写出完整年月日、钟点、城市与偏移。如果是会议，再附时长和对方当地时间，最后用日历确认同一个瞬间。\n\n这一章，请记住。ET、CT、MT、PT 是区域表达，要按城市和日期确定偏移。CST、IST、当地时间和 EOD 都可能需要补充语境。重要约定写完整日期、钟点、城市、偏移与时长，午夜要明确是哪一天开始。"
+    },
+    {
+      "textHash": "f9d5b3da9be2c49d80a2280659750fbce90be10b670d227bef14efee5e18e8be",
+      "audioUrl": "audio/5a15cb9ace3d9add0c5e3a4206e0dd3de6d5469457eeddeb061f96b4aef72220.mp3",
+      "durationMs": 11808,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "lesson:clock-reading/read-date/place",
+      "text": "先看地球上亮起的北京。城市告诉我们读哪里的钟表。一个完整的时刻，要读三件事：在哪里、哪一天、几点钟。"
+    },
+    {
+      "textHash": "1ecae0d2fe337de45d76dba7cf466592d46c5208e91a12923c30051aa13588c9",
+      "audioUrl": "audio/a64ad7ee4deb9fb295885f2929465ccb8119cb4406ef7d1c8cb398deb184da5f.mp3",
+      "durationMs": 5616,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "lesson:clock-reading/read-date/date",
+      "text": "现在看北京亮起的日期：二零二六年一月十五日。日期说明是哪一天。"
+    },
+    {
+      "textHash": "630ac9afb250476bc747fe602208ff84dd99fd5bb47c4a5026932dadc6e78061",
+      "audioUrl": "audio/1a8334a446c5e7359d93103eb564fa949b97aa8af458cbe9a80f142671196073.mp3",
+      "durationMs": 19620,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "lesson:clock-reading/read-date/clock",
+      "text": "再看北京亮起的钟点：十五点三十分，也就是下午三点半。钟点说明一天进行到了哪里。通常一天有二十四小时，一小时有六十分钟。先把地点、日期和钟点读完整，下一步再认识不同写法。"
+    },
+    {
+      "textHash": "6edc54045840bc18c9ea1ac8d81d3d9040bb343a0f308c99788db65877af61ae",
+      "audioUrl": "audio/8e82c86bdf7f9eaa81af6db29931453930d218255c4c50ede1f745cdfc218159.mp3",
+      "durationMs": 7200,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "lesson:clock-reading/two-clocks/twenty-four",
+      "text": "先看北京亮起的十五点三十分。二十四小时制从零点计到二十三点五十九分。"
+    },
+    {
+      "textHash": "54e94b6f2e39fd9044b5986b6775298f65f61381f4974990aad8565dde10bfbc",
+      "audioUrl": "audio/2dc2c002b2a65e01a6e9fd89cd8c3f7951336985f15460f39cc93ce6e8e622dc.mp3",
+      "durationMs": 12744,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "lesson:clock-reading/two-clocks/am-pm",
+      "text": "现在看两种写法。十二小时制把一天分成上午和下午。十五点三十分，写成英文就是三点三十分，P M；它们是同一个钟点。"
+    },
+    {
+      "textHash": "c9270eed4732e1bb3cfed3ca6b06a3061c75e75e800c9a287c99877b40ca87d3",
+      "audioUrl": "audio/d12beac35b5a0bb31f3e6a0288da68ee281ce0df5bc12177bc5be008b84642cf.mp3",
+      "durationMs": 13968,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "lesson:clock-reading/two-clocks/noon-midnight",
+      "text": "电子钟通常把午夜写成十二 A M，把中午写成十二 P M。这两种写法很容易看反，所以约事情时，直接写零点或十二点，并带上日期，会更清楚。"
+    },
+    {
+      "textHash": "008a7294035fd26e9aff7ea189fd5c6d12fc2d0aaeb3fa46609a9b508aa16ed3",
+      "audioUrl": "audio/c2294744966b41c8e2b626582dba2848046d1a9fc54f6c10b44834e1c947ced9.mp3",
+      "durationMs": 5400,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "lesson:clock-reading/same-instant/beijing-date",
+      "text": "现在把时间往前拨。先看北京亮起的日期，已经到了一月十六日。"
+    },
+    {
+      "textHash": "e856ab11dc92a74c88621cbde9d37baa595d1eff61aa4c39e2204ffa6d8cc1dc",
+      "audioUrl": "audio/6e79a0910a3107cdd35ce15e8bf89393418c6c0c1f33f377a78ca78884ed480f.mp3",
+      "durationMs": 2952,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "lesson:clock-reading/same-instant/beijing-clock",
+      "text": "再看北京的零点，新的一天开始了。"
+    },
+    {
+      "textHash": "de39af61ae6503e217f7140e1056aa766fdbbd48f511fef16bbad0bb0e8d9d7c",
+      "audioUrl": "audio/bb823aab5a51e3a62517ba3d7ab583ce92b4f172d9ae4455176a4cd375136542.mp3",
+      "durationMs": 7416,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "lesson:clock-reading/same-instant/la-date",
+      "text": "转到地球另一侧，看洛杉矶亮起的日期。这里仍是一月十五日，比北京的日期早一天。"
+    },
+    {
+      "textHash": "645784fd6b5ca56824794e6ef90c048ef0b3ae8c728f26b0cd48bbb73387485f",
+      "audioUrl": "audio/cd3ad7fdfad66b6aeed861a0d8858f1e3bf20d9367b85ff2cc28f919c655d4cb.mp3",
+      "durationMs": 2772,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "lesson:clock-reading/same-instant/la-clock",
+      "text": "再看洛杉矶的钟点，是早上八点。"
+    },
+    {
+      "textHash": "f26bdf897182669dcecb0738b71bfb77c03b3d375801f0e5e0e10c386ea10241",
+      "audioUrl": "audio/f22c19ecc7b54a7c4e2e7d5dfa2bda2b377c7e81bfb3de1ab240ab8326dbf27a.mp3",
+      "durationMs": 5832,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "lesson:clock-reading/same-instant/newyork-clock",
+      "text": "同一瞬间，纽约是一月十五日上午十一点。现在看纽约这只钟。"
+    },
+    {
+      "textHash": "315ea836092f1ebff66d3c548315aad0a5d88515c1be51706b52a67689fc8435",
+      "audioUrl": "audio/f3d98b362506a9d937a2eefb8eb00b2e4bd72eef78df3aa58ba7a99c1f75f7d7.mp3",
+      "durationMs": 15264,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "lesson:clock-reading/same-instant/one-instant",
+      "text": "这不是先后发生的三件事，而是同一瞬间的三种当地写法。跨国聊天时，只说今天、明天或晚上，很容易说成不同日期。先记住，我们要对齐的是同一瞬间。"
+    },
+    {
+      "id": "lesson:earth-turns/sun-and-earth/morning",
+      "textHash": "50097f76880b00262d5b6b9b4d8afa8ced84495c61113e804db2b5d94b52dd52",
+      "audioUrl": "audio/38652a58bc4503e132b76516ff46384682e79a87b4faef2677063c3b5e392918.mp3",
+      "durationMs": 12096,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "起点是三月二十一日，北京早上六点。看它随地球向东转动，逐渐进入明亮的一面。钟点从六点向中午十二点前进。"
+    },
+    {
+      "id": "lesson:earth-turns/sun-and-earth/afternoon",
+      "textHash": "33b1f4c759a9786530bf17ea9b73e4a7cfb35e8e017df5d32ea8a7ed04894263",
+      "audioUrl": "audio/8d1db384bd0349ab9e7b57b414ea7518029aa17f27176a093bcd37859297cc7f.mp3",
+      "durationMs": 14400,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "从同一天中午十二点继续。北京从白昼走向傍晚，钟点将到十八点。亮暗变化来自地球朝向太阳的方向改变，移动视角本身并不会推进时间。"
+    },
+    {
+      "id": "lesson:earth-turns/sun-and-earth/evening",
+      "textHash": "bf77588189eecbb9cb0c275815ef28bcfdccc320d38efe7bd7a091999c7569df",
+      "audioUrl": "audio/6fe3930f96992ac12862ec4d340bda7632f4b6c8bb72e810ad46f90ee40e623b.mp3",
+      "durationMs": 14256,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "现在从三月二十一日十八点开始。北京逐渐转入夜晚，钟点继续向零点前进。留意这一段的最后：一跨过午夜，日期就要增加一天。"
+    },
+    {
+      "id": "lesson:earth-turns/sun-and-earth/next-morning",
+      "textHash": "27ef45e2331192c3c95572ceb317a073b50888f5c3b8686544e27e4ff35c143b",
+      "audioUrl": "audio/cfdf7f90ee5333e0e794071a7ae7a693cb516971f836ee1567f77532e4d1412a.mp3",
+      "durationMs": 15084,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "这一段从三月二十二日零点开始。日期已经翻页，北京经过后半夜，逐渐回到早上六点。看，经过二十四小时，钟点回到六点，日期却已经是新的一天。"
+    },
+    {
+      "id": "lesson:earth-turns/fifteen-degrees/fifteen-degrees",
+      "textHash": "d85271e997c0d9c74ddd5a176a72f8a2d5ed01a9fea8f5f647518f6d6e1f68e2",
+      "audioUrl": "audio/6c516074d5b69e20d67432925d10110c0de7d828f09807ed6c6122baba0c2452.mp3",
+      "durationMs": 29016,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "把地球一圈的三百六十度，平均分给一天的二十四小时，就得到十五度大约一小时。现在看到的是帮助理解的理想色带：向东一格，示意钟点增加一小时；向西一格，减少一小时。这里是在解释经度和太阳时的关系，不是在宣布每个国家必须采用哪种时间。实际钟表还要服从当地约定。"
+    },
+    {
+      "id": "lesson:earth-turns/east-and-west/east-and-west",
+      "textHash": "cd454a5f549fe2fcfb6559153ee41de54b8abc1526e89a15a8188f27e612089a",
+      "audioUrl": "audio/67b801d6dcc62894e04283dcf43bb63501564a6a050ee19cdfff7c571e6110dc.mp3",
+      "durationMs": 25272,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "为什么东边通常更快？因为地球向东自转，东边的地方会更早转向太阳。请再沿同一条色带向南北看：纬度主要关联季节和白昼长度，并不能直接告诉你时差。东加西减可以建立直觉；真正约会议时，不要只量经度，而要查城市在那一天使用的实际时区。"
+    },
+    {
+      "textHash": "50cadf6eadbc5860c97e1ebbb6d011326ece122f790fba0bcf8c52941e52b78f",
+      "audioUrl": "audio/756ca8a5651504bc4ac0914b147388928f477f06efcc7be386cfcf8d0a329472.mp3",
+      "durationMs": 12456,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "lesson:utc-offsets/common-ruler/common-clock",
+      "text": "现在看地球旁亮起的共同标尺，协调世界时，缩写 U T C。这个示例是七点三十分。你可以把它理解成换算时的公共刻度。"
+    },
+    {
+      "textHash": "4e3e79cb59de1ab6ed1f97849f0c0c277645699eddfe95bdbf943d38d01d768a",
+      "audioUrl": "audio/d32040c4ae4a07d21b3e1b46bff397f6232b36848858dc4784ad620ab13ce86e.mp3",
+      "durationMs": 8820,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "lesson:utc-offsets/common-ruler/not-a-city",
+      "text": "这个标尺由国际计时体系共同维持，不是一座城市独有的钟，也不需要让每个人都按它安排起床。"
+    },
+    {
+      "textHash": "06be89b44b1fec68988e84efb59449dc89440fd4a45e210251f8ba1d53d381bf",
+      "audioUrl": "audio/62bb267fbec040f37d62f1a8f88d9eb71c65ef34bb4c1196eac69137e6fb3718.mp3",
+      "durationMs": 11484,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "lesson:utc-offsets/common-ruler/london-clock",
+      "text": "再看地球上的伦敦。这个一月示例里，伦敦恰好与 U T C 一样，都是七点三十分。到了英国夏令时，伦敦钟表就不再等于 U T C。"
+    },
+    {
+      "textHash": "03f87b227cec8e1a1c22a8b638ab443930f6f75c39ec5f96d1755b2919feaa03",
+      "audioUrl": "audio/b31895e28435d2847eb45fc18a7f481b62b2191bcabb3a167679b543b5927a01.mp3",
+      "durationMs": 4032,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "lesson:utc-offsets/plus-and-minus/start-utc",
+      "text": "先看亮起的公共标尺：U T C 七点三十分。"
+    },
+    {
+      "textHash": "f95f8199aef1d9116c02f4971444aa6883fae4d30c3fd7ef925570410add8d53",
+      "audioUrl": "audio/44f090167fb902e406e8080bd5be23bbd38f539170c2697f95fe4e4140fe838e.mp3",
+      "durationMs": 7668,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "lesson:utc-offsets/plus-and-minus/beijing-offset",
+      "text": "看北京亮起的加八。从 U T C 七点三十分加上八小时，就是北京十五点三十分。"
+    },
+    {
+      "textHash": "a7137aef826b546d95549a742f5d2450af8b237e690669cb52119dc581001169",
+      "audioUrl": "audio/c709f78aaae9150dc496fa74b4fee0197b4291d876d0207c57ff20ae0c21e49a.mp3",
+      "durationMs": 8856,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "lesson:utc-offsets/plus-and-minus/newyork-offset",
+      "text": "再看一月的纽约。减五表示比公共标尺慢五小时，所以是凌晨两点三十分。"
+    },
+    {
+      "textHash": "63003dfe6356c006008e134554ee4f88eb4f837679ded43b3458a5a93ef2dff7",
+      "audioUrl": "audio/cc250322b453a75a0081f0d59fbe9713a6ef8ffd29b0e7190ba90101055bd8f6.mp3",
+      "durationMs": 14256,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "lesson:utc-offsets/plus-and-minus/offset-meaning",
+      "text": "加减的是当地钟表与公共标尺之间的差，叫偏移。英文说 ahead of，表示快于；behind，表示慢于。算到午夜之外时，日期也必须一起改变。"
+    },
+    {
+      "textHash": "465be70ca49eb542709fedceada0b49c2f1272611d388c5d26d086fc77a85284",
+      "audioUrl": "audio/f3d51bf36adbd938c1b3e206601e4e6941ded0c588ab1c68c651118c4856c446.mp3",
+      "durationMs": 9900,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "lesson:utc-offsets/fractional-offsets/india",
+      "text": "放大印度。它采用加五小时三十分，公共标尺七点三十分，对应当地十三点。先看印度亮起的规则。"
+    },
+    {
+      "textHash": "713659fb152a47917973824c68857de09d277aaa6243f8b18ec5ad06b802e002",
+      "audioUrl": "audio/ab1d3df3f69e41e6b617b4ff30f27605cbef2bac4665849ee7ae1bf23f9598c7.mp3",
+      "durationMs": 5940,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "lesson:utc-offsets/fractional-offsets/nepal",
+      "text": "再看尼泊尔，它采用加五小时四十五分，此刻是十三点十五分。"
+    },
+    {
+      "textHash": "52d69d161135c80aa955036885b58a9212aea26632d2b7016e6bb4063a441596",
+      "audioUrl": "audio/3f5ecd3e2ccf0ecdc7517c00234bcc6991943d3d60d6fb51f50cf4992406db22.mp3",
+      "durationMs": 17136,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "lesson:utc-offsets/fractional-offsets/quarter-hour",
+      "text": "所以这两地不是整整差一小时，而是只差十五分钟。时区偏移可以包含半小时或四十五分钟。这也解释了为什么不能把世界简单看成只有二十四种时间：实际规则比理想色带更加丰富。"
+    },
+    {
+      "id": "lesson:calculate-time/start-beijing/start-beijing",
+      "textHash": "e19f200423d311c97b7d82a36092cd74f839fb3e419d88dffa538f183abccdce",
+      "audioUrl": "audio/f3e0ba447d15f61572e81db87ee01c789e5a83d3cc2b4ec905a7038983d0311f.mp3",
+      "durationMs": 22320,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "一起算一次。已知北京是一月十六日凌晨两点，我们想知道洛杉矶那边的钟点。不要只凭“美国比中国晚”来猜，也不要先丢掉日期。先把北京的位置、完整日期和加八小时的偏移记下来。接下来只做两步：从北京退回公共标尺，再从公共标尺走到洛杉矶。"
+    },
+    {
+      "id": "lesson:calculate-time/back-to-utc/back-to-utc",
+      "textHash": "9e9ffcf15924fc3d53d60d8e2a7f1ad3c6281eda61bdf82db9009256c2dfec44",
+      "audioUrl": "audio/16fd32f1a40e8bbd26f63a55da9493aa1f3b252719e6d73e7326ee21330c4893.mp3",
+      "durationMs": 25272,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "北京比 U T C 快八小时，所以反过来要减八小时。凌晨两点减去八小时，先退到零点，再继续往前，得到前一天的十八点。现在公共标尺上的结果是一月十五日十八点。这里最容易漏掉的不是加减法，而是日历已经退回一天。跨越午夜时，日期和钟点始终要一起走。"
+    },
+    {
+      "id": "lesson:calculate-time/arrive-la/arrive-la",
+      "textHash": "6d8928531ccc8755c8395eedd172692be464a1fc40e437f6a9877fc0a6174221",
+      "audioUrl": "audio/25216e8e47846c79a833070455775a87e91540b585e329530fb25351fd8ca0ed.mp3",
+      "durationMs": 29700,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "一月的洛杉矶采用太平洋标准时间，也就是 U T C 减八小时。把公共标尺的十八点再减八小时，得到一月十五日上午十点。所以北京十六日凌晨两点，对应洛杉矶十五日上午十点。通用公式就是：目的地时间，等于来源时间减来源偏移，再加目的地偏移。换其他地区时，步骤完全一样。"
+    },
+    {
+      "id": "lesson:real-boundaries/ideal-versus-legal/ideal-versus-legal",
+      "textHash": "cfceac99b0518038330923124e40170f2fa6f24f7fba4c47f617883bc591ef50",
+      "audioUrl": "audio/0bd6476ec4460f0fb24d14e43b704693edeca8e0683499119509fb7efcb19057.mp3",
+      "durationMs": 24516,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "前面整齐的色带，是帮助理解的模型。现实生活需要统一的交通、行政和商业安排，所以时区边界常常沿行政区或地理边界拐弯。所谓东八区，可以帮助你记住加八小时，却不表示每条边界都必须笔直。接下来比较两个例子，就能看出“一个国家等于一个时区”为什么不可靠。"
+    },
+    {
+      "id": "lesson:real-boundaries/one-standard/one-standard",
+      "textHash": "2f556b339dbdef4f7811ecdb60c7920a42fe5427095e19f2a8027aad7dbc63ac",
+      "audioUrl": "audio/2bfbb8247b6e5b31129c13c2bd148886910f9d55d5e84d30da7ef654ecfdbb2a.mp3",
+      "durationMs": 24984,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "中国全国标准时间采用北京时间。若两地都按北京时间计时，尽管东西相隔很远，钟面仍然相同；但太阳在天空中的位置未必相同。再看新加坡，它和中国不是同一个国家，却同样采用加八小时。因此，看国界无法直接推出时差，看见钟点相同，也不能推断两地太阳位置一样。"
+    },
+    {
+      "id": "lesson:real-boundaries/many-zones/many-zones",
+      "textHash": "b0787ad7a619361ab4d836d05cecd4e70cb7b6dc84a158568982a3392a696b5c",
+      "audioUrl": "audio/6a3fa98f7214657fae044b698ae4bc474ef09f3d5af2fb9a6be770c91f4cd19e.mp3",
+      "durationMs": 27252,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "美国则有多个时区。这个一月示例里，洛杉矶上午九点，芝加哥上午十一点，纽约已经中午十二点。它们都在美国，却不是同一个钟点。实际边界与夏令时规则还可能调整，所以不要用一张地图代替所有日期的规则。问清城市、问清日期，再让时区数据库计算，才能得到可靠结果。"
+    },
+    {
+      "id": "lesson:season-and-pt/winter-pst/winter-pst",
+      "textHash": "4ae19c560818ca7fa445d426721064ac104425cd2ae8c173813a0ac87cf334d7",
+      "audioUrl": "audio/66f96f3322e2b6df60a8f32b10942f81f21ed36b5a26f2c205cfa4b89c907aba.mp3",
+      "durationMs": 23328,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "朋友说太平洋时间，日常常缩写成 P T。以洛杉矶为例，先把它理解为当地钟表的一套规则，而不是全年固定减八小时。一月采用太平洋标准时间，P S T，偏移为减八。因此洛杉矶一月十五日上午九点，对应北京一月十六日凌晨一点，北京快十六小时。"
+    },
+    {
+      "id": "lesson:season-and-pt/summer-pdt/summer-pdt",
+      "textHash": "6920bd5fcda3bcac4bf8a5022c6cb50173cef00ab75f6c602c6dbc3b575c120a",
+      "audioUrl": "audio/2dcfc38bdfd509e45653dd5ca33324d20d7638605821a2361ec36a7883fdc6a4.mp3",
+      "durationMs": 26676,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "到了七月，洛杉矶采用太平洋夏令时间，P D T，偏移变成减七。同样约当地上午九点，北京就变成次日零点，只快十五小时。夏令时是调整钟表，并没有让地球转得更快，也没有改变 U T C。其他地区是否采用、何时切换，都要看各自规则，不能用一个季节替全世界作判断。"
+    },
+    {
+      "id": "lesson:season-and-pt/clock-transition/before-transition",
+      "textHash": "10ada73ec6a8a188e7a322a77e5e5d4a57d2de3a3f96c9fdc1aec6acaa936a28",
+      "audioUrl": "audio/d47d320636bcc868cdfb4ce4185ed8eb075c27254de987e838e87315e1890321.mp3",
+      "durationMs": 14688,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "看地球上的洛杉矶。这是二零二六年三月八日，凌晨一点五十九分，采用太平洋标准时间，P S T。公共标尺 U T C 是九点五十九分。先记住这对时钟。"
+    },
+    {
+      "id": "lesson:season-and-pt/clock-transition/missing-hour",
+      "textHash": "7a35e90cbbaf4c6ba3acfa2da1d75d6c59a7c008e6646349dfa4c9d07e9b4322",
+      "audioUrl": "audio/e1b1babba0e4e016180caea0d33a7dbc45c4e687ad1540cc70336df023250c35.mp3",
+      "durationMs": 19440,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "看时间轴中间的空档。当地两点到两点五十九分没有出现，因此两点三十分找不到对应瞬间。这里改变的是当地钟面的写法；地球没有跳过一小时。秋季拨回时，某些钟点则会出现两次。"
+    },
+    {
+      "id": "lesson:season-and-pt/clock-transition/after-transition",
+      "textHash": "fc87445beb2078b099100ca60e1e000fcb489c8a07bbdc6539e636aed5378d55",
+      "audioUrl": "audio/68e9f7329f6ce4beeea14c72a9fdc436eee8ba815bbe70ecb564a374647180f4.mp3",
+      "durationMs": 23148,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "再过一分钟，洛杉矶钟面跳到三点，采用太平洋夏令时间，P D T。U T C 只从九点五十九分走到十点，时间连续。收到 P S T 却怀疑对方泛指 P T，最好确认日期和城市。E T 类似地指美国东部时间，C S T 等缩写还可能有多个含义。"
+    },
+    {
+      "id": "lesson:daily-rhythms/one-moment-lives/one-moment-lives",
+      "textHash": "46ae90550d524d96e6a5e67134ba752a758248358f64c5d6c1b8095067c25fb5",
+      "audioUrl": "audio/6e515b4e18f987396a4705dad76f7955ea938b543d815d3e1fc78d6d0641806a.mp3",
+      "durationMs": 30312,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "先看地球旁的城市钟点：此刻北京晚上八点，纽约早上七点，马德里下午一点。围绕地球的外环把二十四小时分成睡眠、用餐、通勤和工作等生活情境。它是一张工作日教学示意图，不是整座城市的人口平均值。切换城市，地球会定位到那里，时间仍是同一个瞬间。点听这座城市，还能了解有来源的地域生活线索。"
+    },
+    {
+      "id": "lesson:daily-rhythms/availability-example/availability-example",
+      "textHash": "d2414002f1f13b610ef1cfb465408b881968d75ae5a3ec01b5738ec247c57f02",
+      "audioUrl": "audio/6b0bc142d1c1cd7434b2d2f9f6f58d4b598ef512055231bf410677a757840854.mp3",
+      "durationMs": 30564,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "再看内环，它表示这个具体人物的联系窗口。外环上的工作示意，不能证明对方现在有空。这里的人物是可编辑的示例：有人早起，有人晚睡，也有人轮班。你可以修改可联系时段、睡眠时段和星期，观察内环怎样变化。地域资料提供背景，真正约通话时，要问本人当地几点方便，并确认他愿意接听。"
+    },
+    {
+      "id": "lesson:daily-rhythms/not-all-overlap/not-all-overlap",
+      "textHash": "d3cdf1c25cd96a4af11eaa9b71c158386c899317c21f31576abd1ee834642790",
+      "audioUrl": "audio/04b65391112d519a1a425b37b36edc575385e9eacb6b7695653df3d0252762ba.mp3",
+      "durationMs": 30780,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "现在纽约早上九点，北京已经晚上十点。拨动时间或点击作息环，看看完整的三十分钟是否都落在个人联系窗口内。睡眠时段、周末和跨午夜的日期，也要一起检查。把这个示例带到约时间工具，再确认双方是否方便。如果普通窗口没有交集，可以异步留言，或商量轮流调整。时间换算给出钟点，个人确认才能形成约定。"
+    },
+    {
+      "id": "lesson:meet-together/name-the-place/name-the-place",
+      "textHash": "7687e573468e262b6e85a5f478caa2cf126fc2d3c78151659c0e4e009e1934d5",
+      "audioUrl": "audio/60d0b4688ecdcff463a15216e406d152ad0597c77d88144eccb4c26c6a43c5e7.mp3",
+      "durationMs": 21384,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "最后把知识用来约一次真实的通话。不要只说“明天九点”，因为两人的明天和九点可能都不一样。这个例子里，北京一月十五日上午九点，洛杉矶还是一月十四日下午五点。先确认对方所说的城市与日期，再列出双方读到的钟点。你们无需把手机设置成同一个时区。"
+    },
+    {
+      "id": "lesson:meet-together/one-instant-two-clocks/one-instant-two-clocks",
+      "textHash": "28923709ab8d9e9e5873d34f5273e0eba83417c67fe6a71a39555021b758a431",
+      "audioUrl": "audio/0fc7dc56d48c0caaee7209af2c361cae54f98adce810c4d814cd0ed274fcfca5.mp3",
+      "durationMs": 31392,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "可以这样写：二零二六年一月十五日，北京时间上午九点；也就是一月十四日，洛杉矶下午五点，通话三十分钟，你方便吗？软件里选择 Asia Shanghai 或 America Los Angeles 这样的城市时区，让它按日期处理规则。时间戳结尾的 Z 表示 U T C；local time 则表示某地当地时间，仍要说明是哪里。"
+    },
+    {
+      "id": "lesson:meet-together/confirm-and-calendar/confirm-and-calendar",
+      "textHash": "172b71c12ab18364692b94854881b14b2911c5d190f6fa6a65f643584101d7ff",
+      "audioUrl": "audio/07f7cb4938f2484eb005002fdc794abf6f9c54fad180702b9e7e8f82cc25a762.mp3",
+      "durationMs": 27864,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "点击用这个案例继续，北京、洛杉矶和这次通话的日期会一起带到约时间工具。先检查双方是否方便，再生成带时区的日历邀请，让各自日历显示本地时间。每周固定会议还要说清固定哪一方的当地钟点，因为夏令时可能改变另一方的时间。现在试着把这次三十分钟的约定，放到双方都能读懂的日历上。"
+    },
+    {
+      "id": "human:sun/morning",
+      "textHash": "dd349c70cf4155202b12f5e09c22b4e5b2cf2ba0043ad5ec4359a6a566b792a4",
+      "audioUrl": "audio/c8b7e011a26760eabfa4cd1e0eb749c31cc4141ef3647ff4f6ac3d81bd1a887c.mp3",
+      "durationMs": 29340,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "先固定一个观察点：北京。地球上的亮点始终代表同一个地方，旁边的钟表也始终读北京时间。我们从三月二十日清晨六点开始，看这个地方转向太阳，进入明亮的一侧，再走向正午。先记住，改变的是这个地点和阳光的相对方向；白天来自这种关系。这里是昼夜教学演示，不能用来预报精确日出。"
+    },
+    {
+      "id": "human:sun/afternoon",
+      "textHash": "0c8d818a4ae260b94c8385a834513797f99362b2dcc763eba16810652a4fe9a7",
+      "audioUrl": "audio/c87984001451857c821c33cb83cc6aa48f6841285add114de9744215f3c43b74.mp3",
+      "durationMs": 22428,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "仍然看同一个北京。现在从正午走向傍晚，钟点继续前进，观察点也逐渐离开明亮的一侧。太阳不需要围着每个人单独转一圈，各地也不会同时到达中午。钟表给这个连续的过程标上刻度，帮助我们说清楚现在是一天的哪一段。"
+    },
+    {
+      "id": "human:sun/night",
+      "textHash": "fba28169e04622705b325dd572631574b118696e0a53eb2893d3c4c8cc0a351c",
+      "audioUrl": "audio/4f2bf1ffff6e257f7336377f66b249a1280e2cfa04d040baacc68799e5a211d2.mp3",
+      "durationMs": 25128,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "北京继续转到背向太阳的一侧，从傍晚走向午夜。若观察点到了地球背面，标注会写明地球背面，并继续显示同一个地点的钟表。黑夜没有让这个地点消失。当地夜间可以帮助我们理解休息的背景，但不能断定每个人都已经睡觉；夜班、家庭安排和个人偏好都可能不同。"
+    },
+    {
+      "id": "human:sun/next-morning",
+      "textHash": "cafbbb9a2c17ea0a73c8c9ea3d68ab05369aa6fc7693f094e93af4147b71cb01",
+      "audioUrl": "audio/7d67f712cbd9a2615dc8e00c392af6772f053da208d01ff441e0948ee7933f3e.mp3",
+      "durationMs": 26712,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "地球继续转动，从午夜走到第二天清晨。我们又回到接近出发的光照阶段，北京的日历已经多了一天。人们给这一整个循环安排吃饭、工作、出行与休息，再用钟点相互约定。把钟表拨快一小时，不会让太阳立刻移动。下一步，我们再看人的身体和社会安排怎样共同影响作息。"
+    },
+    {
+      "id": "human:body/body",
+      "textHash": "5f9dd7d8e03961e3dff60b28c63d89c690d19644dd57549cc803b0d9a06f18aa",
+      "audioUrl": "audio/9010e1b188c0d38161d167b8d66d88523f05d09309bf7bb035c04a9b961add9d.mp3",
+      "durationMs": 37404,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "光照与黑暗会给身体提供时间线索，帮助生物钟跟上一天的循环。因此作息和昼夜有关，但人的生活也受到工作、学校、家庭安排以及个人差异影响。有人自然偏早起，有人偏晚睡，夜班工作者还可能白天休息。看见地球这一侧是白天，只能帮助理解生活背景，不能断定某个人已经起床或现在有空。我们展示地域生活示意，是为了解释可能的节奏；真正安排联系，还需要这个人自己的睡眠与可用时间。"
+    },
+    {
+      "id": "human:coordination/coordination",
+      "textHash": "cb4b533cd64c5a3a88e72463a65ee599418b1ecee6509f46c063fed3794ae02d",
+      "audioUrl": "audio/ce671c612195a0ce424dfc61ba3a8a7080e7ef2a93029fa6169b53c65e1b8fe2.mp3",
+      "durationMs": 35460,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "如果每个城市都按当地太阳安排自己的钟表，地方的中午很好理解，跨城约事却会变复杂。往东或往西走，钟点会随着经度改变；经度相差一度，平均太阳钟约差四分钟。成都与上海相差约十七点四度，按经度估算的太阳钟就相差约七十分钟。铁路和通信把许多城市连在一起后，人们需要更容易共同使用的时刻表。北美铁路采用标准时区，就是解决这种协调问题的一个历史例子。"
+    },
+    {
+      "id": "human:civil/civil",
+      "textHash": "b67dd5736de0c457698897314faf0e35a5a746dc76f6a0edb0cbf3bf7728bf27",
+      "audioUrl": "audio/d94a01b38279dee400402ce961398757ce74a02f6b04ee251933b31f59118eb3.mp3",
+      "durationMs": 35964,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "时区可以理解为人们共同采用的一套公共钟表规则。同一区域使用统一时间，车票、上课、营业和约会就容易对齐；跨区域再用协调世界时，也就是 UTC，作为共同参照。现实边界还会考虑行政与生活联系。成都和上海都用北京时间，公共钟表可以同读十二点，但按经度估算的平均太阳钟约是十点五十六分与十二点零六分。统一的是公共刻度，各地的太阳位置和实际生活仍有差别。"
+    },
+    {
+      "id": "human:person/person",
+      "textHash": "d03b833ccf84a5fa63c6aa8db397085b3ea685d226c98cf47091275753a0bd1d",
+      "audioUrl": "audio/08662644febe678f5bedef31cbf0865362f0a1e61e3ef097da6349188677f9c7.mp3",
+      "durationMs": 40068,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "最后回到我们为什么学习时区：让彼此在同一瞬间见面，也尊重各自正在过的一天。时区规则先帮我们算清楚，对方那里是哪一天、几点钟；地域生活背景再帮助我们理解，那个钟点可能意味着通勤、用餐或休息。最后还要问具体的人，他何时睡觉、何时愿意联系，并检查整个三十分钟是否都在窗口内。若没有共同空档，可以先留言或另约日期。理解时间的目的，是让合作顺利，也让对方的生活得到尊重。"
+    },
+    {
+      "id": "reset:daily",
+      "textHash": "202a6943b96390c37dd4284f4297f71b16e2523907e63a8ec9908867f5017663",
+      "audioUrl": "audio/5e4bb4ae7a42f4800e58879b6e354e1064552688d77882e26ae764c66473a193.mp3",
+      "durationMs": 35928,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "看到每天午夜重置，先不要把它理解成北京时间零点。先找这条规则使用哪个时区，再看重置属于那个地方的哪一天。本例明确写太平洋时间零点，并按洛杉矶规则理解；它在标准时间和夏令时间之间切换，所以换成北京时间时，钟点会随日期改变。若写的是协调世界时零点，则采用另一套固定参照。全球发生的是同一个重置事件，各地日期和钟面可以不同。原话没有日期或时区时，还要先问清楚。"
+    },
+    {
+      "id": "reset:window",
+      "textHash": "da7ba45793a121f12f7ea1692f3ecfc58857a130222d68bfe6938aaeeb844c8c",
+      "audioUrl": "audio/549c3af7d51b54379d20918a1c808ae8426ac9f0a578810f9869793c90145709.mp3",
+      "durationMs": 34272,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "另一种规则从某次使用开始计时。本例明确规定，首次请求五小时以后，窗口才结束。要先找到那次请求的完整时间戳，再向后加五小时，最后分别显示成世界各地的钟表。这个算法和每天午夜清零不同，也不能只看说话者住在哪里。若页面只写五小时窗口，却没有起点或下次恢复时间，我们还不能确定准确钟点。这里的首次请求起算只是教学约定，真实产品可能有自己的窗口起点和计算方法。"
+    },
+    {
+      "id": "reset:rolling",
+      "textHash": "d7a3ed77fb47be5d8a2809ccdca403b33fe405ca884aee14ff30042dc0cb5fec",
+      "audioUrl": "audio/1aa796a51976108e5100e681c80dc12efaac102d21a638fe569e19caa8e17c79.mp3",
+      "durationMs": 37332,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "过去五小时累计用量，是又一种含义。它不断回看刚刚过去的五小时，而不是等到某个午夜把所有记录一起清空。本例在协调世界时二十三点和次日一点各使用一笔；它们分别到次日四点和六点退出窗口。第一笔退出时，只释放第一笔占用的份额，不能说全部额度都已恢复；继续使用还会加入新的记录。实际产品也可能采用分段计数或其他限流算法，所以先认清原话，别把所有窗口都当成同一种重置。"
+    },
+    {
+      "id": "reset:billing",
+      "textHash": "82e917739c282f64b0cca4b2b2679bc2e13fa1b6c38d321bc4c47aaa93aea019",
+      "audioUrl": "audio/80e1cdda5f58527f0c4aec4d7edc370c7c25dd31df9329db1f770c3bc60c8888.mp3",
+      "durationMs": 40608,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "订阅额度还可能跟账单周期有关。每月订阅不自动等于每月一号更新，也不一定是每次购买后整整三十天。周期可能由购买日、试用结束日或指定日期决定，短月还会带来日历处理差异。优先读取产品显示的下次额度更新时间，或规则中明确给出的完整时间戳，再换成你的日期和钟点。本例末尾的字母 Z 表示协调世界时。账单续费和额度恢复也可能是两件事，需要确认该产品是否明确把它们绑定。"
+    },
+    {
+      "id": "routine-background:beijing",
+      "textHash": "ac6ffba849648e97557821c36aec6064865a2b0cec836852aca44cba7d406672",
+      "audioUrl": "audio/ea3868351abb780b9612b60582d1bec5907a83d9c1322c49d2de38f0e1c1daa7.mp3",
+      "durationMs": 30528,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "来到中国的北京，先读城市旁的当地钟点。轨道运营资料把十九号线平日早上七点到九点、下午五点到七点列为高峰，这只是线路的通勤线索。环上的早餐、工作和睡眠是教学示意，不代表所有北京人。内环初始人物是虚构示例。联系前请看这个人的实际设置，并向本人确认。是否正在开会、通勤或照顾家人，不能仅靠钟点判断。"
+    },
+    {
+      "id": "routine-background:tokyo",
+      "textHash": "a65b73bcc41949bf04339615c706ab96f4da8fabde1e190b5721bafba22c9a7b",
+      "audioUrl": "audio/2dfe49681cee90bc5e589fcf38b5ca208697b19502eb7cd96569d7ab2a008983.mp3",
+      "durationMs": 29628,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "现在看日本东京的当地钟点。日本国家旅游局提醒，工作日早上七点半到九点、傍晚五点半到七点，通勤列车可能拥挤。环上是一天的生活示意，不能据此断定每个人几点下班。内环初始人物是虚构示例。联系前请看这个人的实际设置，并向本人确认。即使钟点合适，也要问当天是否值班、休假或正在路上。"
+    },
+    {
+      "id": "routine-background:delhi",
+      "textHash": "434bb929e906e9048b6ebe8c5bbe113bbc5ea79ff90a9e15173d9d94cf3fb65c",
+      "audioUrl": "audio/eb49576b4034dbdbdb0b3ddada90e6e692539afe3a7e687292f48abcfdb75c30.mp3",
+      "durationMs": 26388,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "把地球转到印度的新德里，先看这里的当地日期和钟点。印度全国时间利用调查还统计家务与照料，所以没有在办公室，并不等于可以通话。环上的十点上班、晚餐和睡眠只是工作日示意，不是全国平均时间表。内环初始人物是虚构示例。联系前请看这个人的实际设置，并向本人确认当天的日程和家庭安排。"
+    },
+    {
+      "id": "routine-background:dubai",
+      "textHash": "d1f64918d04bd0c3b2988a651073a75b7cba310c9b9ed40dbc6a6aa688338f55",
+      "audioUrl": "audio/f2a485cda8efb152f9d5a31774b9d6cb72d808d57a4989b88f045bcc3c37b804.mp3",
+      "durationMs": 28980,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "来到阿联酋的迪拜，要把当地钟点和工作周分开理解。政府资料中的周五半天安排有明确部门范围，不能套用到所有企业；节日期间也可能调整。环上的办公室生活只是教学示意。可联系的星期要看个人设置，不能照搬政府时间表。内环初始人物是虚构示例。联系前请看这个人的实际设置，并向本人确认哪一天、当地几点方便。"
+    },
+    {
+      "id": "routine-background:madrid",
+      "textHash": "8eb2d1f8ca640905afed49667947c0fdc9cd2478728a337324ef3cbd4637e03a",
+      "audioUrl": "audio/4f8bf9d84c213ae6cecbe708f7cf03093c7b7127b25b36c643c0d361b243c94d.mp3",
+      "durationMs": 31896,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "看西班牙马德里的当地钟点，再观察环上的用餐位置。西班牙官方旅游指南介绍了较晚的午餐和晚餐服务时段，但这不等于每个居民都按同一时间吃饭或午睡。环上的十四点午餐、二十一点晚餐是教学示意。内环初始人物是虚构示例。联系前请看这个人的实际设置，并向本人确认。用餐、休假或私人安排，都可能影响是否方便。"
+    },
+    {
+      "id": "routine-background:london",
+      "textHash": "36dca7f1c25eae04d4de41f52d3ea7e3d030b0e64806ef467878dd62890a45dd",
+      "audioUrl": "audio/0644bb65489341026a17e3f250810a3108912ef25377ecae6e5e960768df7840.mp3",
+      "durationMs": 25992,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "现在看英国伦敦。英国统计局的时间利用分析发现，在家工作和到岗工作的人，通勤与休息安排会有差别；这不是伦敦所有人的固定作息。环上展示一位到岗工作者的教学示意。内环初始人物是虚构示例。联系前请看这个人的实际设置，并向本人确认。即使同住一座城市，远程工作、轮班和家庭安排也不同。"
+    },
+    {
+      "id": "routine-background:newyork",
+      "textHash": "72f19a96c18c3539440f831d6629460ab84c33d96934f14d1f6792eb7d6b885a",
+      "audioUrl": "audio/b9ae3fcc18812d1064b2ce10066572f9a5cf6ea6f9cdda1f5ae231be0ae126d7.mp3",
+      "durationMs": 31968,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "来到美国纽约，先看这里究竟是白天还是夜晚。纽约地铁系统全天运行，这是公共服务的安排，不代表朋友二十四小时都醒着。环上的工作、用餐和睡眠是一种教学示意。内环初始人物是虚构示例。联系前请看这个人的实际设置，并向本人确认。若落在睡眠或通勤情境，可以先留言预约，再核对工作日、休假和个人偏好。"
+    },
+    {
+      "id": "routine-background:la",
+      "textHash": "9ba7409a46ac551f037b1cd22f0f9fad74d9dc22b621347fce6a125bbb1cb10e",
+      "audioUrl": "audio/74eb095734a8d864d7377c37552162a2081e9a6d10bcdb7cc8dd1f370c8939c3.mp3",
+      "durationMs": 29268,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "看美国洛杉矶的当地日期与钟点。全国时间利用调查显示，全职就业者在工作日和周末的工作参与情况不同，但不能由此推断某个人的班次。环上的一天是教学示意。内环初始人物是虚构示例。联系前请看这个人的实际设置，并向本人确认。听到太平洋时间时，还要确认具体日期和城市，不能只记住固定时差。"
+    },
+    {
+      "id": "routine-background:sydney",
+      "textHash": "ec4dd3341e331799ce5b7b5db5b988beece736700ac8ef0a684fb2dc03cfe69b",
+      "audioUrl": "audio/1e5a089e1158e461abf09c24368e64f3d642de5a3203e42bbc287c61433ed1cd.mp3",
+      "durationMs": 28980,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "text": "来到澳大利亚悉尼，先看当地日期，别只看钟点。官方旅游网站介绍了丰富的早餐和咖啡馆体验，但不表示每个人都同样早起；全国调查也提醒我们，家务和照料会占用时间。环上的一天是教学示意。内环初始人物是虚构示例。联系前请看这个人的实际设置，并向本人确认工作日、家庭安排和个人偏好。"
+    },
+    {
+      "textHash": "5447010aef1036258132646193639d1587b159d760312a7ca0b9386ab9ec9382",
+      "audioUrl": "audio/165487b2b3f42a122dc58970dad6317e317163524b0c536c443e11427416c68a.mp3",
+      "durationMs": 26532,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "walkthrough:manual",
+      "text": "这里是手动换算。先选参照城市，再选择日期和当地钟点，地球与城市时钟会一起变化。拖动一天的时间滑块，可以观察各地进入白昼和黑夜。它显示你指定的瞬间，不会冒充实时现在。遇到调钟造成的不存在或重复时间，页面会请你确认。你可以暂停导览亲手试一下，再继续。"
+    },
+    {
+      "textHash": "a9f75442dc17058bf374b29583ac6ad24dcd225341ee97d4f4e747d72e000277",
+      "audioUrl": "audio/4e6ef534ead96005c918f8abd78613075974474b8a75591f0b09c33c08cf59e3.mp3",
+      "durationMs": 36792,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "walkthrough:knowledge",
+      "text": "这里是时区的基础理论汇总，供你按主题阅读和随时查阅。七个主题从日期和钟点开始，依次解释时区、UTC换算、全球划分、太平洋时间与夏令时、公告日期，以及作息和沟通。每个主题都有要点、解释和固定日期的教学例子。页面下方可以按需要展开复习题，或打开资料来源。理解原理后，实时对照、公告换算和约时间分别在对应工具中使用。"
+    },
+    {
+      "textHash": "fa5be52dc692e97fb0774bfbd16b0c65c5bb04b3c9bb3d96b33235b853dba2ab",
+      "audioUrl": "audio/5f5eacc79da8177a432f57d966f1b679dcd7292bb312644f852e37e121bbfcbf.mp3",
+      "durationMs": 32508,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "walkthrough:planner",
+      "text": "这是约时间工具。左边填写具体人的当地可用时间、星期和睡眠避让，右边把同一个约定显示成双方各自的日期和钟点。点击寻找共同可用时间，可以检查交集；没有交集时，也需要商量新的窗口。下方可以复制中英文邀请，或者下载日历文件。下载只生成本机文件，不会替你向别人发送邀请。导览使用临时案例，退出后会恢复你原来的配置。"
+    },
+    {
+      "textHash": "b50b693e610becac02e44996c74252e9709a247cc8a890cd2c8f2d901bd71bf3",
+      "audioUrl": "audio/e155041049dc96a21dfe3bf3b38fc165238173fef775057a46a306aac4bd1597.mp3",
+      "durationMs": 29160,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "walkthrough:library",
+      "text": "最后是国家与城市巡游。这里按地球基础、大洲、国家和著名城市组织了六十二章内容，可以搜索、点目录，也可以在地球上点城市。播放器支持连续收听、语速选择和音色设置。完整功能导览到这里结束，六十二章的内容巡游可以另外从头连续听。以后你可以直接进入需要的工具，也可以从本次进度继续复习。"
+    },
+    {
+      "textHash": "c62903a0ea3897660c002dd48d9a1157926a363faf1c43b46ba1c951fe65d1d2",
+      "audioUrl": "audio/b36a651c2269076cf742dd993844e6f60bb55eba8fe75c6d17e33ecf32caa0c9.mp3",
+      "durationMs": 14652,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "live-reference-date",
+      "text": "先看北京亮起的日期。本段是预录的读屏说明，实际日期和钟点由页面按你选择的同一瞬间计算。先读哪一年、哪一月、哪一天，再看钟点。"
+    },
+    {
+      "textHash": "fb2e2d938bb867811cfd42ab1c86428a776f0bfc02297805e76ff8214a5ea424",
+      "audioUrl": "audio/7f1faa76c8484bad96b514b8da4dd49421bf4ba5c46adc110e569398c3ba4932.mp3",
+      "durationMs": 9468,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "live-reference-time",
+      "text": "现在读北京亮起的钟点。接下来比较的是各地钟表对同一瞬间的不同表示，事件发生的瞬间保持相同。"
+    },
+    {
+      "textHash": "410a33641cc384cd03820b0d0e366542494aa210e778c968ffdbbb036ce80028",
+      "audioUrl": "audio/a15222b7db7bd0ff7d49517e4225fd4a72214d3bd156fb17e014583b38062a4b.mp3",
+      "durationMs": 14760,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "live-utc",
+      "text": "再看公共标尺 UTC。页面展示从北京减去来源偏移的过程，日期跨过午夜时也要一起改变。UTC 用于统一换算，不代表某个居民地点的生活。"
+    },
+    {
+      "textHash": "b6e3a3e985ad95dddc317a76bda0f3b10ca5dc164677360e502003aff35d0a13",
+      "audioUrl": "audio/fd1ccd21efb196e2d78aba4fd2d2239c2c437104ca5b9dc6dfa83ffdea13e5d8.mp3",
+      "durationMs": 9576,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "live-target-date",
+      "text": "转到选中地域的日期。请把这里的完整日期与北京比较；两地可能在不同的日历日，不能只看小时数字。"
+    },
+    {
+      "textHash": "61c491600fdc451b9265e1e7b9a4f088b5ead9c5b341d45d0de4cdf8a7fda5e7",
+      "audioUrl": "audio/0b4bd6db9ef955bc32ad43c5dc9d9771c3a033deaf4be7652cd400471b5dd470.mp3",
+      "durationMs": 13536,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "live-target-time",
+      "text": "现在看选中地域亮起的当地钟点。页面从 UTC 加上该地区在所选日期采用的偏移，得到这一读数。地点、日期和钟点需要一起确认。"
+    },
+    {
+      "textHash": "ecfdf63539611bc8b935ab1d3e99cb0813a262e917ccfd7ddbcc8f2b1bcd658e",
+      "audioUrl": "audio/eb4ffcc00931df2ec6e72291e87b33346d636044220d4b62561763d842571a97.mp3",
+      "durationMs": 8748,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "live-concept-pt",
+      "text": "PT 是太平洋当地时间的统称。以洛杉矶为例，应按所选日期确定当时使用标准时间还是夏令时间。"
+    },
+    {
+      "textHash": "d14b1bc8a2659b69909e97feb417fd5e2cf98af294682bc7320f24241d621e9e",
+      "audioUrl": "audio/ea5f0d49a29a061ed01a09c72a1e1a7b19e82c50486dd88c9e0d011b1d785bae.mp3",
+      "durationMs": 14040,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "live-concept-pst",
+      "text": "PST 是太平洋标准时间，固定采用 UTC 减八小时。它是明确的规则名称；如果帖子只是口语泛指太平洋当地时间，还需要结合日期确认。"
+    },
+    {
+      "textHash": "577095e23de0c9b7a67920c8c725d5a7c84ad579511ada6c9917c67342b0af28",
+      "audioUrl": "audio/1d52aaa88cfab11977ca333f42a2e1f5e78f28d488e95c4c2b1f3d646c503c46.mp3",
+      "durationMs": 10656,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "live-concept-pdt",
+      "text": "PDT 是太平洋夏令时间，采用 UTC 减七小时。请看页面在所选日期实际标注的缩写，不能全年使用同一个时差。"
+    },
+    {
+      "textHash": "b10cc7c7c39f9238f5bf2c59d2ce750f27ddb67a7c837784ea91d2727acbd718",
+      "audioUrl": "audio/4117cd0ea2b7b946e72657f650d31decbe522bc4ea87bce6fb4212dfada811ac.mp3",
+      "durationMs": 11736,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "live-current-rule",
+      "text": "现在看这次日期实际采用的规则名称、UTC 偏移和两地时差。未来活动要按活动日期重新计算，不能直接套用今天的偏移。"
+    },
+    {
+      "textHash": "9ed42694480e14edd7320ce57ebed887de4528a2a897ec3650d193091c9abc31",
+      "audioUrl": "audio/82faf1e51e229b12df1f15252f9695029ec05bb62aeb6ea5955145f6ce5d437a.mp3",
+      "durationMs": 13608,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "live-quiet-reference",
+      "text": "当地钟点旁边标出凌晨、清晨或午后等阶段，参考段则由你自行设置。它是粗略避扰参考，不能证明某个人正在睡觉，也不代表完整睡眠。"
+    },
+    {
+      "textHash": "1577caf0cb676d0817877f64df0839a771c0960d1e6345f7522dd2134ec0c0f4",
+      "audioUrl": "audio/25e8f2bb9b90db3a40d4c008e9159868aba11d7a4c6a07798388ca7d5cf91762.mp3",
+      "durationMs": 13248,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "live-quiet-conversion",
+      "text": "请对照当地和北京时间的完整起止日期、钟点，以及页面计算的实际经过时长。跨午夜要换日期，跨调钟时还要区分钟面范围与真实时长。"
+    },
+    {
+      "textHash": "10a63393d361423cba86fa20f2fd042b4c489efd7de5ddcd67882c7b89aa4558",
+      "audioUrl": "audio/37a36e6f5e911892e871e7ebb199cf6e4dba3b7524d04db1bd139c8e681f7df2.mp3",
+      "durationMs": 12564,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "live-quiet-unresolved",
+      "text": "这里的参考段端点遇到了调钟歧义。钟点可能不存在或重复出现，请先按页面提示确认采用哪一种处理规则，不能先认定只有一个对应区间。"
+    },
+    {
+      "textHash": "431ef04f08719d583a6e3d333c16d4894be1cb7470f7b3af0eede079d5c76e9a",
+      "audioUrl": "audio/dbac15de7421324795fca5a85f11562a5f92387170e669980c620a889cf8fe54.mp3",
+      "durationMs": 15444,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "live-individual",
+      "text": "最后回到具体的人。钟点和时区帮助对齐同一瞬间，是否方便联系还要确认对方的日程、轮班和个人习惯；参考窗口不等于本人已同意的联系时间。"
+    },
+    {
+      "textHash": "6e92dfb6796ed680cb82dca75cec4db44625b6fbcd6f86a2356e1024be08558d",
+      "audioUrl": "audio/06204b15809d0ce85a427d92bf7418d75540895d6527a48c9141df14ed268dc0.mp3",
+      "durationMs": 10512,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "live-shared-instant",
+      "text": "这些钟表表示同一瞬间。UTC 是统一参照，城市钟表是当地读数；不要根据 UTC 的钟点推断任何人的作息。"
+    },
+    {
+      "textHash": "1c36768ba6bc1c86e837bfdef5db8a3adca5a47601b82687c4eeb6e1893e3647",
+      "audioUrl": "audio/a11a4a808314c65eea8a7ad609d0594b1c0ab2cb11f434e02b382a8a788ccee7.mp3",
+      "durationMs": 9936,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "routine-local-date",
+      "text": "先看这座城市亮起的当地日期。这是你在页面选择的瞬间所对应的日历读数，比较不同城市时请把日期一起带上。"
+    },
+    {
+      "textHash": "2f4c545873e5422597d6d957f76e4bcb781f51d28b9a53d9d62b010a8570f65f",
+      "audioUrl": "audio/e237aecae1d72c90448cf90cc9553f4bae73f599197a611714c5ca507ebef37b.mp3",
+      "durationMs": 10764,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "routine-local-clock",
+      "text": "现在读亮起的当地钟点。作息双环按这座城市的当地一天排列，指针标出当前所选钟点在环上的位置。"
+    },
+    {
+      "textHash": "9524d5049953561b2e55722d012910de30d1c3edcd40dc35cace54812cc38fd6",
+      "audioUrl": "audio/eea2f742fd0a9f1c6e3202fa1fc338e4bfc2839459de9d0a7ff2a2c915ee14ea.mp3",
+      "durationMs": 12852,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "routine-regional",
+      "text": "只看外环亮起的一段，并阅读旁边标出的活动名称和范围。外环是普通工作日生活的教学示意，不是人口统计，也不能判断某个人此刻实际在做什么。"
+    },
+    {
+      "textHash": "39c935aa2e3bf19c64fdd07a5ee19f8198860eb55cb78df227467327b347aa60",
+      "audioUrl": "audio/7890c35a2c7b0a358b9f3d9ee701649e53362c40ee3e4af05a51d722043ac6df.mp3",
+      "durationMs": 15732,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "routine-personal",
+      "text": "接着看内环亮起的个人联系窗口。它来自页面中的个人设置，跨午夜的窗口归开始当天；请以屏幕上的星期、时段和当前判断为准，不要把个人设置当作整座城市的规定。"
+    },
+    {
+      "textHash": "ea1d778d634ff655c698074db9f16021262f882538496174e47b7f1403259df1",
+      "audioUrl": "audio/cf7cbde1e2f36bf607de9efa9814280c5bdb7aab0356d781394803f62b7f3578.mp3",
+      "durationMs": 14112,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "routine-sleep",
+      "text": "现在看内环的睡眠避让区段。跨午夜时它会分布在环的两端，睡眠设置优先于可联系窗口。这里表示某个人的设置或示例，联系前仍需向本人确认。"
+    },
+    {
+      "textHash": "4d928cfef4ee0b27103e60a71411d96c0c82bf749276512be803edf2d918fdaf",
+      "audioUrl": "audio/645d66e3acad55577e21c749f1e67ce8941393f7d6d1edc47a6e7f1b18d499e7.mp3",
+      "durationMs": 13896,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "common-source",
+      "text": "先核对对方的完整日期、上午下午和时间说法。请读页面当前选择的来源城市或固定偏移，确认这确实是对方原话所采用的规则。"
+    },
+    {
+      "textHash": "5cb1158941ca13bcffff36e216a11442f8e53cbd1dddcda61f98f6f015fe9811",
+      "audioUrl": "audio/e629d539225dfc0c02c06244fd3f4878490007574d77b41eaaf9495ae496ada6.mp3",
+      "durationMs": 12024,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "common-utc",
+      "text": "再看中间的 UTC 推算。页面先把来源钟点换到共同标尺，日期变化也会写出来。计算的是同一个瞬间，不是给事件另选一个时间。"
+    },
+    {
+      "textHash": "c5d26287c35663a8b35962d5e945c2d37d82592441ab1978276b70f3e9e6bac8",
+      "audioUrl": "audio/a45cbe45bcb2fd777af84ef67add3faea56af7f14e156ca17d2c5ed2b60c7af9.mp3",
+      "durationMs": 10476,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "common-target",
+      "text": "接着读北京一侧的完整日期和钟点，与来源一侧并排比较。尤其注意前一天或后一天的标记，不能只记几点钟。"
+    },
+    {
+      "textHash": "0c96885ec488a34fa14f06b73cf16f3b03d298fa6466fb347d85e9719ec3fb75",
+      "audioUrl": "audio/9b82b587bfc77eb86862e64306ca832866585de2d40a184b2ecf5e32fe8539f7.mp3",
+      "durationMs": 13464,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "common-confirm",
+      "text": "最后阅读页面生成的确认句。它同时写出双方日期和时间；如果原话有缩写歧义，应先确认城市和规则，再询问时长与是否方便，最后发送日历邀请。"
+    },
+    {
+      "textHash": "6b0aa1e37ae76c208024e588d1fb33ffc1449bf1c3459636844233f6aea77761",
+      "audioUrl": "audio/99b458658a21dbb1573a615cb3e4e3559933f4ac6009222887982f9500f2e5ca.mp3",
+      "durationMs": 15372,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "common-practice-source",
+      "text": "把前面学过的知识用于实际沟通。先问对方：你说的是哪座城市、哪一天、上午还是下午？再核对页面中的来源日期、钟点和采用规则，把条件确认完整。"
+    },
+    {
+      "textHash": "7b4342b7cc72a39c7f72c04102d36650f84bd8919e01083df41c9045435d9f1b",
+      "audioUrl": "audio/5b819d42c1ee5b0442ab8683a7b251920234204a33a1967f8d1c78e92f0d5f3d.mp3",
+      "durationMs": 16056,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "common-practice-confirm",
+      "text": "可以把页面上的双方完整日期与钟点写在同一句话里，回复对方确认是否指向同一瞬间。再问通话多久、这个时段是否方便；确认句可以复制，也可以带这个时刻去约时间工具核对个人窗口。"
+    },
+    {
+      "textHash": "95726091b338369f5f875fc73b435ef5c14c9703978f353caf7193d9eea4388b",
+      "audioUrl": "audio/3d337847267db8df6134aba8772e751fee43bf1daaf32fe73698d142c8bbd8aa.mp3",
+      "durationMs": 17568,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "announcement-source",
+      "text": "先看公告的来源规则或计时起点。页面会标出采用的时区和解释模式；若存在默认假设，请先核对。太平洋当地时间与严格标准时间的含义，需要按页面说明分清。"
+    },
+    {
+      "textHash": "48ae9acbd7e652eda56f3b7f6fb336db6c5e2a633b328f320de6d13cb5eadd63",
+      "audioUrl": "audio/4f736e66917b261d2b85735813d7933d63c56c7ceccf0556df8a7257c9debadd.mp3",
+      "durationMs": 13896,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "announcement-concept-pst",
+      "text": "PST 是太平洋标准时间，固定采用 UTC 减八小时。公告如果把它当作日常口语，页面会另外说明解释假设；正式含义仍保持不变。"
+    },
+    {
+      "textHash": "39313657cb076636223ace3db1794844742063b84cbd7ebc22c010be13925cf6",
+      "audioUrl": "audio/7e150363a44b173c6212af3aac642ca499acdb78173d40374f77cd6a448bed73.mp3",
+      "durationMs": 10656,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "announcement-concept-pdt",
+      "text": "PDT 是太平洋夏令时间，采用 UTC 减七小时。请按公告所指日期核对，不能把标准时间和夏令时间混用。"
+    },
+    {
+      "textHash": "7c42e139f5762eac4bd6a425354e5c4094b0b50426b5ff72ccd73688186fb237",
+      "audioUrl": "audio/2fb50d8a098c7655fb492bc11ae0d0a2414a29b58d08a088eb4f18863ff66b87.mp3",
+      "durationMs": 15336,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "announcement-source-date",
+      "text": "现在看来源一侧亮起的日期。今天、明天和周几需要结合原帖的发布时间及所指地区理解；若说一天结束前，结束边界的午夜已经属于下一天。"
+    },
+    {
+      "textHash": "dbb5c90b97b1fcc4a465ea031c282b2311f131b09cdbaebb4ff9351fef1cefe7",
+      "audioUrl": "audio/49ef41fe972d4817ef1d2c20979f11e727b3676de57da60c450d61e078c91c4c.mp3",
+      "durationMs": 10908,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "announcement-source-clock",
+      "text": "现在只读来源一侧或计时起点亮起的钟点，并核对采用的规则。旁边如果写着之前，它表示截止条件，不是保证在那个钟点才发生。"
+    },
+    {
+      "textHash": "c7fbcee43941d0e106f045818de0e6293265f5c7c0fdb2a0fdf9be01e232ce5c",
+      "audioUrl": "audio/29bc26178891fa3d88c2d356df20ad6f3f8c0f6ef60cbca3ca1d7c5b9bc24c5e.mp3",
+      "durationMs": 12456,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "announcement-conversion",
+      "text": "接着看亮起的 UTC。它把来源时间或经过时长后的结果放到统一标尺上；页面的完整日期和钟点表示这次事件或截止边界对应的同一瞬间。"
+    },
+    {
+      "textHash": "007657c5ca6e4b174a2200a903d4401842d19dc47f908172d7da8551f0eb576f",
+      "audioUrl": "audio/997449ff0d33538077a24883a8304c0e9cef35903e368cfcb045822fddd9def7.mp3",
+      "durationMs": 10836,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "announcement-target-date",
+      "text": "现在看北京一侧的日期。请与来源地区比较，留意前一天或后一天；日期不同仍可能表示同一个瞬间。"
+    },
+    {
+      "textHash": "ba1300824702f32f02a528db9ffbe309b1b254d14cef88aa8be798c2188ef59a",
+      "audioUrl": "audio/ec54d7c5e8f9403209b5c77c8ac769ed588078b9e20c52c350c7158887edcbc9.mp3",
+      "durationMs": 10872,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "announcement-target-clock",
+      "text": "再读北京一侧亮起的钟点，并保留旁边的日期和之前等条件。这是同一事件或边界的北京时间表示，不能只抄一个小时数字。"
+    },
+    {
+      "textHash": "63e6a3176759a0312eaaf2556410a5e1ab0a6cef84cdf41533b20fbdff33384c",
+      "audioUrl": "audio/86ec17a2fe397ee15c10f3b53dac739e6a403efd530fd586502354b68b35b75b.mp3",
+      "durationMs": 14904,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "announcement-alternative",
+      "text": "这里切换到页面列出的补充解释。请比较它的规则名称、完整北京时间和相差时长；补充解释用于核对歧义，不能同时把两个结果都当成已确认的发生时刻。"
+    },
+    {
+      "textHash": "bf6b72487743d23f9b666ce801f371d3664032f73e87278cf451b69f663759e7",
+      "audioUrl": "audio/ddb0735ffde29060538ebf7bfd922b6f0dbe309d11778b19843e8036736bdc8d.mp3",
+      "durationMs": 14472,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "announcement-meaning-before",
+      "text": "最后确认截止边界。亮起的之前表示实际可能更早，公告并未给出准确完成时刻，也不能据此认定额度已经重置。具体恢复规则仍以产品说明为准。"
+    },
+    {
+      "textHash": "f0fb903e2458db1276cf884c03b5d323c5e5b243c06f3b1215eeb4eff2f3d022",
+      "audioUrl": "audio/4edaa97417efb7c8dbde34801252aa3fa16f24c07272645e5e67c0cc0cc6216c.mp3",
+      "durationMs": 16200,
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "announcement-meaning-at",
+      "text": "最后确认双方完整日期、钟点和时区指向同一事件。固定当地钟点的重复规则要按每次日期计算；时间换算本身不能证明账户额度已恢复，具体变化仍以产品说明为准。"
+    }
+  ]
+}

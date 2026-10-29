@@ -1,0 +1,50 @@
+# Credentials and machine-specific configuration
+.env*
+!/.env.example
+.voice-settings.json
+.dev.vars*
+.secrets/
+secrets/
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Hosting account links and private deployment state
+.vercel/
+.netlify/
+.wrangler/
+.aws/
+.azure/
+.gcloud/
+deploy.local.*
+
+# Generated speech can include personal input. Keep it local.
+.voice-cache/
+
+# Local runtime, dependencies and test output
+node_modules/
+*.log
+*.pid
+*.tmp
+coverage/
+.nyc_output/
+.cache/
+.release/
+
+# Internal screenshots and review artifacts; retain files locally.
+screenshots/
+/audit*.html
+/*-review.html
+/design-qa.md
+/*-review.md
+/*-audit.md
+/voice-check.json
+
+# Editor / operating-system artifacts
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# dist/ is the maintained application source and MUST remain tracked.

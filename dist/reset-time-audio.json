@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "provider": "MiniMax",
+  "lessons": {
+    "daily": {
+      "audioUrl": "/audio/5e4bb4ae7a42f4800e58879b6e354e1064552688d77882e26ae764c66473a193.mp3",
+      "durationMs": 35928,
+      "characters": 177,
+      "cached": false,
+      "provider": "MiniMax",
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "daily",
+      "title": "“每天午夜 PT 重置”，午夜属于哪一个地方？",
+      "textHash": "202a6943b96390c37dd4284f4297f71b16e2523907e63a8ec9908867f5017663",
+      "generatedAt": "2026-10-28T11:47:27.965Z"
+    },
+    "window": {
+      "audioUrl": "/audio/549c3af7d51b54379d20918a1c808ae8426ac9f0a578810f9869793c90145709.mp3",
+      "durationMs": 34272,
+      "characters": 175,
+      "cached": false,
+      "provider": "MiniMax",
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "window",
+      "title": "“首次使用五小时后重置”，要先找到计时起点",
+      "textHash": "da7ba45793a121f12f7ea1692f3ecfc58857a130222d68bfe6938aaeeb844c8c",
+      "generatedAt": "2026-10-28T11:47:29.618Z"
+    },
+    "rolling": {
+      "audioUrl": "/audio/1aa796a51976108e5100e681c80dc12efaac102d21a638fe569e19caa8e17c79.mp3",
+      "durationMs": 37332,
+      "characters": 178,
+      "cached": false,
+      "provider": "MiniMax",
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "rolling",
+      "title": "“统计过去五小时”，用量可能逐笔退出窗口",
+      "textHash": "d7a3ed77fb47be5d8a2809ccdca403b33fe405ca884aee14ff30042dc0cb5fec",
+      "generatedAt": "2026-10-28T11:47:31.926Z"
+    },
+    "billing": {
+      "audioUrl": "/audio/80e1cdda5f58527f0c4aec4d7edc370c7c25dd31df9329db1f770c3bc60c8888.mp3",
+      "durationMs": 40608,
+      "characters": 178,
+      "cached": false,
+      "provider": "MiniMax",
+      "model": "speech-2.8-hd",
+      "voiceId": "Chinese (Mandarin)_Gentleman",
+      "id": "billing",
+      "title": "“下次周期更新”，优先读产品给出的明确时间戳",
+      "textHash": "82e917739c282f64b0cca4b2b2679bc2e13fa1b6c38d321bc4c47aaa93aea019",
+      "generatedAt": "2026-10-28T11:47:33.915Z"
+    }
+  },
+  "updatedAt": "2026-10-28T11:47:33.915Z"
+}

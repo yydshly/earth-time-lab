@@ -1,0 +1,19 @@
+.time-context{--context-bg:#edf2e7;--context-border:#b8cbb3;--context-text:#294d42;--context-muted:#4c6658;--context-button:#fff;box-sizing:border-box;border:1px solid var(--context-border);border-left:3px solid #678d70;border-radius:7px;background:var(--context-bg);color:var(--context-text);padding:11px 14px;margin:12px 0;font-size:12px;line-height:1.65;min-width:0}
+.time-context[hidden],.time-context [hidden]{display:none!important}
+.time-context[data-kind=example]{border-left-color:#b9a76d}.time-context[data-kind=manual]{border-left-color:#7596a8}
+.time-context .time-context-main{display:flex;align-items:center;flex-wrap:wrap;gap:8px 17px;min-width:0}
+.time-context .time-context-mode{display:flex;align-items:baseline;flex-wrap:wrap;gap:5px 9px;font-size:12px}
+.time-context .time-context-mode strong{font-size:13px;font-weight:650;color:var(--context-text)}
+.time-context .time-context-mode>span{font-size:12px;color:var(--context-muted)}
+.time-context .time-context-clocks{display:flex;align-items:center;flex-wrap:wrap;gap:4px 17px;min-width:0;flex:1;font-size:12px;font-variant-numeric:tabular-nums}
+.time-context .time-context-clocks>span{font-size:12px;overflow-wrap:anywhere;color:var(--context-text)}
+.time-context .time-context-utc{color:var(--context-muted)}
+.time-context .time-context-detail{color:var(--context-muted);font-size:12px;line-height:1.7;margin:6px 0 0;padding:0}
+.time-context .time-context-now{color:var(--context-text);background:var(--context-button);border:1px solid var(--context-border);border-radius:5px;min-height:34px;padding:5px 11px;font-size:12px;line-height:1.6;white-space:normal;flex-shrink:0}
+.time-context .time-context-now:focus-visible{outline:2px solid #b49a4f;outline-offset:3px}
+:is(.planet-lesson,.reset-panel,.tour-stage) .time-context,.time-context.time-context--dark{--context-bg:#19333b;--context-border:#587a78;--context-text:#edf0d7;--context-muted:#c0d3c4;--context-button:#24463f}
+.planet-lesson>.time-context,.reset-panel>.time-context{margin:10px 24px 12px}
+.tour-stage>.time-context{grid-column:1/-1;margin:14px 16px 0}
+#explore:is(.human-explaining,.reset-explaining,.live-explaining) #manual-time-context{display:none!important}
+#explore:not(.human-explaining) #human-time-context,#explore:not(.live-explaining) #live-time-context{display:none!important}
+@media(max-width:640px){.time-context{padding:10px 11px}.time-context .time-context-main{align-items:flex-start;gap:7px 12px}.time-context .time-context-clocks{flex-basis:100%;gap:4px 12px}.time-context .time-context-now{margin-top:1px}.planet-lesson>.time-context,.reset-panel>.time-context{margin:9px 14px 12px}.tour-stage>.time-context{margin:12px 12px 0}}

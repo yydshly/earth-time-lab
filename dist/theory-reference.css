@@ -1,0 +1,56 @@
+/* A quiet text reference complements the globe and conversion tools. */
+#learn .learn-layout{display:grid;grid-template-columns:210px minmax(0,1fr);align-items:start;gap:24px;margin-top:18px}
+.theory-index{position:sticky;top:16px;min-width:0}
+.theory-index>p{font-size:11px;color:#67776c;margin:0 10px 9px}
+#learn .lesson-tabs{display:flex;flex-direction:column;gap:4px}
+#learn .lesson-tab{box-sizing:border-box;min-height:42px;gap:10px;padding:9px 11px;font-size:13px;line-height:1.6;border:1px solid transparent;background:transparent;border-radius:5px;color:#53685c}
+#learn .lesson-tab>span{font-family:var(--sans,sans-serif);font-size:11px;color:#7b8e7e;font-variant-numeric:tabular-nums;min-width:19px}
+#learn .lesson-tab:hover{background:#e8eddf}
+#learn .lesson-tab.active{background:#315c50;border-color:#315c50;color:#fff9e9}
+#learn .lesson-tab.active>span{color:#e1e6ce}
+#learn .lesson-tab:focus-visible,.theory-pagination button:focus-visible,.theory-table-wrap:focus-visible{outline:2px solid #577955;outline-offset:3px}
+#learn .lesson-detail{padding:25px 30px;min-width:0;min-height:0;max-width:1040px}
+.theory-chapter-label{font-size:11px;color:#6a7d6b;letter-spacing:.3px}
+#learn .lesson-detail h2{font-size:25px;line-height:1.5;margin:6px 0 12px;scroll-margin-top:18px}
+#theory-title:focus{outline:none}
+#learn .lesson-detail p{font-size:14px;line-height:1.95;color:#475f52;margin:8px 0;max-width:76ch}
+#learn .lesson-detail .theory-summary{padding:11px 14px;margin:0 0 21px;background:#eef2e5;border-left:3px solid #8ca57e;color:#284b3e;font-size:15px;line-height:1.8;max-width:none}
+.theory-section{margin:20px 0}
+.theory-section h3{font-size:16px;line-height:1.6;color:#2d5141;margin:0 0 9px;font-weight:600}
+.theory-terms{margin:0;font-size:14px;line-height:1.85}
+.theory-terms>div{display:grid;grid-template-columns:115px minmax(0,1fr);gap:14px;padding:8px 0;border-bottom:1px solid #e8ecdf}
+.theory-terms dt{font-weight:600;color:#345741;overflow-wrap:anywhere}
+.theory-terms dd{margin:0;color:#475f52;min-width:0;overflow-wrap:anywhere}
+.theory-steps{padding-left:23px;margin:7px 0;color:#475f52;font-size:14px;line-height:1.95}
+.theory-steps li{padding-left:3px;margin:7px 0}
+.theory-table-wrap{overflow-x:auto;max-width:100%;margin:10px 0;scrollbar-width:thin}
+.theory-table{border-collapse:collapse;width:100%;font-size:13px;line-height:1.8;color:#475f52;text-align:left}
+.theory-table th,.theory-table td{padding:9px 12px;border:1px solid #dce4d3;vertical-align:top;min-width:75px}
+.theory-table thead th{background:#edf2e5;font-weight:600;color:#355440}
+.theory-table tbody th{font-weight:500;background:#f7f9f2;color:#355440}
+#learn .lesson-example{padding:13px 16px;margin:22px 0 14px;font-size:14px;border-left:3px solid #a0b389;background:#f2f4e9}
+#learn .lesson-example>strong{font-size:12px;color:#587048;font-weight:600}
+#learn .lesson-example p{margin:5px 0 0;color:#3f5f48;white-space:pre-line}
+#learn .lesson-detail .lesson-tip{font-size:13px!important;line-height:1.9;color:#6b6447!important;padding-top:0}
+.lesson-tip>strong{display:block;font-size:11px;color:#8a7855;margin-bottom:2px}
+.theory-pagination{display:flex;justify-content:space-between;align-items:center;gap:10px;border-top:1px solid #e0e7d8;margin-top:23px;padding-top:13px}
+.theory-pagination button{font-size:12px;padding:7px 0;color:#3d6a50}
+.theory-pagination button:disabled{opacity:.4;cursor:default}
+.theory-pagination>span{font-size:11px;color:#748574}
+.theory-connections{display:flex;align-items:center;gap:8px 18px;flex-wrap:wrap;font-size:12px;margin:18px 0;padding:0 1px;color:#788878}
+.theory-connections a{color:#3d6850;text-decoration:underline;text-underline-offset:3px}
+.theory-return{margin:8px 0 0}.theory-return[hidden]{display:none}.theory-return button{font-size:12px;color:#3d6850;padding:5px 0}
+.theory-help{display:inline-flex;align-items:center;gap:4px;white-space:nowrap;font-size:11px;color:#57755d;text-decoration:underline;text-underline-offset:3px;flex-shrink:0}
+.page-heading>.theory-help{margin-left:auto}.planet-heading-tools>.theory-help{font-size:10px;color:#c5d5b2;padding:4px}
+.live-workspace-tools>.theory-help{color:#c5d5b2;font-size:10px;margin-left:auto}.human-heading>.theory-help{color:#c5d5b2;font-size:10px}
+@media(max-width:640px){.theory-help{font-size:10px}.page-heading>.theory-help{align-self:flex-start;margin-top:5px}.planet-heading-tools>.theory-help{padding:3px;font-size:9px}.theory-return{margin-top:5px}}
+.theory-review,.theory-sources{margin:12px 0;border:1px solid #dce4d3;border-radius:6px;padding:11px 15px;color:#526b52;background:#f8faf3}
+.theory-review>summary,.theory-sources>summary{cursor:pointer;font-size:12px;line-height:1.7;width:fit-content}
+.theory-review>summary>span{font-size:11px;margin-left:12px;color:#788874}
+#learn .theory-review .quiz-panel{border:0;border-radius:0;background:transparent;padding:14px 0 2px;margin:0}
+#learn .theory-review .section-title h2{font-size:16px;margin:0}
+.theory-sources p,.theory-sources li{font-size:12px;line-height:1.9;color:#5c705d}
+.theory-sources ul{padding-left:18px;margin-bottom:0}
+.theory-sources a{text-decoration:underline;text-underline-offset:3px;color:#3f6b4e}
+@media(max-width:1050px){#learn .learn-layout{grid-template-columns:180px minmax(0,1fr);gap:17px}#learn .lesson-tab{font-size:12px;padding:9px 8px}#learn .lesson-detail{padding:23px}.theory-terms>div{grid-template-columns:95px minmax(0,1fr);gap:10px}}
+@media(max-width:760px){#learn .learn-layout{grid-template-columns:minmax(0,1fr);gap:13px;margin-top:14px}.theory-index{position:static}.theory-index>p{margin:0 2px 7px;font-size:10px}#learn .lesson-tabs{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:4px}#learn .lesson-tab{background:#f2f5e9;padding:7px 9px;font-size:12px;min-height:37px;gap:7px}#learn .lesson-tab:last-child{grid-column:1/-1}#learn .lesson-detail{padding:19px 17px}#learn .lesson-detail h2{font-size:21px;scroll-margin-top:70px}#learn .lesson-detail p{font-size:14px;line-height:1.95}#learn .lesson-detail .theory-summary{font-size:14px;padding:10px 12px;margin-bottom:18px}.theory-section{margin:18px 0}.theory-section h3{font-size:15px}.theory-terms>div{grid-template-columns:1fr;gap:2px;padding:9px 0}.theory-table th,.theory-table td{padding:8px;min-width:70px}.theory-pagination button{font-size:11px}.theory-connections{font-size:11px;gap:9px 14px}.theory-connections>span{flex-basis:100%}.theory-review,.theory-sources{padding:10px 13px}}

@@ -1,0 +1,25 @@
+{
+  "name": "earth-time-lab",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check": "node --check dist/app.mjs && node --check dist/globe.mjs && node --check dist/globe-3d.mjs && node --check dist/globe-controls.mjs && node --check dist/common-time.mjs && node --check dist/time-engine.mjs && node --check dist/tour.mjs && node --check server.mjs && node --check dist/globe-lessons.mjs && node --check dist/globe-lessons-data.mjs && node --check dist/lesson-model.mjs && node --check dist/zone-geometry.mjs && node --check dist/routine-atlas.mjs && node --check dist/routine-atlas-model.mjs && node --check dist/routine-atlas-data.mjs && node --check dist/human-time.mjs && node --check dist/human-time-model.mjs && node --check dist/human-time-data.mjs && node --check dist/reset-time.mjs && node --check dist/reset-time-model.mjs && node --check dist/reset-time-data.mjs && node --check dist/live-time.mjs && node --check dist/live-time-model.mjs && node --check dist/live-time-voice.mjs && node --check dist/navigation-state.mjs && node --check dist/lesson-navigation.mjs && node --check dist/routine-person-store.mjs && node --check dist/audio-request-guard.mjs && node --check dist/time-context.mjs && node --check dist/planner-settings-store.mjs && node --check dist/local-time-reference.mjs && node --check dist/reset-announcement-model.mjs && node --check dist/reset-announcement.mjs && node --check dist/live-globe-model.mjs && node --check dist/app-version.mjs && node --check dist/app-version-model.mjs && node --check app-version-service.mjs && node --check dist/globe-canvas.mjs && node --check dist/globe-annotations.mjs && node --check dist/announcement-scenes.mjs && node --check dist/lesson-visual-model.mjs && node --check dist/announcement-relative-date.mjs && node --check dist/globe-label-model.mjs && node --check dist/lesson-semantic-cues.mjs && node --check dist/routine-voice-model.mjs && node --check dist/walkthrough-model.mjs && node --check dist/walkthrough.mjs && node --check dist/recorded-voice.mjs && node --check dist/recorded-narrations.mjs && node --check scripts/prepare-recorded-voice.mjs && node --check scripts/preview-pages.mjs && node --check scripts/build-pages.mjs && node --check scripts/export-public-audio.mjs",
+    "generate:tour": "node generate-tour.mjs",
+    "verify:tour": "node verify-tour.mjs",
+    "generate:lessons": "node generate-globe-lessons.mjs",
+    "verify:lessons": "node verify-globe-lessons.mjs",
+    "generate:routines": "node generate-routine-atlas.mjs",
+    "verify:routines": "node verify-routine-atlas.mjs",
+    "generate:human": "node generate-human-time.mjs",
+    "verify:human": "node verify-human-time.mjs",
+    "generate:resets": "node generate-reset-time.mjs",
+    "verify:resets": "node verify-reset-time.mjs",
+    "build:pages": "node scripts/build-pages.mjs",
+    "verify:pages": "node scripts/build-pages.mjs --verify",
+    "prepare:recorded": "node scripts/prepare-recorded-voice.mjs",
+    "preview:pages": "node scripts/preview-pages.mjs"
+  }
+}
