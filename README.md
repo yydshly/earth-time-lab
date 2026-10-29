@@ -7,6 +7,8 @@
 
 第一版知识总结图：[高清 PNG](docs/summary-timezones-routines-vector.png) · [可编辑 SVG](docs/summary-timezones-routines-vector.svg)。一图串起昼夜、时区、UTC 换算、人的作息、常见时间说法与跨国沟通；[来源与固定算例](docs/summary-timezones-routines-sources.json)随图保存。
 
+[![同刻知识总览：时区是什么、全球时间差异、人的作息与跨国沟通](docs/summary-timezones-routines-vector.png)](docs/summary-timezones-routines-vector.png)
+
 在线版完全静态运行，已包含 **185 段 MiniMax 预录音频**，无需 API 密钥。涉及当前时间、公告和个人设置时，语音讲解如何读屏幕，具体日期、钟点和换算结果由画面实时计算；在线版不实时生成语音，也不上传公告或个人作息供语音合成。
 
 ## 如何体验
