@@ -49,7 +49,9 @@ export function initLiveTime({globe,humanTime,resetTime,getInstant,navigate,onCl
   workspaceTools.append(viewBar,timeContext.element);workspaceTop.append(header,workspaceTools);earth.prepend(workspaceTop);
   const narration=document.createElement('section');narration.className='live-inline-narration';narration.hidden=true;
   narration.innerHTML='<div class="live-inline-cue"><p class="live-stage-current" aria-live="polite">同一瞬间，不同城市的钟表。</p><button type="button" id="live-stage-close" hidden>结束讲解</button></div>';
-  narration.append(voiceSlot);earth.append(surface,cityDock,narration);earth.classList.add('live-voice-entry');
+  // The other explore modes share this surface inside the reset scene. Keep
+  // that home intact; live mode flattens its wrappers into the workspace grid.
+  narration.append(voiceSlot);earth.append(cityDock,narration);earth.classList.add('live-voice-entry');
   const auxiliary=document.createElement('div');auxiliary.className='live-auxiliary';auxiliary.hidden=true;
   const referenceDetails=document.createElement('details');referenceDetails.className='live-auxiliary-section';referenceDetails.innerHTML='<summary>联系与避扰参考 <span>展开设置时段与查看 UTC 换算</span></summary>';referenceDetails.append(referencePanel);
   const regionDetails=document.createElement('details');regionDetails.className='live-auxiliary-section';regionDetails.innerHTML='<summary>更多地域与时间说法 <span>PT、ET、UTC 等规则与完整对照</span></summary>';regionDetails.append(panel);
