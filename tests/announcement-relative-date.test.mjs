@@ -35,6 +35,30 @@ test('tomorrow and Chinese morning clocks use the source publication day, not th
   }
 });
 
+test('Chinese relative evening clocks keep their PM meaning and source calendar date',()=>{
+  const samples=[
+    ['今晚9点 PT','2026-10-28','21:00','2026-10-29T04:00:00.000Z'],
+    ['明晚9点 PT','2026-10-29','21:00','2026-10-30T04:00:00.000Z'],
+    ['今夜9点半 PT','2026-10-28','21:30','2026-10-29T04:30:00.000Z'],
+    ['昨晚9时15分 PT','2026-10-27','21:15','2026-10-28T04:15:00.000Z'],
+  ];
+  for(const [text,date,time,instant]of samples){
+    const parsed=resolve(text);assert.equal(parsed.status,'recognized',text);
+    assert.equal(parsed.fields.date,date,text);assert.equal(parsed.fields.time,time,text);
+    assert.equal(calculate(parsed).instant.toISOString(),instant,text);
+  }
+  const deadline=resolve('明晚9点之前 PT');assert.equal(calculate(deadline).relation,'before');
+  assert.equal(calculate(deadline).instant.toISOString(),'2026-10-30T04:00:00.000Z');
+});
+
+test('relative evening dates do not override explicit AM/PM or silently choose a midnight boundary',()=>{
+  assert.equal(resolve('今晚 9 AM PT').fields.time,'09:00');
+  assert.equal(resolve('明晚 9 PM PT').fields.time,'21:00');
+  const ambiguousZone=resolve('今晚9点 CST');assert.equal(ambiguousZone.status,'incomplete');
+  assert.equal(ambiguousZone.fields.source,undefined);
+  for(const text of ['今晚12点 PT','明晚12点前 PT','今夜12点半 PT','昨晚12时 PT','今晚0点 PT','明晚0点半 PT'])assert.throws(()=>resolve(text),/跨日.*完整日期/,text);
+});
+
 test('today, yesterday and day-after-tomorrow resolve in the selected source clock',()=>{
   for(const [text,date]of [['Today at 10 AM PST.','2026-10-28'],['昨天 09:00 PT','2026-10-27'],['后天上午10点 PT','2026-10-30'],['The day after tomorrow at 09:00 PT','2026-10-30']])assert.equal(resolve(text).fields.date,date,text);
   const local=resolve('Tomorrow at 9 AM PST.','2026-10-29T07:30:00Z');

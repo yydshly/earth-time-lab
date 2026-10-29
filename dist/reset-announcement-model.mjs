@@ -192,11 +192,15 @@ function clockFrom(text){
     clocks.push({value:`${pad(h)}:${pad(minute)}`,raw:m[0]});
   }
   if(/\bnoon\b|正午/iu.test(remaining))clocks.push({value:'12:00',raw:'noon'});
-  for(const m of remaining.matchAll(/(凌晨|清晨|早上|上午|中午|下午|傍晚|晚上|晚间|午夜|半夜)?\s*(?<!\d)(\d{1,2})\s*(?:点|时)(?:(半)|([0-5]?\d)\s*分?)?(?![\d分])/gu)){
+  for(const m of remaining.matchAll(/(凌晨|清晨|早上|上午|中午|下午|傍晚|晚上|晚间|今晚|今夜|明晚|昨晚|午夜|半夜)?\s*(?<!\d)(\d{1,2})\s*(?:点|时)(?:(半)|([0-5]?\d)\s*分?)?(?![\d分])/gu)){
     let hour=Number(m[2]);const minute=m[3]?30:Number(m[4]||0),period=m[1];
     if(hour>23||minute>59)throw new RangeError('钟点应在 00:00–23:59 之间。');
     if(period&&hour>12)throw new RangeError('带上午／下午的钟点应在 0–12 点之间。');
-    if(['下午','傍晚','晚上','晚间'].includes(period))hour=hour%12+12;
+    // Relative evening words carry both a civil date and a PM period. A
+    // relative evening's 12 o'clock needs a date boundary, not its day's noon
+    // or start; ask for the explicit next-day date rather than choose one.
+    if(['今晚','今夜','明晚','昨晚'].includes(period)&&[0,12].includes(hour))throw new RangeError('晚间零点或 12 点涉及跨日，请确认次日的完整日期和 00:00、00:30 等具体钟点；若表示截止，请保留“之前”。');
+    if(['下午','傍晚','晚上','晚间','今晚','今夜','明晚','昨晚'].includes(period))hour=hour%12+12;
     if(['晚上','晚间'].includes(period)&&Number(m[2])===12)hour=0;
     if(['凌晨','清晨','早上','午夜','半夜'].includes(period)&&hour===12)hour=0;
     if(period==='中午'&&hour<11)hour=hour%12+12;
